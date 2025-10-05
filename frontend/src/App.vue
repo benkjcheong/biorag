@@ -7,7 +7,7 @@
     
     <SearchBox @search="handleSearch" :loading="loading" />
     
-    <SearchResults :results="results" :summary="summary" :loading="loading" :searched="searched" />
+    <SearchResults :results="uniqueResults" :summary="summary" :loading="loading" :searched="searched" />
   </div>
 </template>
 
@@ -28,6 +28,18 @@ export default {
       summary: '',
       loading: false,
       searched: false
+    }
+  },
+  computed: {
+    uniqueResults() {
+      const seen = new Set()
+      return this.results.filter(result => {
+        if (seen.has(result.pmc_id)) {
+          return false
+        }
+        seen.add(result.pmc_id)
+        return true
+      })
     }
   },
   methods: {
