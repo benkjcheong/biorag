@@ -1,0 +1,38 @@
+{
+  "publication": {
+    "pmc_id": "PMC9964234",
+    "title": "Designing a Novel Monitoring Approach for the Effects of Space Travel on Astronauts\u2019 Health",
+    "year": "2023",
+    "journal": "Life"
+  },
+  "authors": [
+    "Anurag Sakharkar",
+    "Jian Yang"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "microarray"
+    ],
+    "assays": [
+      "DEGseq analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "space travel",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "differentially expressed genes",
+      "magnitude": "log2 fold change"
+    }
+  ]
+}

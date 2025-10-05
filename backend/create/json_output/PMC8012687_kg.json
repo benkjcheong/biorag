@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC8012687",
+    "title": "Effects of Simulated Microgravity on the Proteome and Secretome of the Polyextremotolerant Black Fungus Knufia chersonesos",
+    "year": "2021",
+    "journal": "Frontiers in Genetics"
+  },
+  "authors": [
+    "Tesei, Donatella",
+    "Chiang, Abby J.",
+    "Kalkum, Markus",
+    "Stajich, Jason E.",
+    "Mohan, Ganesh Babu",
+    "Sterflinger, Katja",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Knufia chersonesos",
+      "K. petricola"
+    ],
+    "tissues": [
+      "mycelia",
+      "secretome"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "high-aspect-ratio vessels (HARVs)"
+    ],
+    "assays": [
+      "proteomic analyses"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "simulated microgravity",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "proteome",
+      "effect": "alterations in cell physiology",
+      "magnitude": null
+    },
+    {
+      "target": "secretome",
+      "effect": "upregulation of scytalone dehydratase, downregulation of several proteins in the mutant",
+      "magnitude": null
+    }
+  ]
+}

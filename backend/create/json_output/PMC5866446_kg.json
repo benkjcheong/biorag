@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC5866446",
+    "title": "Effects of age and exercise training on coronary microvascular smooth muscle phenotype and function",
+    "year": "2018",
+    "journal": "Journal of Applied Physiology"
+  },
+  "authors": [
+    "Judy M Muller-Delp",
+    "Kazuki Hotta",
+    "Bei Chen",
+    "Bradley J Behnke",
+    "Joshua J Maraj",
+    "Michael D Delp",
+    "Tiffani R Lucero",
+    "Jeremy A Bramy",
+    "David B Alarcon",
+    "Hannah E Morgan",
+    "Morgan R Cowan",
+    "Anthony D Haynes"
+  ],
+  "subjects": {
+    "species": [
+      "Fischer 344 rat"
+    ],
+    "tissues": [
+      "coronary arterioles"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "isolated coronary arterioles"
+    ],
+    "assays": [
+      "contractile responses",
+      "vascular smooth muscle proliferation",
+      "expression of contractile proteins"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "exercise training",
+      "dose": "10 weeks",
+      "duration": "10 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "contractile function",
+      "effect": "impaired in aged rats",
+      "magnitude": "decreased contractility"
+    },
+    {
+      "target": "vascular smooth muscle phenotype",
+      "effect": "shift from contractile to secretory",
+      "magnitude": "increased proliferation, decreased SM1 expression"
+    }
+  ]
+}

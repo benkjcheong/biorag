@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC3615599",
+    "title": "Differential effects of aging and exercise on intra-abdominal adipose arteriolar function and blood flow regulation",
+    "year": "2013",
+    "journal": "Journal of Applied Physiology"
+  },
+  "authors": [
+    "Robert T Davis III",
+    "John N Stabley",
+    "James M Dominguez II",
+    "Michael W Ramsey",
+    "Danielle J McCullough",
+    "Lisa A Lesniewski",
+    "Michael D Delp",
+    "Brad J Behnke"
+  ],
+  "subjects": {
+    "species": [
+      "Fischer 344 rats"
+    ],
+    "tissues": [
+      "adipose tissue (AT)",
+      "intra-abdominal AT"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo",
+      "in vitro"
+    ],
+    "assays": [
+      "blood flow measurement",
+      "\u03b1-adrenergic and myogenic vasoconstrictor responses"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "exercise training",
+      "dose": "10-12 weeks of treadmill exercise",
+      "duration": "10-12 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "blood flow at rest and during exercise",
+      "effect": "increased perfusion in old sedentary group (OSed)",
+      "magnitude": "\u223c150% increase"
+    },
+    {
+      "target": "\u03b1-adrenergic and myogenic vasoconstriction",
+      "effect": "diminished in OSed vs. YSed AT-resistance arteries",
+      "magnitude": "decreased"
+    },
+    {
+      "target": "blood flow at rest and during exercise",
+      "effect": "similar hyperemic response between age groups during exercise (YET, 9.9 \u00b1 0.5 ml\u00b7min\u22121\u00b7100\u22121 g; OET, 8.1 \u00b1 0.9 ml\u00b7min\u22121\u00b7100\u22121 g)",
+      "magnitude": "similar"
+    },
+    {
+      "target": "vasoconstriction",
+      "effect": "enhanced in OET group relative to OSed",
+      "magnitude": "increased"
+    }
+  ]
+}

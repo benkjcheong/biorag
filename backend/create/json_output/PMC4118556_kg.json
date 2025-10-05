@@ -1,0 +1,70 @@
+{
+  "publication": {
+    "pmc_id": "PMC4118556",
+    "title": "Partial Reductions in Mechanical Loading Yield Proportional Changes in Bone Density, Bone Architecture, and Muscle Mass",
+    "year": "2013",
+    "journal": "J Bone Miner Res"
+  },
+  "authors": [
+    "Ellman, Rachel",
+    "Spatz, Jordan",
+    "Cloutier, Alison",
+    "Palme, Rupert",
+    "Christiansen, Blaine A",
+    "Bouxsein, Mary L"
+  ],
+  "subjects": {
+    "species": [
+      "C57Bl/6 mouse"
+    ],
+    "tissues": [
+      "bone",
+      "muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "partial weight suspension (PWS) system"
+    ],
+    "assays": [
+      "dual-energy X-ray absorptiometry (DXA)",
+      "micro\u2013computed tomography (\u03bcCT)",
+      "mechanical testing",
+      "muscle mass measurements"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "partial weight bearing",
+      "dose": "20%, 40%, 70% of body weight",
+      "duration": "21 days"
+    },
+    {
+      "agent": "hindlimb unloaded (HLU)",
+      "dose": null,
+      "duration": "21 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "total body bone mineral density",
+      "effect": "linear relationship with degree of unloading",
+      "magnitude": "proportional changes"
+    },
+    {
+      "target": "calf muscle mass",
+      "effect": "significant atrophy",
+      "magnitude": "proportionally related to weight bearing"
+    },
+    {
+      "target": "trabecular bone volume of the distal femur",
+      "effect": "linear relationship with degree of unloading",
+      "magnitude": "proportional changes"
+    },
+    {
+      "target": "cortical area of the femur midshaft",
+      "effect": "significant deterioration",
+      "magnitude": "proportionally related to weight bearing"
+    }
+  ]
+}

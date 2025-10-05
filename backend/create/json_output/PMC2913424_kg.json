@@ -1,0 +1,38 @@
+{
+  "publication": {
+    "pmc_id": "PMC2913424",
+    "title": "The Living Cell as a Mechanical Structure",
+    "year": "2010",
+    "journal": "Ann Biomedical Engineering"
+  },
+  "authors": [
+    "Donald E Ingber"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "cell",
+      "tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "silicon rubber"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "",
+      "dose": "",
+      "duration": ""
+    }
+  ],
+  "results": [
+    {
+      "target": "cell shape",
+      "effect": "tensional forces",
+      "magnitude": "compressive wrinkles"
+    }
+  ]
+}

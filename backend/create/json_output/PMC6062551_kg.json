@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC6062551",
+    "title": "Spaceflight alters the developmental status, proliferative potential and migratory ability of heart stem cells.",
+    "year": "2018",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Baio Jonathan",
+    "Martinez Aida F",
+    "Silva Ivan",
+    "Hoehn Carla V",
+    "Countryman Stephanie",
+    "Bailey Leonard",
+    "Hasaniya Nahidh",
+    "Pecaut Michael J",
+    "Kearns-Jonker Mary"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "cardiovascular progenitor cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station"
+    ],
+    "assays": [
+      "microRNA expression analysis",
+      "gene expression analysis",
+      "endothelial-like tube formation",
+      "cell cycling",
+      "migratory capacity"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "12 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "microRNA expression",
+      "effect": "altered expression patterns",
+      "magnitude": "significant changes"
+    },
+    {
+      "target": "gene expression",
+      "effect": "changes in gene expression profiles",
+      "magnitude": "significant alterations"
+    },
+    {
+      "target": "endothelial-like tube formation",
+      "effect": "altered tube formation capacity",
+      "magnitude": "reduced capacity"
+    },
+    {
+      "target": "cell cycling",
+      "effect": "changes in cell cycle progression",
+      "magnitude": "increased proliferation potential"
+    },
+    {
+      "target": "migratory capacity",
+      "effect": "enhanced migratory ability",
+      "magnitude": "increased migration"
+    }
+  ]
+}

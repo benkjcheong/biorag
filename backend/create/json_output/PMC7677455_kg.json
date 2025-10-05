@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC7677455",
+    "title": "Assessing the Risk of Transfer of Microorganisms at the International Space Station Due to Cargo Delivery by Commercial Resupply Vehicles",
+    "year": "2020",
+    "journal": "Frontiers in Microbiology"
+  },
+  "authors": [
+    "Mhatre, Snehit",
+    "Wood, Jason M.",
+    "Sielaff, Aleksandra Checinska",
+    "Mora, Maximilian",
+    "Duller, Stefanie",
+    "Singh, Nitin Kumar",
+    "Karouia, Fathi",
+    "Moissl-Eichinger, Christine",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Actinobacteria",
+      "Proteobacteria",
+      "Firmicutes",
+      "Bacteroidetes",
+      "Ascomycota",
+      "Basidiomycota"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "internal surfaces of vehicles",
+      "ground support equipment",
+      "cultivation assays"
+    ],
+    "assays": [
+      "shotgun metagenome analyses"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "microbial diversity",
+      "effect": "presence of microorganisms",
+      "magnitude": "order of magnitude difference in microbial population"
+    },
+    {
+      "target": "microbiome composition",
+      "effect": "significant differences between CRV and ISS microbiomes",
+      "magnitude": "distinct clustering of CRV microbiome"
+    }
+  ]
+}

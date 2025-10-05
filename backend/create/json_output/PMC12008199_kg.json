@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC12008199",
+    "title": "Mechanosensing antagonizes ethylene signaling to promote root gravitropism in rice",
+    "year": "2025",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Wang, Han-Qing",
+    "Zhao, Xing-Yu",
+    "Tang, Zhong",
+    "Huang, Xin-Yuan",
+    "Wang, Peng",
+    "Zhang, Wenhua",
+    "Zhang, Yunhui",
+    "Luan, Sheng",
+    "Zhao, Fang-Jie"
+  ],
+  "subjects": {
+    "species": [
+      "Oryza sativa"
+    ],
+    "tissues": [
+      "root cap",
+      "root tip"
+    ],
+    "plant_hormones": [
+      "ethylene",
+      "auxin"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hydroponics",
+      "soil"
+    ],
+    "assays": [
+      "root gravitropism assay",
+      "reactive oxygen species (ROS) measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "gentle mechanical resistance to root tips",
+      "dose": "applied gently",
+      "duration": "during growth in water-saturated paddy soil"
+    }
+  ],
+  "results": [
+    {
+      "target": "root gravitropism",
+      "effect": "altered",
+      "magnitude": "reduced ethylene signaling"
+    },
+    {
+      "target": "root cap stability",
+      "effect": "impaired",
+      "magnitude": "decreased"
+    },
+    {
+      "target": "OsPIN2 polar localization",
+      "effect": "altered",
+      "magnitude": "changed"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "publication": {
+    "pmc_id": "PMC5666834",
+    "title": "Redox Signaling and Its Impact on Skeletal and Vascular Responses to Spaceflight",
+    "year": "2017",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Candice G T Tahimic",
+    "Ruth K Globus"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone",
+      "vasculature",
+      "liver",
+      "ocular tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Spaceflight",
+      "Ground-based simulations"
+    ],
+    "assays": [
+      "8-iso-PGF2\u03b1 excretion",
+      "8-OHdG excretion",
+      "Cardiac gene expression of mitochondrial redox-related enzymes",
+      "Heart mass",
+      "Vasculature",
+      "Liver antioxidant gene expression and markers of oxidative damage",
+      "Ocular tissue damage",
+      "Vascular endothelial cell response to oxidative stress and apoptosis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "6 days (short-duration spaceflight)",
+      "duration_unit": "days"
+    }
+  ],
+  "results": [
+    {
+      "target": "8-iso-PGF2\u03b1 excretion",
+      "effect": "Increased",
+      "magnitude": null
+    },
+    {
+      "target": "8-OHdG excretion",
+      "effect": "Increased",
+      "magnitude": null
+    },
+    {
+      "target": "Cardiac gene expression of mitochondrial redox-related enzymes",
+      "effect": "Increased",
+      "magnitude": null
+    },
+    {
+      "target": "Heart mass",
+      "effect": "No changes",
+      "magnitude": null
+    },
+    {
+      "target": "Vasculature",
+      "effect": "Altered",
+      "magnitude": null
+    },
+    {
+      "target": "Liver antioxidant gene expression and markers of oxidative damage",
+      "effect": "Increased",
+      "magnitude": null
+    },
+    {
+      "target": "Ocular tissue damage",
+      "effect": "Altered",
+      "magnitude": null
+    },
+    {
+      "target": "Vascular endothelial cell response to oxidative stress and apoptosis",
+      "effect": "Altered",
+      "magnitude": null
+    }
+  ]
+}

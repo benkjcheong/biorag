@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC5648920",
+    "title": "Cultivation in Space Flight Produces Minimal Alterations in the Susceptibility of Bacillus subtilis Cells to 72 Different Antibiotics and Growth-Inhibiting Compounds",
+    "year": "2017",
+    "journal": "Applied and Environmental Microbiology"
+  },
+  "authors": [
+    "Morrison MD",
+    "Fajardo-Cavazos P",
+    "Nicholson WL"
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus subtilis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Earth-normal gravity (ground control)"
+    ],
+    "assays": [
+      "Omnilog phenotype microarray (PM) system",
+      "broth dilution assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured antibiotic susceptibility",
+      "effect": "minimal alterations in susceptibility",
+      "magnitude": null
+    }
+  ]
+}

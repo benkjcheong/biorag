@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC4340379",
+    "title": "Trimeric Structure of (+)-Pinoresinol-forming Dirigent Protein at 1.95 \u212b Resolution with Three Isolated Active Sites*",
+    "year": "2015",
+    "journal": "Journal of Biological Chemistry"
+  },
+  "authors": [
+    "Kye-Won Kim",
+    "Clyde A Smith",
+    "Michael D Daily",
+    "John R Cort",
+    "Laurence B Davin",
+    "Norman G Lewis"
+  ],
+  "subjects": {
+    "species": [
+      "pea (P. sativum)"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "microbatch under oil method",
+      "crystallization",
+      "X-ray data collection"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "PsDRR206 structure",
+      "effect": "obtained at 1.95 \u212b resolution",
+      "magnitude": "rhombohedral space group H32"
+    }
+  ]
+}

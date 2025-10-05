@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC9953055",
+    "title": "Oligodendrocyte Progenitors Display Enhanced Proliferation and Autophagy after Space Flight",
+    "year": "2023",
+    "journal": "Biomolecules"
+  },
+  "authors": [
+    "Victoria Tran",
+    "Nicholas Carpo",
+    "Carlos Cepeda",
+    "Araceli Espinosa-Jeffrey",
+    "Daniela Grimm"
+  ],
+  "subjects": {
+    "species": [
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "oligodendrocyte progenitors"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "time-lapse microscopy",
+      "OSM (oligodendrocyte specification medium)",
+      "N2 + B27",
+      "welcoming medium (WM)"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "space flight",
+      "dose": null,
+      "duration": "38 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "proliferation rate of OLPs",
+      "effect": "increased proliferation",
+      "magnitude": null
+    },
+    {
+      "target": "autophagic cell death",
+      "effect": "significant increase",
+      "magnitude": null
+    },
+    {
+      "target": "secretome of OLPs",
+      "effect": "upregulation of HSP-90\u03b2 and SPARC",
+      "magnitude": null
+    }
+  ]
+}

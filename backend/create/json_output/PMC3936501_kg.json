@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC3936501",
+    "title": "Functional Consequences of Radiation-Induced Oxidative Stress in Cultured Neural Stem Cells and the Brain Exposed to Charged Particle Irradiation",
+    "year": "2014",
+    "journal": "Antioxid Redox Signal"
+  },
+  "authors": [
+    "Bertrand P Tseng",
+    "Erich Giedzinski",
+    "Atefeh Izadi",
+    "Tatiana Suarez",
+    "Mary L Lan",
+    "Katherine K Tran",
+    "Munjal M Acharya",
+    "Gregory A Nelson",
+    "Jacob Raber",
+    "Vipan K Parihar",
+    "Charles L Limoli"
+  ],
+  "subjects": {
+    "species": [
+      "neural stem cells",
+      "precursor cells",
+      "mice"
+    ],
+    "tissues": [
+      "brain",
+      "CNS"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "cultured",
+      "in vitro"
+    ],
+    "assays": [
+      "oxidative stress measurement",
+      "cognitive impairment assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "charged particle irradiation",
+      "dose": "<1 Gy",
+      "duration": "acute and persistent"
+    }
+  ],
+  "results": [
+    {
+      "target": "oxidative stress",
+      "effect": "increased levels of reactive oxygen and nitrogen species",
+      "magnitude": "dose-dependent"
+    },
+    {
+      "target": "cognitive impairment",
+      "effect": "impaired novel object recognition",
+      "magnitude": "significant decrease in performance"
+    }
+  ]
+}

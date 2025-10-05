@@ -1,0 +1,79 @@
+{
+  "publication": {
+    "pmc_id": "PMC11869762",
+    "title": "Ginsenoside Reshapes Intestinal Microecology to Alleviate Microgravity Stress",
+    "year": "2025",
+    "journal": "Drug Des Devel Ther"
+  },
+  "authors": [
+    "Wang Yanli",
+    "Chen Tian",
+    "Shi Zhe",
+    "Dong Lijinchuan",
+    "Li Mengting",
+    "Peng Bo",
+    "Li Qi",
+    "Pan Ruile",
+    "Xiao Shuiming",
+    "Yang Qing",
+    "Jiang Ning",
+    "Liu Xinmin",
+    "Hu Qin",
+    "Chen Ying"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "intestine",
+      "gut"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNA-Seq",
+      "RT-PCR",
+      "16S rRNA gene amplicon sequencing"
+    ],
+    "assays": [
+      "measuring intestinal injury",
+      "measuring tight junction protein expression",
+      "measuring inflammatory factor levels",
+      "analyzing gut microbiome composition",
+      "analyzing short-chain fatty acids"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Ginsenoside Reshapes",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "intestinal injury",
+      "effect": "reduced",
+      "magnitude": "null"
+    },
+    {
+      "target": "tight junction protein expression",
+      "effect": "increased",
+      "magnitude": "null"
+    },
+    {
+      "target": "inflammatory factor levels",
+      "effect": "reduced",
+      "magnitude": "null"
+    },
+    {
+      "target": "gut microbiome composition",
+      "effect": "remodelled",
+      "magnitude": "null"
+    },
+    {
+      "target": "short-chain fatty acids",
+      "effect": "increased",
+      "magnitude": "null"
+    }
+  ]
+}

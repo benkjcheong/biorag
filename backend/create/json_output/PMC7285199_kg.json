@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC7285199",
+    "title": "Tart Cherry Increases Lifespan in Caenorhabditis elegans by Altering Metabolic Signaling Pathways",
+    "year": "2020",
+    "journal": "Nutrients"
+  },
+  "authors": [
+    "Shasika Jayarathne",
+    "Latha Ramalingam",
+    "Hunter Edwards",
+    "Siva A Vanapalli",
+    "Naima Moustaid-Moussa"
+  ],
+  "subjects": {
+    "species": [
+      "C. elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "N2 worms"
+    ],
+    "assays": [
+      "lifespan assay",
+      "gene expression analysis",
+      "spare respiration assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "tart cherry extract (TCE)",
+      "dose": "6 \u03bcg or 12 \u03bcg/mL",
+      "duration": "daily"
+    }
+  ],
+  "results": [
+    {
+      "target": "lifespan",
+      "effect": "increased",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "gene expression",
+      "effect": "upregulated",
+      "magnitude": "p < 0.05"
+    },
+    {
+      "target": "spare respiration",
+      "effect": "increased",
+      "magnitude": "significant increase"
+    }
+  ]
+}

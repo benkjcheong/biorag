@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC6706399",
+    "title": "Longitudinal time course of muscle impairments during partial weight-bearing in rats",
+    "year": "2019",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Mortreux, Marie",
+    "Ko, Frank C",
+    "Riveros, Daniela",
+    "Bouxsein, Mary L",
+    "Rutkove, Seward B"
+  ],
+  "subjects": {
+    "species": [
+      "rat"
+    ],
+    "tissues": [
+      "calf"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "tail-suspension",
+      "body harness"
+    ],
+    "assays": [
+      "grip force",
+      "calves circumference"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "partial weight-bearing (PWB)",
+      "dose": "70%, 40%, 20% of normal loading",
+      "duration": "up to 4 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "calf circumference",
+      "effect": "decreased significantly in PWB groups compared to control group",
+      "magnitude": "significant decrease"
+    },
+    {
+      "target": "grip force",
+      "effect": "significantly lower in all PWB groups compared to control group",
+      "magnitude": "significant difference"
+    }
+  ]
+}

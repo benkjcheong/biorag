@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC11063234",
+    "title": "Proteomic and phosphoproteomic characterization of cardiovascular tissues after long term exposure to simulated space radiation",
+    "year": "2024",
+    "journal": "Front Physiol"
+  },
+  "authors": [
+    "Kidane, Yared H.",
+    "Lee, Franklin H.",
+    "Smith, Matthew F.",
+    "Wang, Chunbo",
+    "Mirza, Jacqueline Barbera",
+    "Sharma, Saachi",
+    "Lobo, Alejandro A.",
+    "Dewan, Krish C.",
+    "Chen, Jengwei",
+    "Diaz, Thomas E.",
+    "Mendiola Pla, Michelle",
+    "Foster, Matthew W.",
+    "Bowles, Dawn E."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "heart",
+      "plasma"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "mass spectrometry"
+    ],
+    "assays": [
+      "proteomics analysis",
+      "phosphoproteomics analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "GCR5-ion",
+      "dose": "single dose",
+      "duration": "long term"
+    }
+  ],
+  "results": [
+    {
+      "target": "heart proteome",
+      "effect": "differentially expressed proteins (DEPs)",
+      "magnitude": "fold-change \u22651.2 and an adjusted p-value of \u22640.05"
+    },
+    {
+      "target": "heart phosphoproteome",
+      "effect": "differentially phosphorylated peptides (DEPs)",
+      "magnitude": "17 upregulated and 43 downregulated"
+    },
+    {
+      "target": "plasma proteome",
+      "effect": "one upregulated protein",
+      "magnitude": "single upregulated protein"
+    }
+  ]
+}

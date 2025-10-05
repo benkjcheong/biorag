@@ -1,0 +1,42 @@
+{
+  "publication": {
+    "pmc_id": "PMC8113475",
+    "title": "Rad-Bio-App: a discovery environment for biologists to explore spaceflight-related radiation exposures",
+    "year": "2021",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Richard Barker",
+    "Sylvain V Costes",
+    "Jack Miller",
+    "Samrawit G Gebre",
+    "Jonathan Lombardino",
+    "Simon Gilroy"
+  ],
+  "subjects": {
+    "species": [
+      "Deinococcus"
+    ],
+    "tissues": [
+      "harderian gland"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "ionizing radiation",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "biological effectiveness",
+      "effect": "cancer induction",
+      "magnitude": "40 times higher"
+    }
+  ]
+}

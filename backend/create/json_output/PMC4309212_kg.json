@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC4309212",
+    "title": "Genes Required for Survival in Microgravity Revealed by Genome-Wide Yeast Deletion Collections Cultured during Spaceflight",
+    "year": "2015",
+    "journal": "BioMed Research International"
+  },
+  "authors": [
+    "Nislow, Corey",
+    "Lee, Anna Y.",
+    "Allen, Patricia L.",
+    "Giaever, Guri",
+    "Smith, Andrew",
+    "Gebbia, Marinella",
+    "Stodieck, Louis S.",
+    "Hammond, Jeffrey S.",
+    "Birdsall, Holly H.",
+    "Hammond, Timothy G."
+  ],
+  "subjects": {
+    "species": [
+      "Saccharomyces cerevisiae"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "spaceflight",
+      "ground"
+    ],
+    "assays": [
+      "fitness",
+      "survival",
+      "DNA-damaging agents",
+      "redox state changes"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "hyperosmolar sodium chloride",
+      "dose": "plus or minus",
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "fitness",
+      "effect": "spaceflight effects on yeast fitness",
+      "magnitude": "Concordance with DNA-damaging agents and redox state changes"
+    }
+  ]
+}

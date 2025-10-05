@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC7996555",
+    "title": "Network Analysis of Gene Transcriptions of Arabidopsis thaliana in Spaceflight Microgravity",
+    "year": "2021",
+    "journal": "Genes (Basel)"
+  },
+  "authors": [
+    "Vidya Manian",
+    "Jairo Orozco",
+    "Harshini Gangapuram",
+    "Heeralal Janwa",
+    "Carlos Agrinsoni"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "GeneLab"
+    ],
+    "assays": [
+      "Transcriptomic analysis",
+      "Network analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight microgravity",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "altered in spaceflight microgravity",
+      "magnitude": "significant changes"
+    },
+    {
+      "target": "hub genes",
+      "effect": "differentially expressed",
+      "magnitude": "higher outdegree distribution"
+    }
+  ]
+}

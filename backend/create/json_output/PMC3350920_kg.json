@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC3350920",
+    "title": "The 14-3-3 proteins of Arabidopsis regulate root growth and chloroplast development as components of the photosensory system",
+    "year": "2012",
+    "journal": "Journal of Experimental Botany"
+  },
+  "authors": [
+    "John D Mayfield",
+    "Anna-Lisa Paul",
+    "Robert J Ferl"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "roots",
+      "chloroplasts"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "red light",
+      "far-red light",
+      "blue light",
+      "dark"
+    ],
+    "assays": [
+      "root length measurement",
+      "chloroplast development analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "T-DNA insertion",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "root length",
+      "effect": "shorter roots",
+      "magnitude": null
+    },
+    {
+      "target": "chloroplast development",
+      "effect": "enhanced chloroplast development",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC10342025",
+    "title": "The Impact of SRT2104 on Skeletal Muscle Mitochondrial Function, Redox Biology, and Loss of Muscle Mass in Hindlimb Unloaded Rats",
+    "year": "2023",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Lauren T Wesolowski",
+    "Jessica L Simons",
+    "Pier L Semanchik",
+    "Mariam A Othman",
+    "Joo-Hyun Kim",
+    "John M Lawler",
+    "Khaled Y Kamal",
+    "Sarah H White-Springer",
+    "Riccardo Alessandro"
+  ],
+  "subjects": {
+    "species": [
+      "rat"
+    ],
+    "tissues": [
+      "skeletal muscle",
+      "soleus muscle",
+      "gastrocnemius muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading"
+    ],
+    "assays": [
+      "high-resolution respirometry",
+      "colorimetry",
+      "H2O2 production quantification",
+      "oxidative and antioxidant enzyme activity quantification"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "SRT2104",
+      "dose": "unknown",
+      "duration": "10 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "mitochondrial function",
+      "effect": "preserved",
+      "magnitude": "reduced oxidative stress, increased antioxidant enzyme activity"
+    },
+    {
+      "target": "H2O2 production",
+      "effect": "increased",
+      "magnitude": "greater in SIRT than HU or CON"
+    }
+  ]
+}

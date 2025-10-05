@@ -1,0 +1,74 @@
+{
+  "publication": {
+    "pmc_id": "PMC4152162",
+    "title": "The effect of spaceflight on mouse olfactory bulb volume, neurogenesis, and cell death",
+    "year": "2014",
+    "journal": "Journal of Applied Physiology"
+  },
+  "authors": [
+    "Latchney, Sarah E.",
+    "Rivera, Phillip D.",
+    "Mao, Xiao W.",
+    "Ferguson, Virginia L.",
+    "Bateman, Ted A.",
+    "Stodieck, Louis S.",
+    "Nelson, Gregory A.",
+    "Eisch, Amelia J."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "olfactory bulb"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Space Shuttle Atlantis",
+      "Animal enclosure modules (AEM)",
+      "Vivarium"
+    ],
+    "assays": [
+      "OB volume measurement",
+      "neurogenesis assessment",
+      "cell death quantification",
+      "doublecortin immunohistochemistry",
+      "activated caspase-3 staining"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight (STS-135)",
+      "dose": null,
+      "duration": "13 days"
+    },
+    {
+      "agent": "Earth control (AEM-Ground mice)",
+      "dose": null,
+      "duration": "control period"
+    },
+    {
+      "agent": "Earth control (Vivarium mice)",
+      "dose": null,
+      "duration": "control period"
+    }
+  ],
+  "results": [
+    {
+      "target": "OB volume",
+      "effect": "increased in AEM-Ground mice relative to Vivarium mice",
+      "magnitude": "greater OB volume"
+    },
+    {
+      "target": "neurogenesis",
+      "effect": "increased in AEM-Ground mice relative to Vivarium mice",
+      "magnitude": "more neuroblasts"
+    },
+    {
+      "target": "cell death",
+      "effect": "decreased in AEM-Ground mice relative to Vivarium mice",
+      "magnitude": "fewer apoptotic cells"
+    }
+  ]
+}

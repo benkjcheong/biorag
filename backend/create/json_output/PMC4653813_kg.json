@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC4653813",
+    "title": "Spaceflight and hind limb unloading induce similar changes in electrical impedance characteristics of mouse gastrocnemius muscle",
+    "year": "2013",
+    "journal": "Journal of Musculoskeletal Neuronal Interactions"
+  },
+  "authors": [
+    "Sung M",
+    "Li J",
+    "Spieker AJ",
+    "Spatz J",
+    "Ellman R",
+    "Ferguson VL",
+    "Bateman TA",
+    "Rosen GD",
+    "Bouxsein M",
+    "Rutkove SB"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "gastrocnemius muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ex vivo"
+    ],
+    "assays": [
+      "electrical impedance myography (EIM)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hind limb unloading",
+      "dose": null,
+      "duration": "13 days"
+    },
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "13 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "multifrequency phase-slope parameter",
+      "effect": "reduction",
+      "magnitude": "significant decrease"
+    }
+  ]
+}

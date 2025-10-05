@@ -1,0 +1,68 @@
+{
+  "publication": {
+    "pmc_id": "PMC10370681",
+    "title": "Wild mouse gut microbiota limits initial tuberculosis infection in BALB/c mice",
+    "year": "2023",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Xie, Min",
+    "Tsai, Chen-Yu",
+    "McAdams, Zachary L.",
+    "Oo, Myo",
+    "Hansen, Mark",
+    "Dougher, Maureen",
+    "Sansano, Alexander",
+    "Watson, Anderson",
+    "LoMauro, Katherine",
+    "Antilus-Sainte, Rosleine",
+    "Ericsson, Aaron",
+    "Dartois, V\u00e9ronique",
+    "Gengenbacher, Martin",
+    "Izzo, Angelo A."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus",
+      "BALB/c mice"
+    ],
+    "tissues": [
+      "lung",
+      "spleen"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo",
+      "immunopathology"
+    ],
+    "assays": [
+      "histopathology",
+      "T cell response"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "wild mouse gut microbiota",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "TB infection control",
+      "effect": "improved",
+      "magnitude": "better control of initial TB infection"
+    },
+    {
+      "target": "gut microbiota composition",
+      "effect": "significant differences in composition",
+      "magnitude": null
+    },
+    {
+      "target": "lung histopathology",
+      "effect": "similar to LabC mice",
+      "magnitude": null
+    }
+  ]
+}

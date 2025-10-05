@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC11094041",
+    "title": "The Second Space Age: Omics, Platforms, and Medicine Across Orbits",
+    "year": "2023",
+    "journal": "Nature"
+  },
+  "authors": [
+    "Sanders, Lauren M.",
+    "Grigorev, Kirill A.",
+    "Scott, Ryan T.",
+    "Saravia-Butler, Amanda M.",
+    "Polo, San-huei Lai",
+    "Gilbert, Rachel",
+    "Overbey, Eliah G.",
+    "Kim, JangKeun",
+    "Mason, Christopher E.",
+    "Costes, Sylvain V."
+  ],
+  "subjects": {
+    "species": [
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "muscle",
+      "blood",
+      "brain",
+      "lung",
+      "liver"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "SpaceX Inspiration4 (I4) mission",
+      "OSDR",
+      "GLOpenAPI"
+    ],
+    "assays": [
+      "omics",
+      "clinical assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "SpaceX Inspiration4 (I4) mission",
+      "dose": "N/A",
+      "duration": "N/A"
+    }
+  ],
+  "results": [
+    {
+      "target": "biological measurements",
+      "effect": "spaceflight-induced biological responses",
+      "magnitude": "N/A"
+    }
+  ]
+}

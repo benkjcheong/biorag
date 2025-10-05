@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC10846184",
+    "title": "Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics",
+    "year": "2024",
+    "journal": "Microbiol Spectr."
+  },
+  "authors": [
+    "Georgios Marinos",
+    "Inga K Hamerich",
+    "Reena Debray",
+    "Nancy Obeng",
+    "Carola Petersen",
+    "Jan Taubenheim",
+    "Johannes Zimmermann",
+    "Dana Blackburn",
+    "Buck S Samuel",
+    "Katja Dierking",
+    "Andre Franke",
+    "Matthias Laudes",
+    "Silvio Waschina",
+    "Hinrich Schulenburg",
+    "Christoph Kaleta",
+    "Paul A Jensen"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "None",
+      "effect": "None",
+      "magnitude": "None"
+    }
+  ]
+}

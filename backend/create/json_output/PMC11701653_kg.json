@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC11701653",
+    "title": "The NASA Open Science Data Repository: A New Platform for Space Biology and Health Research",
+    "year": "2024",
+    "journal": "Nucleic Acids Research"
+  },
+  "authors": [
+    "Gebre, S. G.",
+    "Scott, R. T.",
+    "Saravia-Butler, A. M.",
+    "Lopez, D. K.",
+    "Sanders, L. M.",
+    "Costes, S. V."
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "GeneLab",
+      "ALSDA",
+      "AWS"
+    ],
+    "assays": [
+      "mitochondrial dysfunction",
+      "short duration spaceflight on human health",
+      "kidney dysfunction",
+      "endocrinology",
+      "carbon dioxide impact",
+      "skin health",
+      "liver lipid dysregulation",
+      "gut microbiome"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "biological data",
+      "effect": "spaceflight impact on biological systems",
+      "magnitude": null
+    }
+  ]
+}

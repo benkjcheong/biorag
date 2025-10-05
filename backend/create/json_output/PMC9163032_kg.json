@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC9163032",
+    "title": "\u03b1Klotho decreases after reduced weight-bearing from both spaceflight and hindlimb unloading",
+    "year": "2022",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Willey, Jeffrey S.",
+    "Aunon-Chancellor, Serena",
+    "Miles, Lauren A.",
+    "Moore, Joseph E.",
+    "Mao, Xiao W.",
+    "Wallace, Robert W.",
+    "Foy, Matthew C."
+  ],
+  "subjects": {
+    "species": [
+      "mice"
+    ],
+    "tissues": [
+      "skeletal",
+      "kidney"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "hindlimb unloading (HU)"
+    ],
+    "assays": [
+      "plasma \u03b1Klotho measurement",
+      "gastrocnemius muscle mass measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight aboard the ISS",
+      "dose": null,
+      "duration": "35 days"
+    },
+    {
+      "agent": "hindlimb unloading (HU)",
+      "dose": null,
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "plasma \u03b1Klotho",
+      "effect": "decrease",
+      "magnitude": "50%"
+    },
+    {
+      "target": "gastrocnemius muscle mass",
+      "effect": "lower",
+      "magnitude": null
+    },
+    {
+      "target": "plasma \u03b1Klotho",
+      "effect": "decrease",
+      "magnitude": "36%"
+    }
+  ]
+}

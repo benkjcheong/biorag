@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC6348315",
+    "title": "A member of the CONSTANS-Like protein family is a putative regulator of reactive oxygen species homeostasis and spaceflight physiological adaptation",
+    "year": "2018",
+    "journal": "AoB Plants"
+  },
+  "authors": [
+    "Sng, Natasha J.",
+    "Kolaczkowski, Bryan",
+    "Ferl, Robert J.",
+    "Paul, Anna-Lisa"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root hairs",
+      "pollen tubes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "qRT-PCR",
+      "Fluorescence-based ROS assays",
+      "ROSMETER analysis"
+    ],
+    "assays": [
+      "ROS production assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_ROS",
+      "effect": "altered ROS production",
+      "magnitude": "unknown"
+    }
+  ]
+}

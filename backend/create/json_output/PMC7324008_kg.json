@@ -1,0 +1,68 @@
+{
+  "publication": {
+    "pmc_id": "PMC7324008",
+    "title": "Simulated Microgravity Enhances Oligodendrocyte Mitochondrial Function and Lipid Metabolism",
+    "year": "2016",
+    "journal": "Journal of Neuroscience Research"
+  },
+  "authors": [
+    "Espinosa-Jeffrey Araceli",
+    "Nguyen Kevin",
+    "Kumar Shalini",
+    "Ochiai Toshimasa",
+    "Hirose Ryuji",
+    "Reue Karen",
+    "Vergnes Laurent",
+    "Kinchen Jason",
+    "de Vellis Jean"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "oligodendrocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "simulated microgravity"
+    ],
+    "assays": [
+      "mitochondrial respiration",
+      "glycolysis",
+      "secretome analysis",
+      "Krebs cycle flux"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "simulated microgravity",
+      "dose": null,
+      "duration": "3 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "mitochondrial respiration",
+      "effect": "increased",
+      "magnitude": null
+    },
+    {
+      "target": "glycolysis",
+      "effect": "increased",
+      "magnitude": null
+    },
+    {
+      "target": "secretome analysis",
+      "effect": "increased Krebs cycle flux",
+      "magnitude": null
+    },
+    {
+      "target": "lipid synthesis",
+      "effect": "increased",
+      "magnitude": {
+        "1,2-dipalmitoyl-GPC": "5.67",
+        "1-oleoyl-GPE": "4.48"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "publication": {
+    "pmc_id": "PMC7072278",
+    "title": "GeneLab omics datasets reveal distinct biological signatures of space radiation exposure in animal models",
+    "year": "2020",
+    "journal": "PLOS ONE"
+  },
+  "authors": [
+    "Afshin Beheshti",
+    "Sylvain V Costes",
+    "Gary Hardiman",
+    "Deanne Taylor",
+    "Robert Stainforth",
+    "Jack Miller",
+    "Thomas Cahill",
+    "Willian A da Silveira",
+    "Komal S Rathi",
+    "Vinita Chauhan",
+    "Robert Meller",
+    "Afshin Beheshti"
+  ],
+  "subjects": {
+    "species": [
+      "Animal Model"
+    ],
+    "tissues": [
+      "Mitochondria",
+      "Ribosomes",
+      "Immune System"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "GeneLab",
+      "Ground-based studies",
+      "Low Earth Orbit (LEO)"
+    ],
+    "assays": [
+      "Transcriptomics",
+      "Dosimetry",
+      "Immunology assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Ionizing radiation",
+      "dose": "0.1 to 1.0 Gy",
+      "duration": "Ground-based studies"
+    },
+    {
+      "agent": "Ionizing radiation",
+      "dose": "1.0 mGy to 30 mGy",
+      "duration": "Spaceflight"
+    }
+  ],
+  "results": [
+    {
+      "target": "Mitochondrial function",
+      "effect": "Changes",
+      "magnitude": "Significant"
+    },
+    {
+      "target": "Ribosomal assembly",
+      "effect": "Changes",
+      "magnitude": "Significant"
+    },
+    {
+      "target": "Immune pathways",
+      "effect": "Changes",
+      "magnitude": "Significant"
+    }
+  ]
+}

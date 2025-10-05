@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC7138367",
+    "title": "Multiscale effects of spaceflight on murine tendon and bone",
+    "year": "2019",
+    "journal": "Bone"
+  },
+  "authors": [
+    "Alix C Deymier",
+    "Andrea G Schwartz",
+    "Chanteak Lim",
+    "Brian Wingender",
+    "Akhilesh Kotiya",
+    "Hua Shen",
+    "Matthew J Silva",
+    "Stavros Thomopoulos"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "tendon",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Spaceflight",
+      "Ground Control"
+    ],
+    "assays": [
+      "Mechanical testing",
+      "\u03bcCT imaging",
+      "Raman spectroscopy",
+      "Gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "Multiple weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "Bone carbonate levels",
+      "effect": "Decreased",
+      "magnitude": "Nanoscale changes"
+    },
+    {
+      "target": "Collagen fibril size in tendons",
+      "effect": "Smaller diameters",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC7998608",
+    "title": "Therapeutic effects of adult stem-cell transplantations are limited by poor cell-retention in target organs, and a reduced potential for optimal cell differentiation compared to embryonic stem cells. However, contemporary studies have indicated heterogeneity within adult stem-cell pools, and a novel culturing technique may address these limitations by selecting those for cell proliferation which are highly functional.",
+    "year": "2021",
+    "journal": "Cells"
+  },
+  "authors": [
+    "Takanobu Mashiko",
+    "Koji Kanayama",
+    "Natsumi Saito",
+    "Takako Shirado",
+    "Rintaro Asahi",
+    "Masanori Mori",
+    "Kotaro Yoshimura"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "adipose tissue",
+      "stem cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microgravity culture",
+      "stirred microspheres"
+    ],
+    "assays": [
+      "colony formation",
+      "network formation",
+      "multiple-mesenchymal differentiation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "microgravity culture with stirred microspheres",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "SSEA-3(+) hASC proportions",
+      "effect": "increased",
+      "magnitude": "4.4- and 4.3-fold"
+    },
+    {
+      "target": "pluripotent marker expression",
+      "effect": "higher levels",
+      "magnitude": null
+    },
+    {
+      "target": "proliferation, colony formation, network formation, and multiple-mesenchymal differentiation",
+      "effect": "improved",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "publication": {
+    "pmc_id": "PMC3430326",
+    "title": "The MscS and MscL Families of Mechanosensitive Channels Act as Microbial Emergency Release Valves",
+    "year": "2012",
+    "journal": "Journal of Bacteriology"
+  },
+  "authors": [
+    "Ian R Booth",
+    "Paul Blount"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "bacterial"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": null,
+      "effect": "solute release",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "publication": {
+    "pmc_id": "PMC6251167",
+    "title": "Multi-drug resistant Enterobacter bugandensis species isolated from the International Space Station and comparative genomic analyses with human pathogenic strains",
+    "year": "2018",
+    "journal": "BMC Microbiology"
+  },
+  "authors": [
+    "Nitin K Singh",
+    "Daniela Bezdan",
+    "Aleksandra Checinska Sielaff",
+    "Kevin Wheeler",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "subjects": {
+    "species": [
+      "Enterobacter bugandensis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Nanopore",
+      "Illumina"
+    ],
+    "assays": [
+      "Agar diffusion discs assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genes associated with antibiotic resistance and toxic compounds",
+      "effect": "identified in the ISS strains",
+      "magnitude": "4733 genes were associated with carbohydrate metabolism, amino acid and derivatives, protein metabolism, cofactors, vitamins, prosthetic groups, pigments, membrane transport, and RNA metabolism."
+    }
+  ]
+}

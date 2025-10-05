@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC8896891",
+    "title": "The interaction of vortical flows with red cells in venous valve mimics",
+    "year": "2022",
+    "journal": "Biomicrofluidics"
+  },
+  "authors": [
+    "Zyrina Alura C Sanchez",
+    "Vignesha Vijayananda",
+    "Devin M Virassammy",
+    "Liat Rosenfeld",
+    "Anand K Ramasubramanian"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "blood cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microfluidics",
+      "microscopy",
+      "\u03bcPIV",
+      "CFD"
+    ],
+    "assays": [
+      "RBC distribution analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "local RBC distribution",
+      "effect": "uneven distribution of RBCs in the valve pockets",
+      "magnitude": "significant difference from bulk flow hematocrit"
+    },
+    {
+      "target": "vortex formation and RBC entrapment",
+      "effect": "RBCs trapped within vortices",
+      "magnitude": "long residence time"
+    }
+  ]
+}

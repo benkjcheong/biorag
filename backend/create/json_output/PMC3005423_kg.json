@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC3005423",
+    "title": "Manipulating the permeation of charged compounds through the MscL nanovalve",
+    "year": "2011",
+    "journal": "FASEB Journal"
+  },
+  "authors": [
+    "Yang, L-M",
+    "Blount, P"
+  ],
+  "subjects": {
+    "species": [
+      "Escherichia coli"
+    ],
+    "tissues": [
+      "cytoplasmic membrane"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "nitrocellulose filter"
+    ],
+    "assays": [
+      "K+ efflux assay",
+      "glutamate efflux assay",
+      "Trehalose efflux assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "MTSES\u2212 or MTSET+",
+      "dose": "10 mM",
+      "duration": "15 s"
+    }
+  ],
+  "results": [
+    {
+      "target": "K+ efflux",
+      "effect": "increased K+ efflux",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "glutamate efflux",
+      "effect": "increased glutamate efflux",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "Trehalose efflux",
+      "effect": "increased Trehalose efflux",
+      "magnitude": "not specified"
+    }
+  ]
+}

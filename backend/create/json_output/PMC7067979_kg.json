@@ -1,0 +1,68 @@
+{
+  "publication": {
+    "pmc_id": "PMC7067979",
+    "title": "Microbiological and Nutritional Analysis of Lettuce Crops Grown on the International Space Station",
+    "year": "2020",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Khodadad, Christina L M",
+    "Hummerick, Mary E",
+    "Spencer, LaShelle E",
+    "Dixit, Anirudha R",
+    "Richards, Jeffrey T",
+    "Romeyn, Matthew W",
+    "Smith, Trent M",
+    "Wheeler, Raymond M",
+    "Massa, Gioia D"
+  ],
+  "subjects": {
+    "species": [
+      "Lactuca sativa"
+    ],
+    "tissues": [
+      "leaf",
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Veggie plant growth chambers"
+    ],
+    "assays": [
+      "heterotrophic plate counts for bacteria and fungi",
+      "isolate identification using samples taken from the leaves and roots",
+      "molecular characterization using Next Generation Sequencing (NGS)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "bacterial and fungal counts",
+      "effect": "differences in total counts for bacteria and yeast/molds",
+      "magnitude": null
+    },
+    {
+      "target": "pathogen screening",
+      "effect": "negative results",
+      "magnitude": null
+    },
+    {
+      "target": "isolate identification and community characterization",
+      "effect": "variation in the diversity of genera between leaf and root tissue with diversity being higher in root tissue",
+      "magnitude": null
+    },
+    {
+      "target": "elemental composition, phenolics, anthocyanins, and ORAC levels",
+      "effect": "differences in Fe, K, Na, P, S, and Zn content and total phenolic levels",
+      "magnitude": null
+    }
+  ]
+}

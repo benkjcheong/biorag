@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC4653058",
+    "title": "Spaceflight alters expression of microRNA during T-cell activation",
+    "year": "2015",
+    "journal": "FASEB Journal"
+  },
+  "authors": [
+    "Hughes-Fulford, Millie",
+    "Chang, Tammy T.",
+    "Martinez, Emily M.",
+    "Li, Chai-Fei"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "leukocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "Earth-based centrifuge"
+    ],
+    "assays": [
+      "mitogen stimulation",
+      "quantitative real-time PCR",
+      "microarray analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "miR-21 expression",
+      "effect": "up-regulation",
+      "magnitude": "2-fold"
+    },
+    {
+      "target": "85 genes",
+      "effect": "suppression",
+      "magnitude": "P < 0.05"
+    }
+  ]
+}

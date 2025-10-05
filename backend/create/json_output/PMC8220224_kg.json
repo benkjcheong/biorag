@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC8220224",
+    "title": "Spaceflight decelerates the epigenetic clock orchestrated with a global alteration in DNA methylome and transcriptome in the mouse retina",
+    "year": "2021",
+    "journal": "Precis Clin Med"
+  },
+  "authors": [
+    "Zhong Chen",
+    "Seta Stanbouly",
+    "Nina C Nishiyama",
+    "Xin Chen",
+    "Michael D Delp",
+    "Hongyu Qiu",
+    "Xiao W Mao",
+    "Charles Wang"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "retina"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "deep sequencing"
+    ],
+    "assays": [
+      "DNA methylation analysis",
+      "RNA sequencing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "37 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "DNA methylome",
+      "effect": "differentially methylated genes",
+      "magnitude": null
+    },
+    {
+      "target": "transcriptome",
+      "effect": "differentially expressed genes",
+      "magnitude": null
+    },
+    {
+      "target": "epigenetic clock",
+      "effect": "deceleration",
+      "magnitude": null
+    }
+  ]
+}

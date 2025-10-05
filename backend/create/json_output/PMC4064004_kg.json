@@ -1,0 +1,40 @@
+{
+  "publication": {
+    "pmc_id": "PMC4064004",
+    "title": "Organization of the ER\u2013Golgi interface for membrane traffic control",
+    "year": "2013",
+    "journal": "Nature Reviews Molecular Cell Biology"
+  },
+  "authors": [
+    "Brandizzi F.",
+    "Barlowe C."
+  ],
+  "subjects": {
+    "species": [
+      "mammalian",
+      "plant"
+    ],
+    "tissues": [
+      "ER",
+      "Golgi"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "ER\u2013Golgi interface",
+      "effect": "regulation of COPII assembly",
+      "magnitude": "varied in different species"
+    }
+  ]
+}

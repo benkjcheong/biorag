@@ -1,0 +1,72 @@
+{
+  "publication": {
+    "pmc_id": "PMC10503492",
+    "title": "Artificial Gravity Partially Protects the CNS from the Adverse Effects of Spaceflight",
+    "year": "2023",
+    "journal": "Cell Reports"
+  },
+  "authors": [
+    "Bhattacharya, Sharmila",
+    "Mhatre, Siddhita D.",
+    "Iyer, Janani",
+    "Petereit, Juli",
+    "Dolling-Boreham, Roberta M.",
+    "Tyryshkina, Anastasia",
+    "Paul, Amber",
+    "Gilbert, Rachel",
+    "Jensen, Matthew",
+    "Woolsey, Rebekah J.",
+    "Anand, Sulekha",
+    "Sowa, Marianne B.",
+    "Quilici, David R.",
+    "Costes, Sylvain V.",
+    "Girirajan, Santhosh",
+    "Bhattacharya, Sharmila"
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster"
+    ],
+    "tissues": [
+      "brain"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "inflight centrifugation"
+    ],
+    "assays": [
+      "climbing defects analysis",
+      "multi-omics analysis",
+      "neuronal loss analysis",
+      "glial cell count alterations analysis",
+      "oxidative damage analysis",
+      "apoptosis analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "artificial gravity",
+      "dose": "simulated Earth gravity via inflight centrifugation",
+      "duration": "spaceflight duration"
+    }
+  ],
+  "results": [
+    {
+      "target": "climbing defects",
+      "effect": "increased activity",
+      "magnitude": null
+    },
+    {
+      "target": "neuronal loss",
+      "effect": "significant changes",
+      "magnitude": null
+    },
+    {
+      "target": "glial cell count alterations",
+      "effect": "significant changes",
+      "magnitude": null
+    }
+  ]
+}

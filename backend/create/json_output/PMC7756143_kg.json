@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC7756143",
+    "title": "RNAseq Analysis of Rodent Spaceflight Experiments Is Confounded by Sample Collection Techniques",
+    "year": "2020",
+    "journal": "iScience"
+  },
+  "authors": [
+    "San-Huei Lai Polo",
+    "Amanda M Saravia-Butler",
+    "Valery Boyko",
+    "Marie T Dinh",
+    "Yi-Chun Chen",
+    "Homer Fogle",
+    "Sigrid S Reinsch",
+    "Shayoni Ray",
+    "Kaushik Chakravarty",
+    "Oana Marcu",
+    "Rick B Chen",
+    "Sylvain V Costes",
+    "Jonathan M Galazka"
+  ],
+  "subjects": {
+    "species": [
+      "mouse"
+    ],
+    "tissues": [
+      "liver"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNAseq"
+    ],
+    "assays": [
+      "preservation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "transcriptome",
+      "effect": "large changes",
+      "magnitude": "compared to ground control"
+    }
+  ]
+}

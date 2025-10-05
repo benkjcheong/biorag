@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC5659752",
+    "title": "Novel organelles with elements of bacterial and eukaryotic secretion systems weaponize parasites of Drosophila",
+    "year": "2017",
+    "journal": "Curr Biol"
+  },
+  "authors": [
+    "Mary Heavner",
+    "Johnny Ramroop",
+    "Gwenaelle Gueguen",
+    "Girish Ramrattan",
+    "Georgia Dolios",
+    "Michael Scarpati",
+    "Jonathan Kwiat",
+    "Sharmila Bhattacharya",
+    "Rong Wang",
+    "Shaneen Singh",
+    "Shubha Govind"
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster",
+      "Leptopilina boulardi",
+      "Leptopilina heterotoma"
+    ],
+    "tissues": [
+      "hemocytes",
+      "lymph glands"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "cryo-EM",
+      "proteomics"
+    ],
+    "assays": [
+      "infection assays",
+      "immunology assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "L. heterotoma venom",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "VLP morphology and composition",
+      "effect": "differing VLP morphologies and compositions",
+      "magnitude": "differences in virulence"
+    },
+    {
+      "target": "immune response",
+      "effect": "suppression of immune responses by L. heterotoma",
+      "magnitude": "cell loss and lamellocyte differentiation"
+    }
+  ]
+}

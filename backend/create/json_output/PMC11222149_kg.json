@@ -1,0 +1,73 @@
+{
+  "publication": {
+    "pmc_id": "PMC11222149",
+    "title": "Longitudinal multi-omics analysis of host microbiome architecture and immune responses during short-term spaceflight",
+    "year": "2024",
+    "journal": "Nat Microbiol"
+  },
+  "authors": [
+    "Braden T Tierney",
+    "JangKeun Kim",
+    "Eliah G Overbey",
+    "Krista A Ryon",
+    "Jonathan Foox",
+    "Maria A Sierra",
+    "Chandrima Bhattacharya",
+    "Namita Damle",
+    "Deena Najjar",
+    "Jiwoon Park",
+    "J Sebastian Garcia Medina",
+    "Nadia Houerbi",
+    "Cem Meydan",
+    "Jeremy Wain Hirschberg",
+    "Jake Qiu",
+    "Ashley S Kleinman",
+    "Gabriel A Al-Ghalith",
+    "Matthew MacKay",
+    "Evan E Afshin",
+    "Raja Dhir",
+    "Joseph Borg",
+    "Christine Gatt",
+    "Nicholas Brereton",
+    "Benjamin P Readhead",
+    "Semir Beyaz",
+    "Kasthuri J Venkateswaran",
+    "Kelly Wiseman",
+    "Juan Moreno",
+    "Andrew M Boddicker",
+    "Junhua Zhao",
+    "Bryan R Lajoie",
+    "Ryan T Scott",
+    "Andrew Altomare",
+    "Semyon Kruglyak",
+    "Shawn Levy",
+    "George M Church",
+    "Christopher E Mason"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "N/A"
+    ],
+    "assays": [
+      "N/A"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "N/A",
+      "dose": "N/A",
+      "duration": "N/A"
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC5817088",
+    "title": "Alterations in the Spectrum of Spontaneous Rifampicin-Resistance Mutations in the Bacillus subtilis rpoB Gene after Cultivation in the Human Spaceflight Environment",
+    "year": "2018",
+    "journal": "Frontiers in Microbiology"
+  },
+  "authors": [
+    "Fajardo-Cavazos, Patricia",
+    "Leehan, Joshua D.",
+    "Nicholson, Wayne L."
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus subtilis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Biological Research in Canister-Petri Dish Fixation Units (BRIC-PDFUs)"
+    ],
+    "assays": [
+      "rifampicin resistance assay",
+      "mutation frequency analysis",
+      "nucleotide sequencing of the rpoB gene"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "rpoB gene mutations",
+      "effect": "altered mutation spectrum",
+      "magnitude": "significant differences in the spectrum of mutations"
+    },
+    {
+      "target": "rifampicin resistance",
+      "effect": "increased frequency of RifR mutants",
+      "magnitude": "24-fold increase in the frequency of RifR mutants"
+    }
+  ]
+}

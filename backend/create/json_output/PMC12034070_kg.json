@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC12034070",
+    "title": "Blood Flow Restriction Training: A Tool to Enhance Rehabilitation and Build Athlete Resiliency",
+    "year": "2024",
+    "journal": "Arthrosc Sports Med Rehabil"
+  },
+  "authors": [
+    "Mark Murphy"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "blood flow restriction training",
+      "Kaatsu training"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "Blood Flow Restriction Training",
+      "dose": " <30% of estimated 1RM",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "muscle hypertrophy",
+      "effect": "observed",
+      "magnitude": "significant"
+    },
+    {
+      "target": "strength",
+      "effect": "improved",
+      "magnitude": "significant"
+    },
+    {
+      "target": "recovery",
+      "effect": "accelerated",
+      "magnitude": "unknown"
+    }
+  ]
+}

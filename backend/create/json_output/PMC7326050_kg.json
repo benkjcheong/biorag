@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC7326050",
+    "title": "Metabolomic Analysis of Aspergillus niger Isolated From the International Space Station Reveals Enhanced Production Levels of the Antioxidant Pyranonigrin A",
+    "year": "2020",
+    "journal": "Frontiers in Microbiology"
+  },
+  "authors": [
+    "Romsdahl, Jillian",
+    "Blachowicz, Adriana",
+    "Chiang, Yi-Ming",
+    "Venkateswaran, Kasthuri",
+    "Wang, Clay C. C."
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus niger"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Laboratory cultures"
+    ],
+    "assays": [
+      "SM production analysis",
+      "UV sensitivity assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "SM production levels",
+      "effect": "Enhanced production of naphtho-\u03b3-pyrones and other SMs",
+      "magnitude": "Increased production by ISS isolate compared to ATCC 1015 strain"
+    },
+    {
+      "target": "Pyranonigrin A",
+      "effect": "UV resistance",
+      "magnitude": "Antioxidant activity"
+    }
+  ]
+}

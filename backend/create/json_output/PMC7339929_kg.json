@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC7339929",
+    "title": "Simulated Microgravity Induces Regionally Distinct Neurovascular and Structural Remodeling of Skeletal Muscle and Cutaneous Arteries in the Rat",
+    "year": "2020",
+    "journal": "Frontiers in Physiology"
+  },
+  "authors": [
+    "Olga S Tarasova",
+    "Vjatcheslav U Kalenchuk",
+    "Anatoly S Borovik",
+    "Veronika O Golubinskaya",
+    "Michael D Delp",
+    "Olga L Vinogradova"
+  ],
+  "subjects": {
+    "species": [
+      "rat"
+    ],
+    "tissues": [
+      "skeletal muscle",
+      "skin arteries",
+      "arterioles"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "wire myography",
+      "isobaric perfusion"
+    ],
+    "assays": [
+      "glyoxylic acid staining"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading (HU)",
+      "dose": null,
+      "duration": "2 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "lumen diameter",
+      "effect": "increased in forelimb arteries but decreased in the sural artery",
+      "magnitude": null
+    },
+    {
+      "target": "maximal contractile responses to noradrenaline and serotonin",
+      "effect": "increased in forelimb but decreased in hindlimb skeletal muscle feed arteries",
+      "magnitude": null
+    },
+    {
+      "target": "sensitivity to vasoconstrictors",
+      "effect": "increased in the saphenous artery but not in the sural artery",
+      "magnitude": null
+    }
+  ]
+}

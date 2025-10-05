@@ -1,0 +1,75 @@
+{
+  "publication": {
+    "pmc_id": "PMC11487192",
+    "title": "UNC-89 protein kinase activity regulates mitochondrial morphology and function in C. elegans",
+    "year": "2024",
+    "journal": "Biology Open"
+  },
+  "authors": [
+    "Matsunaga Y",
+    "Qadota H",
+    "Ghazal N",
+    "Lesanpezeshki L",
+    "Dorendorf T",
+    "Moody JC",
+    "Ahier A",
+    "Matheny CJ",
+    "Vanapalli SA",
+    "Zuryn S",
+    "Mayans O",
+    "Kwong JQ",
+    "Benian GM"
+  ],
+  "subjects": {
+    "species": [
+      "C. elegans",
+      "Drosophila",
+      "mammalian striated muscle"
+    ],
+    "tissues": [
+      "sarcomeres",
+      "mitochondria"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro binding assays",
+      "co-immunolocalization",
+      "muscle mutant phenotypes"
+    ],
+    "assays": [
+      "binding assays",
+      "co-immunolocalization",
+      "analysis of muscle mutant phenotypes"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "KtoA mutation",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "mitochondrial morphology",
+      "effect": "fragmented mitochondria",
+      "magnitude": null
+    },
+    {
+      "target": "ATP levels",
+      "effect": "increased ATP levels",
+      "magnitude": null
+    },
+    {
+      "target": "glycolysis",
+      "effect": "increased glycolysis",
+      "magnitude": null
+    },
+    {
+      "target": "electron transport chain complexes",
+      "effect": "altered levels of electron transport chain complexes",
+      "magnitude": null
+    }
+  ]
+}

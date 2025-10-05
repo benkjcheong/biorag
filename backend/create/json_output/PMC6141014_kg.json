@@ -1,0 +1,81 @@
+{
+  "publication": {
+    "pmc_id": "PMC6141014",
+    "title": "Structural and functional properties of bone are compromised in amyotrophic lateral sclerosis mice",
+    "year": "2018",
+    "journal": "Amyotroph Lateral Scler Frontotemporal Degener"
+  },
+  "authors": [
+    "Frank C Ko",
+    "Jia Li",
+    "Daniel J Brooks",
+    "Seward B Rutkove",
+    "Mary L Bouxsein"
+  ],
+  "subjects": {
+    "species": [
+      "mice"
+    ],
+    "tissues": [
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microcomputed tomography",
+      "three-point bending",
+      "fracture toughness testing",
+      "cyclic reference point indentation"
+    ],
+    "assays": [
+      "bending stiffness",
+      "maximum moment",
+      "failure moment",
+      "resistance to crack growth"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "SOD1G93A mutation",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "bone mass",
+      "effect": "decreased",
+      "magnitude": "-54%"
+    },
+    {
+      "target": "trabecular bone thickness",
+      "effect": "thinner",
+      "magnitude": "-41%"
+    },
+    {
+      "target": "cortical bone thickness",
+      "effect": "decreased",
+      "magnitude": "-17%"
+    },
+    {
+      "target": "cortical area",
+      "effect": "decreased",
+      "magnitude": "-18%"
+    },
+    {
+      "target": "bending stiffness",
+      "effect": "lowered",
+      "magnitude": "-27%"
+    },
+    {
+      "target": "failure moment",
+      "effect": "decreased",
+      "magnitude": "-41%"
+    },
+    {
+      "target": "fracture toughness",
+      "effect": "lowered",
+      "magnitude": "-18%"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "publication": {
+    "pmc_id": "PMC3012082",
+    "title": "Analysis of Interactions of Salmonella Type Three Secretion Mutants with 3-D Intestinal Epithelial Cells",
+    "year": "2010",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Radtke, Andrea L.",
+    "Wilson, James W.",
+    "Sarker, Shameema",
+    "Nickerson, Cheryl A."
+  ],
+  "subjects": {
+    "species": [
+      "Salmonella enterica"
+    ],
+    "tissues": [
+      "intestinal epithelium"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "3-D organotypic model of human intestinal epithelium"
+    ],
+    "assays": [
+      "invasion assay",
+      "intracellular bacterial replication assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "invasion of 3-D intestinal cells",
+      "effect": "Salmonella strains carrying single (SPI-1 or SPI-2), double (SPI-1/2) and complete T3SS knockout (SPI-1/SPI-2: flhDC) also invaded 3-D intestinal cells to wildtype levels.",
+      "magnitude": "wildtype invasion rates"
+    }
+  ]
+}

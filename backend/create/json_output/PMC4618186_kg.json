@@ -1,0 +1,42 @@
+{
+  "publication": {
+    "pmc_id": "PMC4618186",
+    "title": "Unfolded protein response in plants: one master, many questions",
+    "year": "2015",
+    "journal": "Current Opinion in Plant Biology"
+  },
+  "authors": [
+    "Ruberti, Cristina",
+    "Kim, Sang-Jin",
+    "Stefano, Giovanni",
+    "Brandizzi, Federica"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana",
+      "Oryza sativa",
+      "Zea mays"
+    ],
+    "tissues": [
+      "endoplasmic reticulum"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "transcription factor mRNA splicing",
+      "effect": "intron-excising frameshift",
+      "magnitude": "elimination of membrane anchor"
+    }
+  ]
+}

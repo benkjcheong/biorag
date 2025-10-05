@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC6747492",
+    "title": "Mice Exposed to Combined Chronic Low-Dose Irradiation and Modeled Microgravity Develop Long-Term Neurological Sequelae",
+    "year": "2019",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Overbey, Eliah G.",
+    "Paul, Amber M.",
+    "da Silveira, Willian A.",
+    "Tahimic, Candice GT",
+    "Reinsch, Sigrid S.",
+    "Szewczyk, Nathaniel",
+    "Stanbouly, Seta",
+    "Wang, Charles",
+    "Galazka, Jonathan M.",
+    "Mao, Xiao Wen"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "brain"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading",
+      "modeled microgravity"
+    ],
+    "assays": [
+      "RNA-seq",
+      "RRBS"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "chronic low-dose irradiation",
+      "dose": "low dose",
+      "duration": "21 days"
+    },
+    {
+      "agent": "hindlimb unloading",
+      "dose": null,
+      "duration": "21 days"
+    },
+    {
+      "agent": "combined low-dose irradiation and hindlimb unloading",
+      "dose": null,
+      "duration": "21 days + 4 months readaptation"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "altered pathways",
+      "magnitude": "multiple altered pathways"
+    },
+    {
+      "target": "epigenetic modifications",
+      "effect": "minimal alterations",
+      "magnitude": "minimal changes"
+    }
+  ]
+}

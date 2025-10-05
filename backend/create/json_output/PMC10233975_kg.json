@@ -1,0 +1,76 @@
+{
+  "publication": {
+    "pmc_id": "PMC10233975",
+    "title": "Characterization of metagenome-assembled genomes from the International Space Station",
+    "year": "2023",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Nitin K Singh",
+    "Jason M Wood",
+    "Jose Patane",
+    "Livia Maria Silva Moura",
+    "Jonathan Lombardino",
+    "Jo\u00e3o Carlos Setubal",
+    "Kasthuri Venkateswaran"
+  ],
+  "subjects": {
+    "species": [
+      "Kalamiella piersonii",
+      "Methylobacterium ajmalii",
+      "Enterobacter bugandensis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "metaSPAdes",
+      "metaWRAP"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "MAGs",
+      "effect": "assembled and analyzed",
+      "magnitude": "46 MAGs assembled from 21 ISS environmental metagenomes"
+    },
+    {
+      "target": "species identification",
+      "effect": "18 bacterial species identified, including one novel genus/species combination (Kalamiella piersonii) and one novel bacterial species (Methylobacterium ajmalii)",
+      "magnitude": "phylogenetic affiliation"
+    },
+    {
+      "target": "fungal genomes",
+      "effect": "4 bins exhibited fungal genomes; this is the first-time fungal genomes were assembled from ISS metagenomes.",
+      "magnitude": "first-time fungal genome assembly from ISS metagenomes"
+    },
+    {
+      "target": "phylogenetic analysis",
+      "effect": "Phylogenetic analyses of five bacterial species showed ISS-specific evolution.",
+      "magnitude": "ISS-specific evolution in phylogenetic analysis"
+    },
+    {
+      "target": "genes related to cell membranes",
+      "effect": "Genes pertaining to cell membranes, such as transmembrane transport, cell wall organization, and regulation of cell shape, were enriched.",
+      "magnitude": "enrichment of genes related to cell membranes"
+    },
+    {
+      "target": "antimicrobial resistance (AMR) genes",
+      "effect": "Variations in the AMR and virulence genes of the selected 20 MAGs were characterized to predict the ecology and evolution of biosafety level (BSL) 2 microorganisms in space.",
+      "magnitude": "characterization of AMR and virulence genes"
+    },
+    {
+      "target": "virulence gene comparison",
+      "effect": "MAGs were further used to analyze if genes involved in AMR and biofilm formation of viable microbes in ISS have variation due to generational evolution in microgravity and radiation pressure.",
+      "magnitude": "variation of AMR and biofilm genes in space"
+    }
+  ]
+}

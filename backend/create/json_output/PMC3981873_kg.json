@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC3981873",
+    "title": "Inter-regulation of the unfolded protein response and auxin signaling in Arabidopsis thaliana",
+    "year": "2014",
+    "journal": "Plant Journal"
+  },
+  "authors": [
+    "Chen, Yani",
+    "Aung, Kyaw",
+    "Rol\u010d\u00edk, Jakub",
+    "Walicki, Kathryn",
+    "Friml, Ji\u0159\u00ed",
+    "Brandizzi, Federica"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "ER",
+      "PM"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RT-PCR",
+      "Western blot"
+    ],
+    "assays": [
+      "auxin response assay",
+      "root growth assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "auxin response",
+      "effect": "down-regulation of auxin sensors and transporters",
+      "magnitude": "reduced auxin levels"
+    },
+    {
+      "target": "IRE1 activity",
+      "effect": "activation of IRE1",
+      "magnitude": "increased UPR activation"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC3748764",
+    "title": "Multiparameter Behavioral Analyses Provide Insights to Mechanisms of Cyanide Resistance in Caenorhabditis elegans",
+    "year": "2013",
+    "journal": "Toxicology and Applied Pharmacology"
+  },
+  "authors": [
+    "Saldanha, Jenifer N.",
+    "Parashar, Archana",
+    "Pandey, Santosh",
+    "Powell-Coffman, Jo Anne"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "agarose plates",
+      "microfluidic devices"
+    ],
+    "assays": [
+      "HCN gas assays",
+      "KCN in microfluidic chambers",
+      "levamisole treatment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hydrogen cyanide (HCN)",
+      "dose": "unknown",
+      "duration": "unknown"
+    },
+    {
+      "agent": "Potassium cyanide (KCN)",
+      "dose": "unknown",
+      "duration": "unknown"
+    },
+    {
+      "agent": "levamisole",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "behavioral parameters",
+      "effect": "resistance to cyanide toxicity",
+      "magnitude": "increased lifespan, reduced paralysis"
+    }
+  ]
+}

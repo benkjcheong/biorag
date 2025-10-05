@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC7000411",
+    "title": "Spaceflight increases virulence of Serratia marcescens in the Drosophila melanogaster infection model",
+    "year": "2020",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Gilbert, Rachel",
+    "Torres, Medaya",
+    "Clemens, Rachel",
+    "Hateley, Shannon",
+    "Hosamani, Ravikumar",
+    "Wade, William",
+    "Bhattacharya, Sharmila"
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "rotating wall vessel"
+    ],
+    "assays": [
+      "growth rate in vitro",
+      "growth rate in host"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "virulence of Serratia marcescens",
+      "effect": "increased virulence",
+      "magnitude": "greater growth rate in spaceflight and simulated microgravity conditions"
+    }
+  ]
+}

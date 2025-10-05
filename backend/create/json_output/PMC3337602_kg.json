@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC3337602",
+    "title": "Low-Dose, Ionizing Radiation and Age-Related Changes in Skeletal Microarchitecture",
+    "year": "2012",
+    "journal": "J Aging Res"
+  },
+  "authors": [
+    "Joshua S Alwood",
+    "Akhilesh Kumar",
+    "Luan H Tran",
+    "Angela Wang",
+    "Charles L Limoli",
+    "Ruth K Globus"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J-10\u2009wk old male mice"
+    ],
+    "tissues": [
+      "cancellous bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "JL Shepherd Mark I",
+      "137Cs gamma ray source"
+    ],
+    "assays": [
+      "microcomputed tomography",
+      "ex vivo bone cell differentiation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "gamma radiation",
+      "dose": "1, 10, or 100\u2009cGy",
+      "duration": "basal (day of irradiation), 1 month, or 4 months"
+    }
+  ],
+  "results": [
+    {
+      "target": "microarchitecture of cancellous bone",
+      "effect": "structural changes",
+      "magnitude": "transient changes over one month"
+    }
+  ]
+}

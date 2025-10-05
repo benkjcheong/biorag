@@ -1,0 +1,78 @@
+{
+  "publication": {
+    "pmc_id": "PMC4462657",
+    "title": "MnSOD Overexpression Reduces Fibrosis and Pro-Apoptotic Signaling in the Aging Mouse Heart",
+    "year": "2014",
+    "journal": "J Gerontol A Biol Sci Med Sci"
+  },
+  "authors": [
+    "Hyo-Bum Kwak",
+    "Yang Lee",
+    "Jong-Hee Kim",
+    "Holly Van Remmen",
+    "Arlan G Richardson",
+    "John M Lawler"
+  ],
+  "subjects": {
+    "species": [
+      "mouse"
+    ],
+    "tissues": [
+      "heart"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Western blot",
+      "immunohistochemistry",
+      "qPCR"
+    ],
+    "assays": [
+      "total hydroperoxides assay",
+      "4-hydroxynonenal assay",
+      "8-isoprostane assay",
+      "Bax expression analysis",
+      "caspase-3 cleavage analysis",
+      "terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Sod2 gene overexpression",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "total hydroperoxides",
+      "effect": "reduced",
+      "magnitude": "significant reduction"
+    },
+    {
+      "target": "4-hydroxynonenal",
+      "effect": "reduced",
+      "magnitude": "significant reduction"
+    },
+    {
+      "target": "8-isoprostane",
+      "effect": "reduced",
+      "magnitude": "significant reduction"
+    },
+    {
+      "target": "Bax expression",
+      "effect": "decreased",
+      "magnitude": "38% decrease"
+    },
+    {
+      "target": "caspase-3 cleavage",
+      "effect": "decreased",
+      "magnitude": "41% decrease"
+    },
+    {
+      "target": "TUNEL positive nuclei",
+      "effect": "reduced",
+      "magnitude": null
+    }
+  ]
+}

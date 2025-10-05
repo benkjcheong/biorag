@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC4985531",
+    "title": "Hypothalamic Leptin Gene Therapy Reduces Bone Marrow Adiposity in ob/ob Mice Fed Regular and High-Fat Diets",
+    "year": "2016",
+    "journal": "Front. Endocrinol."
+  },
+  "authors": [
+    "Lindenmaier, Laurence B.",
+    "Philbrick, Kenneth A.",
+    "Branscum, Adam J.",
+    "Kalra, Satya P.",
+    "Turner, Russell T.",
+    "Iwaniec, Urszula T."
+  ],
+  "subjects": {
+    "species": [
+      "ob/ob",
+      "wild-type"
+    ],
+    "tissues": [
+      "bone marrow",
+      "adipose tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "intracerebroventricular injection",
+      "high-fat diet"
+    ],
+    "assays": [
+      "histomorphometry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "rAAV-Lep",
+      "dose": "9\u2009\u00d7\u2009107 particles",
+      "duration": "30 weeks"
+    },
+    {
+      "agent": "rAAV-GFP",
+      "dose": "9\u2009\u00d7\u2009107 particles",
+      "duration": "30 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "MAT levels",
+      "effect": "decreased",
+      "magnitude": "similar to WT mice fed regular diet"
+    },
+    {
+      "target": "osteoblast perimeter",
+      "effect": "increased",
+      "magnitude": "minor change"
+    },
+    {
+      "target": "osteoclast perimeter",
+      "effect": "increased",
+      "magnitude": "minor change"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "publication": {
+    "pmc_id": "PMC10390562",
+    "title": "Paving the way to better understand the effects of prolonged spaceflight on operational performance and its neural bases",
+    "year": "2023",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Stahn, A. C.",
+    "Bucher, D.",
+    "zu Eulenburg, P.",
+    "Denise, P.",
+    "Smith, N.",
+    "Pagnini, F.",
+    "White, O.",
+    "Smith, N."
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "brain"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "brain structure and function",
+      "effect": "changes",
+      "magnitude": "unknown"
+    }
+  ]
+}

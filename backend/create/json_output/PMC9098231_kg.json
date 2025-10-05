@@ -1,0 +1,63 @@
+{
+  "publication": {
+    "pmc_id": "PMC9098231",
+    "title": "The first global genomic, proteomic, and secondary metabolomic characterization of the filamentous fungus Aspergillus nidulans following growth onboard the International Space Station (ISS)",
+    "year": "2019",
+    "journal": "Applied Microbiology and Biotechnology"
+  },
+  "authors": [
+    "Romdahl, Jillian",
+    "Blachowicz, Adriana",
+    "Chiang, Abby J.",
+    "Chiang, Yi-Ming",
+    "Masonjones, Sawyer",
+    "Yaegashi, Junko",
+    "Countryman, Stefanie",
+    "Karouia, Fathi",
+    "Kalkum, Markus",
+    "Stajich, Jason E.",
+    "Venkateswaran, Kasthuri",
+    "Wang, Clay CC"
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus nidulans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "Whole genome sequencing",
+      "Differential expression analysis",
+      "Protein extraction and quantification",
+      "Secondary metabolite production assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome",
+      "effect": "alterations",
+      "magnitude": null
+    },
+    {
+      "target": "proteins",
+      "effect": "differential expression",
+      "magnitude": null
+    },
+    {
+      "target": "secondary metabolites",
+      "effect": "changes in production",
+      "magnitude": null
+    }
+  ]
+}

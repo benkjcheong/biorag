@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC7055474",
+    "title": "In situ Linkage of Fungal and Bacterial Proliferation to Microbiologically Influenced Corrosion in B20 Biodiesel Storage Tanks",
+    "year": "2020",
+    "journal": "Frontiers in Microbiology"
+  },
+  "authors": [
+    "Stamps, Blake W.",
+    "Bojanowski, Caitlin L.",
+    "Drake, Carrie A.",
+    "Nunn, Heather S.",
+    "Lloyd, Pamela F.",
+    "Floyd, James G.",
+    "Emmerich, Katelyn A.",
+    "Neal, Abby R.",
+    "Crookes-Goodson, Wendy J.",
+    "Stevenson, Bradley S."
+  ],
+  "subjects": {
+    "species": [
+      "Bacteria",
+      "Fungi"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Storage tanks",
+      "Corrosion measurements"
+    ],
+    "assays": [
+      "Microbial enumeration",
+      "Fouling assessment",
+      "Corrosion measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "B20 Biodiesel",
+      "dose": "20% v/v",
+      "duration": "Year"
+    }
+  ],
+  "results": [
+    {
+      "target": "Microorganism abundance",
+      "effect": "Increased microbial populations",
+      "magnitude": "Significant increase in bacterial and fungal populations"
+    },
+    {
+      "target": "Corrosion rate",
+      "effect": "Increased corrosion rates",
+      "magnitude": "Visible pitting and fouling"
+    }
+  ]
+}

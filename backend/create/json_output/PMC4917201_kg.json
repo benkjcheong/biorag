@@ -1,0 +1,75 @@
+{
+  "publication": {
+    "pmc_id": "PMC4917201",
+    "title": "Hypothalamic Leptin Gene Therapy Reduces Body Weight without Accelerating Age-Related Bone Loss",
+    "year": "2015",
+    "journal": "Journal of Endocrinology"
+  },
+  "authors": [
+    "Russell T Turner",
+    "Michael Dube",
+    "Adam J Branscum",
+    "Carmen P Wong",
+    "Dawn A Olson",
+    "Xiaoying Zhong",
+    "Mercedes F Kweh",
+    "Iske V Larkin",
+    "Thomas J Wronski",
+    "Clifford J Rosen",
+    "Satya P Kalra",
+    "Urszula T Iwaniec"
+  ],
+  "subjects": {
+    "species": [
+      "rat"
+    ],
+    "tissues": [
+      "hypothalamus",
+      "adipose tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo"
+    ],
+    "assays": [
+      "body weight measurement",
+      "microcomputed tomography (\u03bcCT)",
+      "dual energy absorptiometry (DEXA)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "rAAV-Leptin",
+      "dose": null,
+      "duration": "18 weeks"
+    },
+    {
+      "agent": "rAAV-GFP",
+      "dose": null,
+      "duration": "18 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "body weight",
+      "effect": "weight loss",
+      "magnitude": "4% in rAAV-Leptin group"
+    },
+    {
+      "target": "serum leptin",
+      "effect": "decrease",
+      "magnitude": "-77%"
+    },
+    {
+      "target": "serum IGF1",
+      "effect": "decrease",
+      "magnitude": "-34%"
+    },
+    {
+      "target": "bone mass",
+      "effect": "lower in rAAV-GFP group",
+      "magnitude": null
+    }
+  ]
+}

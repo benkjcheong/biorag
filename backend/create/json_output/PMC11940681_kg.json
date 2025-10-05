@@ -1,0 +1,63 @@
+{
+  "publication": {
+    "pmc_id": "PMC11940681",
+    "title": "Microgravity Exposure in Mice is Associated with Site-Specific Bone Loss and Accelerated Femoral Head Ossification",
+    "year": "2025",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Cahill R",
+    "Blaber EA",
+    "Juran CM",
+    "Cheng-Campbell M",
+    "Alwood JS",
+    "Shirazi-Fard Y",
+    "Almeida EAC",
+    "Li Z"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J mouse"
+    ],
+    "tissues": [
+      "femur",
+      "L2 vertebrae",
+      "cortical bone",
+      "cancellous bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "NASA ISS",
+      "ground-based controls in the RH"
+    ],
+    "assays": [
+      "microcomputed tomography",
+      "histological analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "37 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "bone loss",
+      "effect": "significant site-specific cancellous and cortical bone loss in the femur",
+      "magnitude": "null"
+    },
+    {
+      "target": "bone loss",
+      "effect": "lack of bone degenerative effects in the spine",
+      "magnitude": "null"
+    },
+    {
+      "target": "bone loss",
+      "effect": "accelerated progression of femoral head endochondral ossification",
+      "magnitude": "null"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "publication": {
+    "pmc_id": "PMC9105288",
+    "title": "Transcription Profile of Auxin Related Genes during Positively Gravitropic Hypocotyl Curvature of Brassica rapa",
+    "year": "2022",
+    "journal": "Plants"
+  },
+  "authors": [
+    "Ajala, Chitra",
+    "Hasenstein, Karl H."
+  ],
+  "subjects": {
+    "species": [
+      "Brassica rapa"
+    ],
+    "tissues": [
+      "hypocotyl"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Solid Phase Gene Extraction (SPGE)"
+    ],
+    "assays": [
+      "transcription profiling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_gene expression",
+      "effect": "transcriptional changes",
+      "magnitude": "log2 fold change"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC10284894",
+    "title": "Microbial applications for sustainable space exploration beyond low Earth orbit",
+    "year": "2023",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Koehle, Allison P.",
+    "Brumwell, Stephanie L.",
+    "Seto, Emily P.",
+    "Lynch, Anne M.",
+    "Urbaniak, Camilla",
+    "U.S. Department of State"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Lunar Gateway"
+    ],
+    "assays": [
+      "Bioregenerative life support systems",
+      "Biological in situ resource utilization (bISRU)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "None",
+      "effect": "None",
+      "magnitude": "None"
+    }
+  ]
+}

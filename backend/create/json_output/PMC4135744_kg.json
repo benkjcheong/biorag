@@ -1,0 +1,41 @@
+{
+  "publication": {
+    "pmc_id": "PMC4135744",
+    "title": "Exposure of Bacillus subtilis to Low Pressure (5 Kilopascals) Induces Several Global Regulons, Including Those Involved in the SigB-Mediated General Stress Response",
+    "year": "2014",
+    "journal": "Applied and Environmental Microbiology"
+  },
+  "authors": [
+    "Samantha M Waters",
+    "Jos\u00e9 A Robles-Mart\u00ednez",
+    "Wayne L Nicholson"
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus subtilis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "transcription microarrays"
+    ],
+    "assays": [
+      "measuring the expression of the SigB-dependent ctc-lacZ reporter fusion"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "5 kPa",
+      "dose": "5 kPa",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "transcriptome",
+      "effect": "altered levels of 363 transcripts belonging to several global regulons",
+      "magnitude": "upregulation of the SigB-mediated general stress response (GSR) regulon"
+    }
+  ]
+}

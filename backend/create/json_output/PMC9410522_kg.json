@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC9410522",
+    "title": "Enabling Clonal Analyses of Yeast in Outer Space by Encapsulation and Desiccation in Hollow Microparticles",
+    "year": "2022",
+    "journal": "Life"
+  },
+  "authors": [
+    "Ng, Simon",
+    "Williamson, Cayden",
+    "Di Carlo, Dino",
+    "Santa Maria, Sergio R."
+  ],
+  "subjects": {
+    "species": [
+      "Saccharomyces cerevisiae"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "flow cytometry",
+      "FACS",
+      "microwell plates"
+    ],
+    "assays": [
+      "growth rate analysis",
+      "viability assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "water",
+      "dose": "none",
+      "duration": "rehydration"
+    }
+  ],
+  "results": [
+    {
+      "target": "growth rate",
+      "effect": "accelerated growth",
+      "magnitude": "11%"
+    },
+    {
+      "target": "viability",
+      "effect": "decrease",
+      "magnitude": "14%"
+    }
+  ]
+}

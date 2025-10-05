@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC9576569",
+    "title": "Muscle atrophy phenotype gene expression during spaceflight is linked to a metabolic crosstalk in both the liver and the muscle in mice",
+    "year": "2022",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Vitry Geraldine",
+    "Finch Rebecca",
+    "Mcstay Gavin",
+    "Behesti Afshin",
+    "D\u00e9jean S\u00e9bastien",
+    "Larose Tricia",
+    "Wotring Virginia",
+    "Da Silveira Willian Abraham"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "liver",
+      "quadriceps"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "NASA RR1 mission"
+    ],
+    "assays": [
+      "GSEA",
+      "ORA",
+      "sparse partial least square-differential analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "muscle atrophy",
+      "magnitude": "significant change in gene expression"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC8400407",
+    "title": "Evaluating Ocular Response in the Retina and Optic Nerve Head after Single and Fractionated High-Energy Protons",
+    "year": "2021",
+    "journal": "Life (Basel)"
+  },
+  "authors": [
+    "Xiao-Wen Mao",
+    "Seta Stanbouly",
+    "Tamako Jones",
+    "Gregory Nelson"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6"
+    ],
+    "tissues": [
+      "retina",
+      "optic nerve head"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "particle accelerators"
+    ],
+    "assays": [
+      "apoptosis assay",
+      "immunochemical analysis",
+      "oxidative stress biomarker analysis",
+      "blood-retina barrier (BRB) integrity assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "high-energy protons",
+      "dose": "0.5 Gy or 12 equal dose fractions for a total dose of 0.5 Gy over twenty-five days",
+      "duration": "4 months"
+    }
+  ],
+  "results": [
+    {
+      "target": "apoptosis",
+      "effect": "increased number of apoptotic cells in the retina and ONH",
+      "magnitude": "p < 0.05"
+    },
+    {
+      "target": "oxidative stress",
+      "effect": "enhanced immunoreactivity for oxidative biomarker, 4-hydroxynonenal (4-HNE) in the retina and ONH",
+      "magnitude": "more pronounced changes observed with a single dose of 0.5 Gy"
+    },
+    {
+      "target": "blood-retina barrier (BRB) integrity",
+      "effect": "significant increase in AQP-4 expression in the retina, PECAM-1 and ZO-1 expression changes in the retina",
+      "magnitude": "changes in BRB biomarker distribution between the retina and ONH"
+    }
+  ]
+}

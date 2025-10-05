@@ -1,0 +1,74 @@
+{
+  "publication": {
+    "pmc_id": "PMC11022651",
+    "title": "Genome and clonal hematopoiesis stability contrasts with immune, cfDNA, mitochondrial, and telomere length changes during short duration spaceflight",
+    "year": "2024",
+    "journal": "Precis Clin Med"
+  },
+  "authors": [
+    "J Sebastian Garcia-Medina",
+    "Karolina Sienkiewicz",
+    "S Anand Narayanan",
+    "Eliah G Overbey",
+    "Kirill Grigorev",
+    "Krista A Ryon",
+    "Marissa Burke",
+    "Jacqueline Proszynski",
+    "Braden Tierney",
+    "Caleb M Schmidt",
+    "Nuria Mencia-Trinchant",
+    "Remi Klotz",
+    "Veronica Ortiz",
+    "Jonathan Foox",
+    "Christopher Chin",
+    "Deena Najjar",
+    "Irina Matei",
+    "Irenaeus Chan",
+    "Carlos Cruchaga",
+    "Ashley Kleinman",
+    "JangKeun Kim",
+    "Alexander Lucaci",
+    "Conor Loy",
+    "Omary Mzava",
+    "Iwijn De\u00a0Vlaminck",
+    "Anvita Singaraju",
+    "Lynn E Taylor",
+    "Julian C Schmidt",
+    "Michael A Schmidt",
+    "Kelly Blease",
+    "Juan Moreno",
+    "Andrew Boddicker",
+    "Junhua Zhao",
+    "Bryan Lajoie",
+    "Andrew Altomare",
+    "Semyon Kruglyak"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "PMC",
+      "PubMed"
+    ],
+    "assays": [
+      "assay_type1",
+      "assay_type2"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "treatment_agent",
+      "dose": "dose_amount dose_unit",
+      "duration": "duration_amount duration_unit"
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

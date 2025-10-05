@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC4507784",
+    "title": "Brassinazole resistant 1 (BZR1)-dependent brassinosteroid signalling pathway leads to ectopic activation of quiescent cell division and suppresses columella stem cell differentiation",
+    "year": "2015",
+    "journal": "Journal of Experimental Botany"
+  },
+  "authors": [
+    "Hak-Soo Lee",
+    "Yoon Kim",
+    "Giang Pham",
+    "Ju Won Kim",
+    "Ji-Hye Song",
+    "Yew Lee",
+    "Yong-Sic Hwang",
+    "Stanley J Roux",
+    "Soo-Hwan Kim"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root",
+      "quiescent centre (QC)",
+      "columella stem cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "root tip",
+      "cell culture"
+    ],
+    "assays": [
+      "gene expression analysis",
+      "immunofluorescence",
+      "auxin transport assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Brassinazole",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "cell division in quiescent centre (QC)",
+      "effect": "increased",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "columella stem cell differentiation",
+      "effect": "suppressed",
+      "magnitude": "unknown"
+    }
+  ]
+}

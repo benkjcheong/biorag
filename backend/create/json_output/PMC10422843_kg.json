@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC10422843",
+    "title": "Two novel basidiomycetous yeasts from Mars 2020 mission assembly facilities",
+    "year": "2023",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology"
+  },
+  "authors": [
+    "Leo, Patrick",
+    "de Melo Texeira, Marcus",
+    "Chander, Atul M",
+    "Singh, Nitin K",
+    "Simpson, Anna C",
+    "Yurkov, Andrey",
+    "Karouia, Fathi",
+    "Stajich, Jason E",
+    "Mason, Christopher E",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Naganishia kalamii",
+      "Cystobasidium onofrii"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Jet Propulsion Laboratory Spacecraft Assembly Facility",
+      "Kennedy Space Center Payload Hazardous and Servicing Facility"
+    ],
+    "assays": [
+      "colony morphology",
+      "cell morphology",
+      "multi-locus sequence analysis (MLSA)",
+      "whole genome sequencing (WGS)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "UV-C radiation",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "UV resistance",
+      "effect": "resistant to UV-C radiation",
+      "magnitude": "significant increase in survival rate"
+    }
+  ]
+}

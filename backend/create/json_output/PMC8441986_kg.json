@@ -1,0 +1,70 @@
+{
+  "publication": {
+    "pmc_id": "PMC8441986",
+    "title": "Circulating miRNA Spaceflight Signature Reveals Targets for Countermeasure Development",
+    "year": "2020",
+    "journal": "Cell Reports"
+  },
+  "authors": [
+    "Sherina Malkani",
+    "Christopher R Chin",
+    "Egle Cekanaviciute",
+    "Marie Mortreux",
+    "Hazeem Okinula",
+    "Marcel Tarbier",
+    "Ann-Sofie Schreurs",
+    "Yasaman Shirazi-Fard",
+    "Candice GT Tahimic",
+    "Deyra N Rodriguez",
+    "Brittany S Sexton",
+    "Daniel Butler",
+    "Akanksha Verma",
+    "Daniela Bezdan",
+    "Ceyda Durmaz",
+    "Matthew MacKay",
+    "Ari Melnick",
+    "Sheng Li",
+    "Francine Garrett-Bakelman",
+    "Bastian Fromm",
+    "Ebrahim Afshinnekoo",
+    "Brad W Langhorst",
+    "Eileen T Dimalanta",
+    "Margareth Cheng-Campbell",
+    "Elizabeth Blaber",
+    "Jonathan C Schisler",
+    "Charles Vanderburg",
+    "Marc R Friedl\u00e4nder",
+    "J Tyson McDonald",
+    "Sylvain V Costes",
+    "Seward Rutkove",
+    "Peter Grabham",
+    "Christopher E Mason",
+    "Afshin Beheshti"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "N/A"
+    ],
+    "assays": [
+      "N/A"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "N/A",
+      "dose": "N/A",
+      "duration": "N/A"
+    }
+  ],
+  "results": [
+    {
+      "target": "N/A",
+      "effect": "N/A",
+      "magnitude": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+requests
+sentence-transformers>=2.3.0
+scikit-learn
+numpy
+flask
+flask-cors

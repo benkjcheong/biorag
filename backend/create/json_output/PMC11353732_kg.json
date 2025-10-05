@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC11353732",
+    "title": "Simulated Microgravity Alters Gene Regulation Linked to Immunity and Cardiovascular Disease",
+    "year": "2024",
+    "journal": "Genes (Basel)"
+  },
+  "authors": [
+    "Candice G T Tahimic",
+    "Sonette Steczina",
+    "Aimy Sebastian",
+    "Nicholas R Hum",
+    "Metadel Abegaz",
+    "Masahiro Terada",
+    "Maria Cimini",
+    "David A Goukassian",
+    "Ann-Sofie Schreurs",
+    "Tana M Hoban-Higgins",
+    "Charles A Fuller",
+    "Gabriela G Loots",
+    "Ruth K Globus",
+    "Yasaman Shirazi-Fard",
+    "Sigrun Lange",
+    "Jameel M Inal"
+  ],
+  "subjects": {
+    "species": [
+      "Long\u2013Evans rat",
+      "rat"
+    ],
+    "tissues": [
+      "left ventricular tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading (HU)"
+    ],
+    "assays": [
+      "RNAseq analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "simulated microgravity",
+      "dose": null,
+      "duration": "up to 90 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "8-OHdG levels",
+      "effect": "increased oxidative damage",
+      "magnitude": "elevated levels"
+    },
+    {
+      "target": "gene expression",
+      "effect": "altered expression of genes involved in the oxidative response",
+      "magnitude": "upregulation and downregulation"
+    }
+  ]
+}

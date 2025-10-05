@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC5958250",
+    "title": "Draft genome sequences of two Fusarium oxysporum isolates cultured from infected Zinnia hybrida plants grown on the International Space Station",
+    "year": "2018",
+    "journal": "Genome Announcements"
+  },
+  "authors": [
+    "Urbaniak C",
+    "Massa G",
+    "Hummerick M",
+    "Khodadad C",
+    "Schuerger A",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Fusarium oxysporum",
+      "Zinnia hybrida"
+    ],
+    "tissues": [
+      "leaf",
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Illumina HiSeq",
+      "Galaxy server"
+    ],
+    "assays": [
+      "de novo assembly"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequences",
+      "effect": "assembled",
+      "magnitude": "49.3 Mb (VEG-01C1), 48.9 Mb (VEG-01C2)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC6321533",
+    "title": "Effects of Space Flight on Mouse Liver versus Kidney: Gene Pathway Analyses",
+    "year": "2018",
+    "journal": "International Journal of Molecular Sciences"
+  },
+  "authors": [
+    "Timothy G Hammond",
+    "Patricia L Allen",
+    "Holly H Birdsall"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "liver",
+      "kidney"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Affymetrix hybridization"
+    ],
+    "assays": [
+      "Gene array analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "12 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "overexpression",
+      "magnitude": "fold change"
+    },
+    {
+      "target": "gene expression",
+      "effect": "downregulation",
+      "magnitude": "fold change"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "publication": {
+    "pmc_id": "PMC5933128",
+    "title": "Modulation of arogenate dehydratase in Arabidopsis causes changes in secondary metabolism, transient overaccumulation of starch, and lower photosynthetic electron transport rates.",
+    "year": "2018",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "H\u00f6hner R.",
+    "Marques J.V.",
+    "Ito T.",
+    "Amakura Y.",
+    "Budgeon A.D.",
+    "Weitz K.",
+    "Hixson K.K.",
+    "Davin L.B.",
+    "Kirchhoff H.",
+    "Lewis N.G."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "chloroplasts",
+      "plastids"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "phenomics facility",
+      "ultra-performance liquid chromatography-mass spectrometry"
+    ],
+    "assays": [
+      "metabolomics analyses",
+      "targeted and nontargeted metabolomics",
+      "starch analyses",
+      "isolation and identification of Arabidopsis metabolites",
+      "real-time atmospheric monitoring mass spectrometry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "ADT knockout mutants",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "photosynthetic electron transport rates",
+      "effect": "lower",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "ATP/ADP ratio",
+      "effect": "increased",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "starch accumulation",
+      "effect": "overaccumulation",
+      "magnitude": "transient"
+    },
+    {
+      "target": "electron transport rates",
+      "effect": "lowered",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "flavonoid, phenylpropanoid, lignan, and glucosinolate contents",
+      "effect": "reduced",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "galactolipids and apocarotenoids",
+      "effect": "increased",
+      "magnitude": "unknown"
+    }
+  ]
+}

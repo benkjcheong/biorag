@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC4378170",
+    "title": "Galactose-Depleted Xyloglucan Is Dysfunctional and Leads to Dwarfism in Arabidopsis",
+    "year": "2015",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Kong Yingzhen",
+    "Pena Maria J",
+    "Renna Luciana",
+    "Avci Utku",
+    "Pattathil Sivakumar",
+    "Tuomivaara Sami T",
+    "Li Xuemei",
+    "Reiter Wolf-Dieter",
+    "Brandizzi Federica",
+    "Hahn Michael G",
+    "Dar Alan G"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "xyloglucan"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "N/A"
+    ],
+    "assays": [
+      "N/A"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "N/A",
+      "dose": "N/A",
+      "duration": "N/A"
+    }
+  ],
+  "results": [
+    {
+      "target": "dwarfism",
+      "effect": "dysfunctional xyloglucan",
+      "magnitude": "N/A"
+    }
+  ]
+}

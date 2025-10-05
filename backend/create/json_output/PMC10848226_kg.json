@@ -1,0 +1,45 @@
+{
+  "publication": {
+    "pmc_id": "PMC10848226",
+    "title": "Microbial Ecology of the Built Environment and Strategies to Translate Knowledge into Effective Biocontrol of Antibiotic-Resistant Pathogens",
+    "year": "2024",
+    "journal": "ISME Journal"
+  },
+  "authors": [
+    "Gottel, Neil R.",
+    "Hill, Megan S.",
+    "Neal, Maxwell J.",
+    "Allard, Sarah M.",
+    "Zengler, Karsten",
+    "Gilbert, Jack A."
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus",
+      "Staphylococcus aureus (MRSA)",
+      "Enterococcus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "Cleaning and disinfection practices",
+      "Metabolic modelling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Bacillus-based cleaning products",
+      "dose": "Not specified",
+      "duration": "Not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "Pathogen accumulation on surfaces",
+      "effect": "Reduced pathogen exposure and infection risk",
+      "magnitude": "Not specified"
+    }
+  ]
+}

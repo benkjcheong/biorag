@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC8450295",
+    "title": "Telomere length assessments of muscle stem cells in rodent and human skeletal muscle sections",
+    "year": "2021",
+    "journal": "PLOS ONE"
+  },
+  "authors": [
+    "Tichy, E. D.",
+    "Mourkioti, F."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "skeletal muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "cryosection",
+      "microscopy"
+    ],
+    "assays": [
+      "Q-FISH",
+      "Telometer"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "telomere length",
+      "effect": "quantification",
+      "magnitude": "single-cell level"
+    }
+  ]
+}

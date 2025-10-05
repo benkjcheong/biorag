@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC10764921",
+    "title": "Effects of altered gravity on growth and morphology in Wolffia globosa implications for bioregenerative life support systems and space-based agriculture",
+    "year": "2024",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Leone Ermes Romano",
+    "Jack J W A van Loon",
+    "Luigi Gennaro Izzo",
+    "Maurizio Iovane",
+    "Giovanna Aronne"
+  ],
+  "subjects": {
+    "species": [
+      "Wolffia globosa"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "random positioning machines",
+      "large-diameter centrifuge"
+    ],
+    "assays": [
+      "relative growth rate (RGR)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "simulated microgravity",
+      "dose": null,
+      "duration": "unknown"
+    },
+    {
+      "agent": "simulated partial gravity (Moon)",
+      "dose": null,
+      "duration": "unknown"
+    },
+    {
+      "agent": "hypergravity",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "relative growth rate (RGR)",
+      "effect": "reduced compared to other gravity levels",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "plant dimensions",
+      "effect": "differences in plant dimensions under diverse gravity conditions",
+      "magnitude": "unknown"
+    }
+  ]
+}

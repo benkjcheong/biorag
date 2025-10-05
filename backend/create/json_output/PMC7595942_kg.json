@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC7595942",
+    "title": "Draft Genome Sequences of Bacillaceae Strains Isolated from the International Space Station",
+    "year": "2020",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Daudu R",
+    "Singh NK",
+    "Wood JM",
+    "Debieu M",
+    "O'Hara NB",
+    "Mason CE",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus amyloliquefaciens",
+      "Bacillus cereus",
+      "Paenibacillus polymyxa"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Reasoner's 2A (R2A)",
+      "blood agar"
+    ],
+    "assays": [
+      "16S rRNA sequencing",
+      "DNA extraction using ZymoBIOMICS MagBead DNA kit",
+      "shotgun libraries using Illumina Nextera Flex protocol",
+      "SPAdes v3.11.1 for assembly",
+      "ANI calculation using OrthoANIu"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "draft genome sequences",
+      "effect": "assembled and identified",
+      "magnitude": "ANI range 93.98% to 94.17%"
+    }
+  ]
+}

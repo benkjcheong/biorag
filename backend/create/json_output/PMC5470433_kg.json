@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC5470433",
+    "title": "Data for characterization of SALK_084889, a T-DNA insertion line of Arabidopsis thaliana",
+    "year": "2017",
+    "journal": "Data Brief"
+  },
+  "authors": [
+    "Mingqi Zhou",
+    "Anna-Lisa Paul",
+    "Robert J Ferl"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "roots",
+      "shoots"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "DNA-PCR",
+      "Quantitative Realtime PCR (qPCR)",
+      "sanger sequencing"
+    ],
+    "assays": [
+      "qPCR"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "drought treatment",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "heat treatment",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "DREB2A expression",
+      "effect": "downregulation under drought conditions",
+      "magnitude": null
+    },
+    {
+      "target": "LOX1 expression",
+      "effect": "significant downregulation in roots and shoots",
+      "magnitude": null
+    }
+  ]
+}

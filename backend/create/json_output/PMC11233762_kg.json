@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC11233762",
+    "title": "Upregulation of Amy1 in the salivary glands of mice exposed to a lunar gravity environment using the multiple artificial gravity research system",
+    "year": "2024",
+    "journal": "Frontiers in Physiology"
+  },
+  "authors": [
+    "Ouchi Takehito",
+    "Kono Kyosuke",
+    "Satou Ryouichi",
+    "Kurashima Ryuya",
+    "Yamaguchi Koji",
+    "Kimura Maki",
+    "Shibukawa Yoshiyuki"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "salivary gland"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "multiple artificial gravity research system",
+      "International Space Station"
+    ],
+    "assays": [
+      "mRNA expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "lunar gravity",
+      "dose": "1/6\u00a0g",
+      "duration": "2 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "Amy1 gene expression",
+      "effect": "upregulation",
+      "magnitude": null
+    }
+  ]
+}

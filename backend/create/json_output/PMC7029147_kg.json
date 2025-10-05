@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC7029147",
+    "title": "Contributions of Spore Secondary Metabolites to UV-C Protection and Virulence Vary in Different Aspergillus fumigatus Strains",
+    "year": "2020",
+    "journal": "mBio"
+  },
+  "authors": [
+    "Blachowicz, Adriana",
+    "Raffa, Nicholas",
+    "Bok, Jin Woo",
+    "Choera, Tsokyi",
+    "Knox, Benjamin",
+    "Lim, Fang Yun",
+    "Huttenlocher, Anna",
+    "Wang, Clay C.C.",
+    "Venkateswaran, Kasthuri",
+    "Keller, Nancy P."
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus fumigatus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Zebrafish model"
+    ],
+    "assays": [
+      "UV-C radiation",
+      "Virulence tests"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "UV-C radiation",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "UV-C sensitivity of spores",
+      "effect": "Increased sensitivity to UV-C radiation in mutants",
+      "magnitude": null
+    },
+    {
+      "target": "Virulence in zebrafish model",
+      "effect": "DHN-melanin is a virulence factor in CEA17 and IF1SW-F4, but not Af293.",
+      "magnitude": null
+    }
+  ]
+}

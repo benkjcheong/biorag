@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC9640571",
+    "title": "Microfluidics-integrated spaceflight hardware for measuring muscle strength of Caenorhabditis elegans on the International Space Station",
+    "year": "2022",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Soni, Purushottam",
+    "Anupom, Taslim",
+    "Lesanpezeshki, Leila",
+    "Rahman, Mizanur",
+    "Hewitt, Jennifer E",
+    "Vellone, Matthew",
+    "Stodieck, Louis",
+    "Blawzdziewicz, Jerzy",
+    "Szewczyk, Nathaniel J",
+    "Vanapalli, Siva A"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": [
+      "muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "microfluidic device"
+    ],
+    "assays": [
+      "muscle strength measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "muscle strength",
+      "effect": "decreased expression of genes encoding muscle attachment complexes",
+      "magnitude": "null"
+    }
+  ]
+}

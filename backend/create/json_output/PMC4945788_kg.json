@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC4945788",
+    "title": "Draft genome sequences of two Aspergillus fumigatus strains, isolated from the International Space Station",
+    "year": "2016",
+    "journal": "Genome Announcements"
+  },
+  "authors": [
+    "Singh NK",
+    "Blachowicz A",
+    "Checinska A",
+    "Wang C",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus fumigatus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina HiSeq2500 instrument",
+      "MaSuRCA genome assembler"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "lethal effect in larval zebrafish model of invasive aspergillosis",
+      "effect": "significantly more lethal",
+      "magnitude": "greater"
+    },
+    {
+      "target": "UV254 resistance",
+      "effect": "significantly greater resistance",
+      "magnitude": "increased"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC7314936",
+    "title": "Hardware Validation of the Advanced Plant Habitat on ISS: Canopy Photosynthesis in Reduced Gravity",
+    "year": "2020",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Monje, Oscar",
+    "Richards, Jeffrey T.",
+    "Carver, John A.",
+    "Dimapilis, Dinah I.",
+    "Levine, Howard G.",
+    "Dufour, Nicole F.",
+    "Onate, Bryan G."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis",
+      "wheat"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Advanced Plant Habitat (APH)",
+      "ground facilities at the Kennedy Space Center (KSC)"
+    ],
+    "assays": [
+      "CO2 drawdown technique",
+      "canopy photosynthesis and respiration measurements"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_photosynthesis",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    },
+    {
+      "target": "measured_respiration",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

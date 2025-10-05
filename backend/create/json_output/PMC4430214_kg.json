@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC4430214",
+    "title": "Post-Spaceflight (STS-135) Mouse Splenocytes Demonstrate Altered Activation Properties and Surface Molecule Expression",
+    "year": "2015",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Shen-An Hwang",
+    "Brian Crucian",
+    "Clarence Sams",
+    "Jeffrey K Actor"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "spleen"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro",
+      "cultured"
+    ],
+    "assays": [
+      "surface marker analysis",
+      "cytokine production assay",
+      "phagocytosis assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "surface marker expression",
+      "effect": "altered",
+      "magnitude": null
+    },
+    {
+      "target": "cytokine production",
+      "effect": "decreased IFN-\u03b3, increased IL-2",
+      "magnitude": null
+    }
+  ]
+}

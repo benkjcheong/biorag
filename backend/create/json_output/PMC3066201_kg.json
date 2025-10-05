@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC3066201",
+    "title": "Functional Changes in the Snail Statocyst System Elicited by Microgravity",
+    "year": "2011",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Pavel M Balaban",
+    "Aleksey Y Malyshev",
+    "Victor N Ierusalimsky",
+    "Nikolay Aseyev",
+    "Tania A Korshunova",
+    "Natasha I Bravarenko",
+    "M S Lemak",
+    "Matvey Roshchin",
+    "Igor S Zakharov",
+    "Yekaterina Popova",
+    "Richard Boyle"
+  ],
+  "subjects": {
+    "species": [
+      "Helix lucorum",
+      "Helix aspersa"
+    ],
+    "tissues": [
+      "statocyst",
+      "neural preparation",
+      "cerebral ganglion"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "isolated neural preparation"
+    ],
+    "assays": [
+      "tilt response",
+      "latency of body re-orientation",
+      "firing rate",
+      "mRNA expression"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "microgravity exposure",
+      "dose": "16- (Foton M-2) and 12-day (Foton M-3)",
+      "duration": "16 days or 12 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "statoreceptor responses to tilt",
+      "effect": "enhanced negative gravitaxis response",
+      "magnitude": "reduced latency of body re-orientation"
+    },
+    {
+      "target": "tilt velocity and firing rate",
+      "effect": "significant increase in firing rate",
+      "magnitude": "larger response magnitude in postflight snails"
+    },
+    {
+      "target": "HPep mRNA expression",
+      "effect": "significant increase",
+      "magnitude": null
+    }
+  ]
+}

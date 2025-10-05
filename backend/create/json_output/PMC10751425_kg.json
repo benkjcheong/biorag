@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC10751425",
+    "title": "Bisphosphonates delay sarcopenia in Caenorhabditis elegans",
+    "year": "2023",
+    "journal": "Journal of Cachexia, Sarcopenia and Muscle"
+  },
+  "authors": [
+    "Slade L",
+    "Bollen SE",
+    "Bass JJ",
+    "Phillips BE",
+    "Smith K",
+    "Wilkinson DJ",
+    "Szewczyk NJ",
+    "Atherton PJ",
+    "Etheridge T"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": [
+      "muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microfluidic chip device"
+    ],
+    "assays": [
+      "lifespan",
+      "healthspan (movement rates)",
+      "GFP-tagged myofibres or mitochondria"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "zoledronic acid (ZA)",
+      "dose": "100\u00a0nM, 1\u00a0\u03bcM, 10\u00a0\u03bcM, 100\u00a0\u03bcM, 500\u00a0\u03bcM",
+      "duration": "adulthood"
+    }
+  ],
+  "results": [
+    {
+      "target": "lifespan",
+      "effect": "increased lifespan",
+      "magnitude": "P\u00a0<\u00a00.001"
+    },
+    {
+      "target": "healthspan",
+      "effect": "improved healthspan",
+      "magnitude": "P\u00a0<\u00a00.05"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC9487896",
+    "title": "Inhibition of SARS-CoV-2 wild-type (Wuhan-Hu-1) and Delta (B.1.617.2) strains by marine sulfated glycans",
+    "year": "2022",
+    "journal": "Glycobiology"
+  },
+  "authors": [
+    "Dwivedi, Rohini",
+    "Sharma, Poonam",
+    "Farrag, Marwa",
+    "Kim, Seon Beom",
+    "Fassero, Lauren A",
+    "Tandon, Ritesh",
+    "Pomin, Vitor H",
+    "Pomin, Vitor H"
+  ],
+  "subjects": {
+    "species": [
+      "SARS-CoV-2",
+      "Wuhan-Hu-1",
+      "Delta (B.1.617.2)",
+      "ACE2"
+    ],
+    "tissues": [
+      "host cell",
+      "epithelial cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "virus entry assay",
+      "pseudovirus coated with S-protein"
+    ],
+    "assays": [
+      "viral inhibition"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "marine sulfated glycans (MSGs)",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "S-protein RBD",
+      "effect": "inhibition",
+      "magnitude": "strong inhibitory activity"
+    }
+  ]
+}

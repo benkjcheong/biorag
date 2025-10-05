@@ -1,0 +1,76 @@
+{
+  "publication": {
+    "pmc_id": "PMC6638264",
+    "title": "Apyrase inhibitors enhance the ability of diverse fungicides to inhibit the growth of different plant\u2010pathogenic fungi",
+    "year": "2016",
+    "journal": "Molecular Plant Pathology"
+  },
+  "authors": [
+    "Tripathy, Manas Kumar",
+    "Weeraratne, Gayani",
+    "Clark, Greg",
+    "Roux, Stanley J"
+  ],
+  "subjects": {
+    "species": [
+      "Botrytis cinerea",
+      "Sclerotinia sclerotiorum",
+      "Penicillium digitatum",
+      "Pyrenophora tritici-repentis",
+      "Mycosphaerella graminicola"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "plate growth assays"
+    ],
+    "assays": [
+      "fungicide inhibition assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "copper octanoate",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "myclobutanil",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "propiconazole",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "AI.1",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "AI.10",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "AI.13",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "AI.15",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "fungal growth inhibition",
+      "effect": "increased inhibition",
+      "magnitude": "significant increase in inhibition"
+    }
+  ]
+}

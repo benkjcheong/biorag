@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC9293686",
+    "title": "Differential Single Cell Responses of Embryonic Stem Cells Versus Embryoid Bodies to Gravity Mechanostimulation",
+    "year": "2022",
+    "journal": "Stem Cells and Development"
+  },
+  "authors": [
+    "Cassandra M Juran",
+    "Justina Zvirblyte",
+    "Eduardo AC Almeida"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "embryonic stem cells",
+      "embryoid bodies"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "single cell RNA sequencing",
+      "embryoid body culture"
+    ],
+    "assays": [
+      "gravity mechanostimulation",
+      "hydrostatic pressure application"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hypergravity (HG)",
+      "dose": "50 g",
+      "duration": "60 minutes"
+    }
+  ],
+  "results": [
+    {
+      "target": "transcriptome",
+      "effect": "upregulation of genes related to cell proliferation, differentiation, and angiogenesis in ESCs; upregulation of genes related to multicellular development, mechanical signal transduction, and DNA damage repair in EBs",
+      "magnitude": "differential expression levels"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC3067220",
+    "title": "Transcriptional and Proteomic Responses of Pseudomonas aeruginosa PAO1 to Spaceflight Conditions Involve Hfq Regulation and Reveal a Role for Oxygen",
+    "year": "2010",
+    "journal": "Applied and Environmental Microbiology"
+  },
+  "authors": [
+    "Crabb\u00e9 A",
+    "Schurr MJ",
+    "Monsieurs P",
+    "Morici L",
+    "Schurr J",
+    "Wilson JW",
+    "Ott CM",
+    "Tsaprailis G",
+    "Pierson DL",
+    "Stefanyshyn-Piper HS",
+    "Nickerson CA"
+  ],
+  "subjects": {
+    "species": [
+      "Pseudomonas aeruginosa PAO1"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "transcriptional analysis",
+      "proteomic analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight conditions",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "transcriptional and proteomic changes",
+      "effect": "observed alterations in gene expression and protein levels",
+      "magnitude": "significant changes"
+    }
+  ]
+}

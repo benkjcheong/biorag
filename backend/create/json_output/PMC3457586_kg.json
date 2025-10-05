@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC3457586",
+    "title": "Identification of Critical Host Mitochondrial-Associated Genes during Ehrlichia chaffeensis Infections",
+    "year": "2012",
+    "journal": "Infect Immun"
+  },
+  "authors": [
+    "Von Ohlen T.",
+    "Luce-Fedrow A.",
+    "Ortega M.T.",
+    "Ganta R.R.",
+    "Chapes S.K."
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster"
+    ],
+    "tissues": [
+      "S2 cells",
+      "macrophages"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microarray analysis",
+      "RT-PCR",
+      "qRT-PCR",
+      "RNA isolation",
+      "cell culture"
+    ],
+    "assays": [
+      "infection",
+      "replication",
+      "gene expression"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "sonicated lipopolysaccharide (LPS) from Salmonella enterica serovar Minnesota",
+      "dose": "10 \u03bcg per ml",
+      "duration": "5 h"
+    }
+  ],
+  "results": [
+    {
+      "target": "bacterial load",
+      "effect": "decreased",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "gene expression",
+      "effect": "increased",
+      "magnitude": "not specified"
+    }
+  ]
+}

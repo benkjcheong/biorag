@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC12021249",
+    "title": "Development of a size-separation technique to isolate Caenorhabditis elegans embryos using mesh filters",
+    "year": "2025",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Nikita S Jhaveri",
+    "Maya K Mastronardo",
+    "JB Collins",
+    "Erik C Andersen"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "RNA sequencing",
+      "genome-wide association studies (GWAS)",
+      "drug screens",
+      "proteomics",
+      "behavioral assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "embryo yield",
+      "effect": "higher yield of embryos per plate",
+      "magnitude": "increased"
+    },
+    {
+      "target": "larval development",
+      "effect": "no deleterious effects on downstream larval development assays",
+      "magnitude": "none"
+    }
+  ]
+}

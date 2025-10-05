@@ -1,0 +1,45 @@
+{
+  "publication": {
+    "pmc_id": "PMC11892206",
+    "title": "Immunization induces inflammation in the mouse heart during spaceflight",
+    "year": "2025",
+    "journal": "BMC Genomics"
+  },
+  "authors": [
+    "Veliz, Alicia L.",
+    "Hughes, Lorelei",
+    "Carrillo, Delia",
+    "Pecaut, Michael J.",
+    "Kearns-Jonker, Mary"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J"
+    ],
+    "tissues": [
+      "heart"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "RNAseq analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "TT\u2009+\u2009CpG",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "heart transcriptome",
+      "effect": "inflammation",
+      "magnitude": "increased expression of NF-\u03baB signaling pathway genes"
+    }
+  ]
+}

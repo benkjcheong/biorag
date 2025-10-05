@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC4349987",
+    "title": "Proteomic Study of Microsomal Proteins Reveals a Key Role for Arabidopsis Annexin 1 in Mediating Heat Stress-Induced Increase in Intracellular Calcium Levels",
+    "year": "2015",
+    "journal": "Mol Cell Proteomics"
+  },
+  "authors": [
+    "Wang Xu",
+    "Ma Xiaolong",
+    "Wang Hui",
+    "Li Bingjie",
+    "Clark Greg",
+    "Guo Yi",
+    "Roux Stan",
+    "Sun Daye",
+    "Tang Wenqiang",
+    "\u00b6"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "microsomes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "2-D difference gel electrophoresis (2-D DIGE)"
+    ],
+    "assays": [
+      "mass spectrometry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "heat stress",
+      "dose": null,
+      "duration": "5 minutes"
+    }
+  ],
+  "results": [
+    {
+      "target": "intracellular calcium concentration ([Ca2+]cyt)",
+      "effect": "increase",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "annexin 1 (AtANN1)",
+      "effect": "up-regulated",
+      "magnitude": "not specified"
+    }
+  ]
+}

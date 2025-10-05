@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC8886715",
+    "title": "Human Host Defense Peptide-Conjugated Graphene Quantum Dots Inhibit SARS-CoV-2 Delta Variant Entry into Host Cells",
+    "year": "2022",
+    "journal": "ACS Omega"
+  },
+  "authors": [
+    "Pramanik, Avijit",
+    "Sharma, Poonam C",
+    "Patibandla, Shamily",
+    "Gao, Ye",
+    "Ruppa-Kasani, Vinod",
+    "Goli, Jagruti",
+    "Kumar, Animesh",
+    "Chatterjee, Abhirup",
+    "Sinha, Sudarson Sekhar",
+    "Bates, John T",
+    "Bierdeman, Michael A",
+    "Tandon, Ritesh",
+    "Ray, Paresh Chandra"
+  ],
+  "subjects": {
+    "species": [
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "nasal epithelial mucosal cells",
+      "human host cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "graphene quantum dots (GQDs)"
+    ],
+    "assays": [
+      "Fluorescence quenching assay",
+      "Stern-Volmer quenching analysis",
+      "Hill equation analysis",
+      "Pseudovirion entry inhibition assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "HNP1 peptide-conjugated GQDs",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "LL-37 peptide-conjugated GQDs",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "SARS-CoV-2 delta variant (B.1.617.2) spike protein RBD binding with ACE2 receptor",
+      "effect": "Inhibition of virus entry into host cells",
+      "magnitude": "Fluorescence quenching, Stern-Volmer analysis, Hill equation analysis"
+    }
+  ]
+}

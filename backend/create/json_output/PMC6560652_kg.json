@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC6560652",
+    "title": "Physical Forces Modulate Oxidative Status and Stress Defense Meditated Metabolic Adaptation of Yeast Colonies: Spaceflight and Microgravity Simulations",
+    "year": "2018",
+    "journal": "Microgravity Science & Technology"
+  },
+  "authors": [
+    "Timothy G Hammond",
+    "Patricia L Allen",
+    "Margaret A Gunter",
+    "Jennifer Chiang",
+    "Guri Giaever",
+    "Corey Nislow",
+    "Holly H Birdsall"
+  ],
+  "subjects": {
+    "species": [
+      "Saccharomyces cerevisiae"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "agar-based colonies",
+      "liquid cultures",
+      "Random positioning machine",
+      "Simulated microgravity"
+    ],
+    "assays": [
+      "Apoptosis measurement",
+      "Shear stress gene expression analysis",
+      "Reactive oxygen species (ROS) measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "rotation",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "microgravity simulation",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "apoptosis",
+      "effect": "increased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "ROS levels",
+      "effect": "increased",
+      "magnitude": "significant"
+    }
+  ]
+}

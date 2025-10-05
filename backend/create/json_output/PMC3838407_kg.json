@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC3838407",
+    "title": "Microfluidics-enabled method to identify modes of Caenorhabditis elegans paralysis in four anthelmintics",
+    "year": "2013",
+    "journal": "Biomicrofluidics"
+  },
+  "authors": [
+    "Roy Lycke",
+    "Archana Parashar",
+    "Santosh Pandey"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "two-dimensional microfluidic platform",
+      "real-time imaging"
+    ],
+    "assays": [
+      "worm tracking software"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "pyrantel",
+      "dose": "EC75",
+      "duration": "40 minutes"
+    },
+    {
+      "agent": "levamisole",
+      "dose": "EC75",
+      "duration": "40 minutes"
+    },
+    {
+      "agent": "methyridine",
+      "dose": "EC75",
+      "duration": "40 minutes"
+    },
+    {
+      "agent": "tribendimidine",
+      "dose": "EC75",
+      "duration": "40 minutes"
+    }
+  ],
+  "results": [
+    {
+      "target": "worm behavior",
+      "effect": "paralysis mode",
+      "magnitude": "quantified over time"
+    }
+  ]
+}

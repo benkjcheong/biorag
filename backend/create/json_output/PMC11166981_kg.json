@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166981",
+    "title": "Spaceflight induces changes in gene expression profiles linked to insulin and estrogen",
+    "year": "2024",
+    "journal": "Commun Biol"
+  },
+  "authors": [
+    "Begum Aydogan Mathyk",
+    "Marshall Tabetah",
+    "Rashid Karim",
+    "Victoria Zaksas",
+    "JangKeun Kim",
+    "R I Anu",
+    "Masafumi Muratani",
+    "Alexia Tasoula",
+    "Ruth Subhash Singh",
+    "Yen-Kai Chen",
+    "Eliah Overbey",
+    "Jiwoon Park",
+    "Henry Cope",
+    "Nathaniel Szewczyk",
+    "Riley M St Clair",
+    "Fathi Karouia",
+    "Afshin Beheshti",
+    "Steven L Young",
+    "Christopher E Mason"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "PMC",
+      "PubMed"
+    ],
+    "assays": [
+      "Search in PMC",
+      "Search in PubMed"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression profiles",
+      "effect": "altered",
+      "magnitude": "unknown"
+    }
+  ]
+}

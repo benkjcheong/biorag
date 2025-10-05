@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC3856860",
+    "title": "Chronic Skeletal Unloading of the Rat Femur: Mechanisms and Functional Consequences of Vascular Remodeling",
+    "year": "2013",
+    "journal": "Bone"
+  },
+  "authors": [
+    "John N Stabley",
+    "Rhonda D Prisby",
+    "Bradley J Behnke",
+    "Michael D Delp"
+  ],
+  "subjects": {
+    "species": [
+      "Rat"
+    ],
+    "tissues": [
+      "Bone",
+      "Marrow"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Hindlimb Unloading",
+      "Standing (Reloading)"
+    ],
+    "assays": [
+      "Blood Flow Measurement",
+      "Histomorphometry",
+      "Arterial Morphology Analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Hindlimb Unloading",
+      "dose": "7 days or 14 days",
+      "duration": "7 days or 14 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "Femoral Blood Flow",
+      "effect": "Lowered blood flow in distal metaphysis, proximal and distal metaphyses, diaphysis, and diaphyseal marrow of HU animals compared to control",
+      "magnitude": "Significant decrease in perfusion"
+    },
+    {
+      "target": "Vascular Resistance",
+      "effect": "Higher vascular resistance in all regions of the femur during reloading in 14-d HU rats",
+      "magnitude": "Increased resistance"
+    },
+    {
+      "target": "PNA Structure",
+      "effect": "Smaller PNA intraluminal diameter and thinner medial wall thickness in 14-d HU rats compared to control",
+      "magnitude": "Significant changes in PNA structure"
+    }
+  ]
+}

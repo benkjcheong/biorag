@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC3982735",
+    "title": "Ethylene-Induced Flavonol Accumulation in Guard Cells Suppresses Reactive Oxygen Species and Moderates Stomatal Aperture",
+    "year": "2014",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Justin M Watkins",
+    "Paul J Hechler",
+    "Gloria K Muday"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "guard cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "fluorescence"
+    ],
+    "assays": [
+      "ROS detection",
+      "stomatal closure measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "ethylene",
+      "dose": "various",
+      "duration": "various"
+    }
+  ],
+  "results": [
+    {
+      "target": "reactive oxygen species (ROS)",
+      "effect": "suppression",
+      "magnitude": "decreased ROS levels"
+    },
+    {
+      "target": "stomatal aperture",
+      "effect": "slower closure rate",
+      "magnitude": "reduced stomatal closure rate"
+    }
+  ]
+}

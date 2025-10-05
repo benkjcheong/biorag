@@ -1,0 +1,40 @@
+{
+  "publication": {
+    "pmc_id": "PMC3818365",
+    "title": "IRE1-dependent Unfolded Protein Response Signaling in Cell Fate Determination Under ER Stress",
+    "year": "2013",
+    "journal": "Trends Cell Biol"
+  },
+  "authors": [
+    "Chen, Yani",
+    "Brandizzi, Federica"
+  ],
+  "subjects": {
+    "species": [
+      "Yeast",
+      "Mammalian",
+      "Plant"
+    ],
+    "tissues": [
+      "Endoplasmic Reticulum"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "",
+      "dose": "",
+      "duration": ""
+    }
+  ],
+  "results": [
+    {
+      "target": "UPR target genes",
+      "effect": "IRE1 signaling regulates UPR target gene expression",
+      "magnitude": "Increased or decreased mRNA levels"
+    }
+  ]
+}

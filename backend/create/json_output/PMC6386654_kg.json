@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC6386654",
+    "title": "Squid genomes in a bacterial world",
+    "year": "2019",
+    "journal": "Proc Natl Acad Sci U S A"
+  },
+  "authors": [
+    "Mahdi Belcaid",
+    "Giorgio Casaburi",
+    "Sarah J McAnulty",
+    "Hannah Schmidbaur",
+    "Andrea M Suria",
+    "Silvia Moriano-Gutierrez",
+    "M Sabrina Pankey",
+    "Todd H Oakley",
+    "Natacha Kremer",
+    "Eric J Koch",
+    "Andrew J Collins",
+    "Hoan Nguyen",
+    "Sai Lek",
+    "Irina Goncharenko-Foster",
+    "Patrick Minx",
+    "Erica Sodergren",
+    "George Weinstock",
+    "Daniel S Rokhsar",
+    "Margaret McFall-Ngai",
+    "Oleg Simakov",
+    "Jamie S Foster",
+    "Spencer V Nyholm"
+  ],
+  "subjects": {
+    "species": [
+      "Euprymna scolopes",
+      "Octopus bimaculoides"
+    ],
+    "tissues": [
+      "light organ",
+      "accessory nidamental gland"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "genome sequencing",
+      "transcriptomics"
+    ],
+    "assays": [
+      "genomic analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome",
+      "effect": "large-scale genomic reorganization",
+      "magnitude": "evolutionary innovation"
+    }
+  ]
+}

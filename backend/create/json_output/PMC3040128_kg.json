@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC3040128",
+    "title": "5AtRabD2b and AtRabD2c have overlapping functions in pollen development and pollen tube growth",
+    "year": "2011",
+    "journal": "BMC Plant Biol."
+  },
+  "authors": [
+    "Peng, Jianling",
+    "Ilarslan, Hilal",
+    "Syrkin Wurtele, Eve",
+    "Bassham, Diane C"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "pollen",
+      "Golgi bodies"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "wild-type plants",
+      "single mutants",
+      "double mutants",
+      "transformed plants"
+    ],
+    "assays": [
+      "morphological analysis",
+      "pollen germination",
+      "pollen tube elongation",
+      "silique length measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "pollen morphology",
+      "effect": "deformed pollen with swollen and branched pollen tube tips",
+      "magnitude": "significant reduction in pollen tube length"
+    },
+    {
+      "target": "silique length",
+      "effect": "shorter siliques",
+      "magnitude": "reduced silique length"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC8133610",
+    "title": "Cell-to-cell and long-range chemical signaling in plants: slow and steady",
+    "year": "2021",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Johns, Sarah",
+    "Hagihara, Takuma",
+    "Toyota, Masatsugu",
+    "Gilroy, Simon"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "cell",
+      "root",
+      "shoot",
+      "leaf",
+      "xylem",
+      "phloem"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "PMC",
+      "PubMed",
+      "NLM Catalog"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "",
+      "dose": "",
+      "duration": ""
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC6289879",
+    "title": "NADPH Oxidase activity is required for ER stress survival in plants",
+    "year": "2018",
+    "journal": "Plant Journal"
+  },
+  "authors": [
+    "Evan Angelos",
+    "Federica Brandizzi"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "ER"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "ER stress",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "ROS production",
+      "effect": "increased ROS levels",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "UPR activation",
+      "effect": "improved UPR response",
+      "magnitude": "enhanced survival rate"
+    }
+  ]
+}

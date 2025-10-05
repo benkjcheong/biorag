@@ -1,0 +1,86 @@
+{
+  "publication": {
+    "pmc_id": "PMC11477029",
+    "title": "Effect of Simulated Cosmic Radiation on Cytomegalovirus Reactivation and Lytic Replication",
+    "year": "2024",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Satish K Mehta",
+    "Douglass M Diak",
+    "Sara Bustos-Lopez",
+    "Mayra Nelman-Gonzalez",
+    "Xi Chen",
+    "Ianik Plante",
+    "Stephen J Stray",
+    "Ritesh Tandon",
+    "Brian E Crucian",
+    "Masahiro Fujimuro"
+  ],
+  "subjects": {
+    "species": [
+      "Cytomegalovirus"
+    ],
+    "tissues": [
+      "Kasumi cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "gamma rays",
+      "150 MeV protons",
+      "600 MeV/n carbon ions",
+      "600 MeV/n iron ions",
+      "proton ions",
+      "simulated GCR"
+    ],
+    "assays": [
+      "viral genome sequencing",
+      "transcriptome analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "137Cs gamma rays",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "150 MeV protons",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "600 MeV/n carbon ions",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "600 MeV/n iron ions",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "proton ions",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "simulated GCR",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "CMV copy number",
+      "effect": "increased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "transcriptome analysis",
+      "effect": "upregulation of UL49 ORF transcription",
+      "magnitude": null
+    }
+  ]
+}

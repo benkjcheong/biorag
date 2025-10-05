@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC6889863",
+    "title": "RNAseq Analysis of the Response of Arabidopsis thaliana to Fractional Gravity Under Blue-Light Stimulation During Spaceflight",
+    "year": "2019",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Herranz, Ra\u00fal",
+    "Vandenbrink, Joshua P.",
+    "Villacampa, Alicia",
+    "Manzano, Ar\u00e1nzazu",
+    "Poehlman, William L.",
+    "Feltus, Frank Alex",
+    "Kiss, John Z.",
+    "Medina, Francisco Javier"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ISS",
+      "spaceflight"
+    ],
+    "assays": [
+      "RNAseq analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "fractional gravity",
+      "dose": "various levels of gravity (micro-g, low-g, Moon g-level, 1g)",
+      "duration": "6 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "differential gene expression",
+      "magnitude": "significant changes in gene expression"
+    }
+  ]
+}

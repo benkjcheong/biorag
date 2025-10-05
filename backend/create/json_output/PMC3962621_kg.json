@@ -1,0 +1,73 @@
+{
+  "publication": {
+    "pmc_id": "PMC3962621",
+    "title": "EUK-134 ameliorates nNOS\u03bc translocation and skeletal muscle fiber atrophy during short-term mechanical unloading",
+    "year": "2014",
+    "journal": "Am J Physiol Regul Integr Comp Physiol"
+  },
+  "authors": [
+    "John M Lawler",
+    "Mary Kunst",
+    "Jeff M Hord",
+    "Yang Lee",
+    "Kumar Joshi",
+    "Rachel E Botchlett",
+    "Angelo Ramirez",
+    "Daniel A Martinez"
+  ],
+  "subjects": {
+    "species": [
+      "Fischer-344 rat"
+    ],
+    "tissues": [
+      "skeletal muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading",
+      "soleus muscle"
+    ],
+    "assays": [
+      "immunolocalization",
+      "protein content",
+      "dephosphorylation at Thr-32 of FoxO3a",
+      "oxidative stress (4-hydroxynonenal)",
+      "sarcolemmal localization of Nox2 subunits gp91phox and p47phox"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "EUK-134",
+      "dose": "cell-permeable mimetic of superoxide dismutase and catalase",
+      "duration": "54 hours"
+    }
+  ],
+  "results": [
+    {
+      "target": "nNOS\u03bc translocation from sarcolemma to cytosol",
+      "effect": "mitigated",
+      "magnitude": "virtually abolished"
+    },
+    {
+      "target": "muscle fiber atrophy",
+      "effect": "mitigated",
+      "magnitude": null
+    },
+    {
+      "target": "muscle fiber-type shift from slow to fast",
+      "effect": "mitigated",
+      "magnitude": null
+    },
+    {
+      "target": "oxidative stress (4-hydroxynonenal)",
+      "effect": "normalized",
+      "magnitude": null
+    },
+    {
+      "target": "sarcolemmal localization of Nox2 subunits gp91phox and p47phox",
+      "effect": "normalized",
+      "magnitude": null
+    }
+  ]
+}

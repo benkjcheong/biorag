@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC9241228",
+    "title": "Microbial Tracking 2, a metagenomics analysis of bacteria and fungi onboard the International Space Station",
+    "year": "2022",
+    "journal": "PLOS ONE"
+  },
+  "authors": [
+    "Urbaniak C",
+    "Morrison MD",
+    "Thissen JB",
+    "Karouia F",
+    "Smith DJ",
+    "Mehta S",
+    "Jaing C",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Staphylococcus",
+      "Malassezia"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "sterile wipes",
+      "culture"
+    ],
+    "assays": [
+      "shotgun metagenomics",
+      "DNA extraction",
+      "PMA treatment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "propidium monoazide (PMA)",
+      "dose": "Not specified",
+      "duration": "Not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "microbial community composition",
+      "effect": "significant temporal changes",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "antimicrobial resistance genes",
+      "effect": "stable over time",
+      "magnitude": "Not specified"
+    },
+    {
+      "target": "metagenomic assembled genomes (MAGs)",
+      "effect": "82 MAGs reconstructed",
+      "magnitude": "not specified"
+    }
+  ]
+}

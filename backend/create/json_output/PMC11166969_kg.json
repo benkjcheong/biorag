@@ -1,0 +1,75 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166969",
+    "title": "Secretome profiling reveals acute changes in oxidative stress, brain homeostasis, and coagulation following short-duration spaceflight",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Houerbi N",
+    "Kim J",
+    "Overbey E G",
+    "Batra R",
+    "Schweickart A",
+    "Patras L",
+    "Lucotti S",
+    "Ryon K A",
+    "Najjar D",
+    "Meydan C",
+    "Damle N",
+    "Chin S",
+    "Narayanan S A",
+    "Guarnieri J W",
+    "Widjaja G",
+    "Beheshti A",
+    "Tobias G",
+    "Vatter F",
+    "Hirschberg J W",
+    "Kleinman A",
+    "Afshin E",
+    "MacKay M",
+    "Chen Q",
+    "Miller D",
+    "Gajadhar A S",
+    "Williamson L",
+    "Tandel P",
+    "Yang Q",
+    "Chu J",
+    "Benz R",
+    "Siddiqui A",
+    "Hornburg D",
+    "Gross S",
+    "Shirah B",
+    "Krumsiek J",
+    "Mateus J",
+    "Mao X",
+    "Matei I",
+    "Ma C E"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "N/A"
+    ],
+    "assays": [
+      "N/A"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "N/A",
+      "dose": "N/A",
+      "duration": "N/A"
+    }
+  ],
+  "results": [
+    {
+      "target": "N/A",
+      "effect": "N/A",
+      "magnitude": "N/A"
+    }
+  ]
+}

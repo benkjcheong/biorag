@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC4033213",
+    "title": "Genomic stability in response to high versus low linear energy transfer radiation in Arabidopsis thaliana",
+    "year": "2014",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Huefner, Neil D.",
+    "Yoshiyama, Kaoru",
+    "Friesner, Joanna D.",
+    "Conklin, Phillip A.",
+    "Britt, Anne B."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "germination",
+      "growth",
+      "somatic heterozygosity analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "1GeV Fe nuclei",
+      "dose": "1 GeV",
+      "duration": "unknown"
+    },
+    {
+      "agent": "gamma radiation",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "somatic heterozygosity loss",
+      "effect": "increased frequency",
+      "magnitude": "2:1 RBE"
+    },
+    {
+      "target": "germination and growth",
+      "effect": "reduced",
+      "magnitude": "RBE 3:1"
+    }
+  ]
+}

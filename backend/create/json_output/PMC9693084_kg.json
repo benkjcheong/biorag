@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC9693084",
+    "title": "Utilizing the KSC Fixation Tube to Conduct Human-Tended Plant Biology Experiments on a Suborbital Spaceflight",
+    "year": "2022",
+    "journal": "Life"
+  },
+  "authors": [
+    "Haveman, Natasha J.",
+    "Zhou, Mingqi",
+    "Callaham, Jordan",
+    "Strickland, Hunter F.",
+    "Houze, Donald",
+    "Manning-Roach, Susan",
+    "Newsham, Gerard",
+    "Paul, Anna-Lisa",
+    "Ferl, Robert J."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis"
+    ],
+    "tissues": [
+      "roots",
+      "leaves"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "KSC Fixation Tube (KFT)"
+    ],
+    "assays": [
+      "RNA-seq analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "RNA-seq",
+      "effect": "consistent transcriptomic alteration over time in KFTs",
+      "magnitude": null
+    },
+    {
+      "target": "transcriptomic responses to clinorotation",
+      "effect": "suggests that transcriptomic responses to suborbital spaceflight can be examined using this approach",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC9445043",
+    "title": "Microgravity enhances the phenotype of Arabidopsis zigzag-1 and reduces the Wortmannin-induced vacuole fusion in root cells",
+    "year": "2022",
+    "journal": "Nature Plants"
+  },
+  "authors": [
+    "Mengying Wang",
+    "Katherine Danz",
+    "Vanessa Ly",
+    "Marcela Rojas-Pierce"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "BRIC-PDFU hardware"
+    ],
+    "assays": [
+      "Wortmannin-induced vacuole fusion",
+      "formaldehyde-based fixation protocol"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Wortmannin (WM)",
+      "dose": "Not specified",
+      "duration": "Not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "vacuole fusion",
+      "effect": "reduced",
+      "magnitude": "mild but significant decrease"
+    }
+  ]
+}

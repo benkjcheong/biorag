@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC7733874",
+    "title": "A New Era for Space Life Science: International Standards for Space Omics Processing",
+    "year": "2020",
+    "journal": null
+  },
+  "authors": [
+    "Rutter, Lindsay",
+    "Barker, Richard",
+    "Bezdan, Daniela",
+    "Cope, Henry",
+    "Costes, Sylvain V",
+    "Degoricija, Lovorka",
+    "Fisch, Kathleen M",
+    "Gabitto, Mariano I",
+    "Gebre, Samrawit",
+    "Giacomello, Stefania",
+    "Gilroy, Simon",
+    "Green, Stefan J",
+    "Mason, Christopher E",
+    "Reinsch, Sigrid S",
+    "Szewczyk, Nathaniel J",
+    "Taylor, Deanne M",
+    "Galazka, Jonathan M",
+    "Herranz, Raul",
+    "Muratani, Masafumi"
+  ],
+  "subjects": {
+    "species": [
+      "model organism",
+      "human"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "spaceflight",
+      "ground-based"
+    ],
+    "assays": [
+      "omics"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "biological effect",
+      "effect": "observed change",
+      "magnitude": "effect size"
+    }
+  ]
+}

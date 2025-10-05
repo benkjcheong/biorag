@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC9701605",
+    "title": "Challenges and considerations for single-cell and spatially resolved transcriptomics sample collection during spaceflight",
+    "year": "2022",
+    "journal": "Cell Rep Methods"
+  },
+  "authors": [
+    "Overbey E G",
+    "Das S",
+    "Cope H",
+    "Madrigal P",
+    "Andrusivova Z",
+    "Frapard S",
+    "Klotz R",
+    "Bezdan D",
+    "Gupta A",
+    "Scott RT",
+    "Park J",
+    "Chirko D",
+    "Galazka JM",
+    "Costes SV",
+    "Mason CE",
+    "Herranz R",
+    "Szewczyk NJ",
+    "Borg J",
+    "Giacomello S"
+  ],
+  "subjects": {
+    "species": [
+      "mammalian"
+    ],
+    "tissues": [
+      "unknown"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "scRNA-seq",
+      "SRT"
+    ],
+    "assays": [
+      "unknown"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "unknown",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "unknown",
+      "effect": "unknown",
+      "magnitude": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC10020673",
+    "title": "Microbial isolation and characterization from two flex lines from the urine processor assembly onboard the international space station",
+    "year": "2023",
+    "journal": "Biofilms"
+  },
+  "authors": [
+    "Nguyen, Hang Ngoc",
+    "Sharp, G Marie",
+    "Stahl-Rommel, Sarah",
+    "Justiniano, Yo-Ann Velez",
+    "Castro, Christian L",
+    "Nelman-Gonzalez, Mayra",
+    "O'Rourke, Aubrie",
+    "Lee, Michael D",
+    "Williamson, Jill",
+    "McCool, Chelsea",
+    "Crucian, Brian",
+    "Clark, Kenneth W",
+    "Jain, Miten",
+    "Castro-Wallace, Sarah L",
+    "Wallace, Sarah L"
+  ],
+  "subjects": {
+    "species": [
+      "Burkholderia",
+      "Paraburkholderia",
+      "Leifsonia",
+      "Fusarium",
+      "Lecythophora"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "culture",
+      "culture-independent analysis",
+      "environmental scanning electron microscopy"
+    ],
+    "assays": [
+      "biofilm potential characterization",
+      "bacterial-fungal interaction",
+      "hemolytic assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "microbial isolates",
+      "effect": "identified as Burkholderia contaminans and Paraburkholderia fungorum",
+      "magnitude": "presence of biofilm"
+    },
+    {
+      "target": "biofilm potential",
+      "effect": "demonstrated by B. contaminans isolates",
+      "magnitude": "considerable biofilm formation"
+    }
+  ]
+}

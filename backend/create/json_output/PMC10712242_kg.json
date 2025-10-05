@@ -1,0 +1,79 @@
+{
+  "publication": {
+    "pmc_id": "PMC10712242",
+    "title": "Integrative transcriptomics and proteomics profiling of Arabidopsis thaliana elucidates novel mechanisms underlying spaceflight adaptation",
+    "year": "2023",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Olanrewaju Gbolaga",
+    "Haveman Natasha J",
+    "Naldrett Michael J",
+    "Paul Anna-Lisa",
+    "Ferl Robert J",
+    "Wyatt Sarah E"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "leaf",
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNA-later",
+      "BRIC LED hardware"
+    ],
+    "assays": [
+      "RNA-seq",
+      "TMT-labeled LC-MS/MS proteomic analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "10 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "photosynthetic machinery (PSII and PSI)",
+      "effect": "alteration",
+      "magnitude": "shift in photosystem core-regulatory proteins"
+    },
+    {
+      "target": "ribosome, spliceosome, and proteasome activities",
+      "effect": "significant abundance of transcripts and proteins involved in protease binding, nuclease activities, and mRNA binding",
+      "magnitude": null
+    },
+    {
+      "target": "tRNA binding, exoribonuclease activity, and RNA helicase activity",
+      "effect": "less abundant in spaceflight",
+      "magnitude": null
+    },
+    {
+      "target": "cellulose synthesis (CESA1, CESA3, CESA5, CESA7) and cellulose-like proteins (CSLE1, CSLG3)",
+      "effect": "reduced abundance in spaceflight",
+      "magnitude": null
+    },
+    {
+      "target": "UDP-ARABINOPYRANOSE MUTASEs",
+      "effect": "increased expression in spaceflight",
+      "magnitude": null
+    },
+    {
+      "target": "polar auxin redistribution, lipid, and ionic intracellular transportation",
+      "effect": "altered",
+      "magnitude": null
+    },
+    {
+      "target": "metabolic energy requirement",
+      "effect": "increased",
+      "magnitude": null
+    }
+  ]
+}

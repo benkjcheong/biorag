@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166911",
+    "title": "Spatially resolved multiomics on the neuronal effects induced by spaceflight in mice",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Masarapu Yuvarani",
+    "Cekanaviciute Egle",
+    "Andrusivova Zaneta",
+    "Westholm Jakub O",
+    "Bj\u00f6rklund \u00c5sa",
+    "Fallegger Robin",
+    "Badia-i-Mompel Pau",
+    "Boyko Valery",
+    "Vasisht Shubha",
+    "Saravia-Butler Amanda",
+    "Gebre Samrawit",
+    "L\u00e1z\u00e1r Enik\u0151",
+    "Graziano Marta",
+    "Frapard Sol\u00e8ne",
+    "Hinshaw Robert G",
+    "Bergmann Olaf",
+    "Taylor Deanne M",
+    "Wallace Douglas C",
+    "Saez-Rodriguez Julio",
+    "Galazka Jonathan M",
+    "Costes Sylvain V",
+    "Giacomello Stefania"
+  ],
+  "subjects": {
+    "species": [
+      "mice"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "multiomics"
+    ],
+    "assays": [
+      "spaceflight"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "neuronal effects",
+      "effect": "induced",
+      "magnitude": "spatially resolved multiomics"
+    }
+  ]
+}

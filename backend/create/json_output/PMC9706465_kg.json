@@ -1,0 +1,63 @@
+{
+  "publication": {
+    "pmc_id": "PMC9706465",
+    "title": "A plant's oxygen supply can vary from normal (normoxia) to total depletion (anoxia). Tolerance to anoxia is relevant to wetland species, rice (Oryza sativa) cultivation, and submergence tolerance of crops.",
+    "year": "2022",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Jian Yang",
+    "Iny Elizebeth Mathew",
+    "Hormat Rhein",
+    "Richard Barker",
+    "Qi Guo",
+    "Luca Brunello",
+    "Elena Loreti",
+    "Bronwyn J Barkla",
+    "Simon Gilroy",
+    "Pierdomenico Perata",
+    "Kendal D Hirschi"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana",
+      "Oryza sativa"
+    ],
+    "tissues": [
+      "vacuole"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNA-sequencing",
+      "proteomic approaches"
+    ],
+    "assays": [
+      "phenotypic measurements"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "anoxic tolerance",
+      "effect": "increased",
+      "magnitude": "null"
+    },
+    {
+      "target": "reactive oxygen species production",
+      "effect": "decreased",
+      "magnitude": "null"
+    },
+    {
+      "target": "hormone signaling",
+      "effect": "altered",
+      "magnitude": "null"
+    }
+  ]
+}

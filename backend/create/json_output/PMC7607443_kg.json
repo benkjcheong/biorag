@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC7607443",
+    "title": "The Importance of Earth Reference Controls in Spaceflight -Omics Research: Characterization of Nucleolin Mutants from the Seedling Growth Experiments",
+    "year": "2020",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Manzano, A.",
+    "Villacampa, A.",
+    "S\u00e1ez-V\u00e1squez, J.",
+    "Kiss, J. Z.",
+    "Medina, F. J.",
+    "Herranz, R."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "nucleolus",
+      "meristems"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ground"
+    ],
+    "assays": [
+      "RNA-Seq",
+      "ribosome biogenesis assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "darkness",
+      "dose": null,
+      "duration": "6 days"
+    },
+    {
+      "agent": "red light",
+      "dose": null,
+      "duration": "2 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "nucleolin gene expression",
+      "effect": "altered response to stress",
+      "magnitude": "differential gene expression"
+    },
+    {
+      "target": "cell proliferation rate",
+      "effect": "increased cell proliferation rate in spaceflight",
+      "magnitude": "increased mitotic index"
+    }
+  ]
+}

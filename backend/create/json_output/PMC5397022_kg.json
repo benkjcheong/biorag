@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC5397022",
+    "title": "Transcriptome and proteome responses in RNAlater preserved tissue of Arabidopsis thaliana",
+    "year": "2017",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Kruse, Colin P S",
+    "Basu, Proma",
+    "Luesse, Darron R",
+    "Wyatt, Sarah E"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "RNAseq",
+      "LC-MS/MS"
+    ],
+    "assays": [
+      "differential gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "RNAlater",
+      "dose": null,
+      "duration": "12 hours"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene transcripts",
+      "effect": "differential expression",
+      "magnitude": "5770 transcripts"
+    },
+    {
+      "target": "proteins",
+      "effect": "altered abundance",
+      "magnitude": null
+    }
+  ]
+}

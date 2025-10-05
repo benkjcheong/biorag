@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC10996920",
+    "title": "An Analysis of the Effects of Spaceflight and Vaccination on Antibody Repertoire Diversity",
+    "year": "2021",
+    "journal": "Immunohorizons"
+  },
+  "authors": [
+    "Rettig, Trisha A.",
+    "Tan, John C.",
+    "Nishiyama, Nina C.",
+    "Chapes, Stephen K.",
+    "Pecaut, Michael J."
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6 mice"
+    ],
+    "tissues": [
+      "Spleen",
+      "Bone marrow"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "Antiorthostatic Suspension (AOS)",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "Vaccination",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "CDR3 amino acids",
+      "effect": "Lower diversity as a result of spaceflight",
+      "magnitude": "Shannon index"
+    }
+  ]
+}

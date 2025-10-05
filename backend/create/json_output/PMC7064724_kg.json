@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC7064724",
+    "title": "Root Skewing-Associated Genes Impact the Spaceflight Response of Arabidopsis thaliana",
+    "year": "2020",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Califar, Brandon",
+    "Sng, Natasha J",
+    "Zupanska, Agata",
+    "Paul, Anna-Lisa",
+    "Ferl, Robert J"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "spaceflight"
+    ],
+    "assays": [
+      "gene expression analysis",
+      "skewing measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "mutant",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "altered skewing behavior",
+      "magnitude": "differential gene expression"
+    },
+    {
+      "target": "skewing",
+      "effect": "different skewing patterns",
+      "magnitude": "phenotypic differences"
+    }
+  ]
+}

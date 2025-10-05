@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC11126634",
+    "title": "Fungal diversity differences in the indoor dust microbiome from built environments on earth and in space",
+    "year": "2024",
+    "journal": "Sci Rep"
+  },
+  "authors": [
+    "Nastasi, Nicholas",
+    "Haines, Sarah R",
+    "Bope, Ashleigh",
+    "Meyer, Marit E",
+    "Horack, John M",
+    "Dannemiller, Karen C"
+  ],
+  "subjects": {
+    "species": [
+      "fungi",
+      "bacteria"
+    ],
+    "tissues": [
+      "dust"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "vacuum bags",
+      "ISS dust samples"
+    ],
+    "assays": [
+      "microbial community analysis",
+      "relative humidity (ERH) exposure"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "varying ERH conditions",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "fungal community composition",
+      "effect": "significant changes in fungal OTUs and ASVs",
+      "magnitude": "R2 = 0.35, P = 0.001"
+    }
+  ]
+}

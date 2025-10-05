@@ -1,0 +1,37 @@
+{
+  "publication": {
+    "pmc_id": "PMC12034939",
+    "title": "MHC Diversity Across Time and Space",
+    "year": "2025",
+    "journal": "Ecology and Evolution"
+  },
+  "authors": [
+    "Maria Cortazar\u2010Chinarro",
+    "Kayla C King",
+    "Mette Lillie"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "immune system"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "MHC diversity",
+      "effect": "Lower MHC diversity at edges of species distributions",
+      "magnitude": "Reduced immunogenetic diversity"
+    }
+  ]
+}

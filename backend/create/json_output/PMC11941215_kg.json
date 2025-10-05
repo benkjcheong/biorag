@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC11941215",
+    "title": "Effects of Space Flight on Inflammasome Activation in the Brain of Mice",
+    "year": "2025",
+    "journal": "Cells"
+  },
+  "authors": [
+    "Upal Roy",
+    "Roey Hadad",
+    "Angel A Rodriguez",
+    "Alen Saju",
+    "Deepa Roy",
+    "Mario Gil",
+    "Robert W Keane",
+    "Ryan T Scott",
+    "Xiao W Mao",
+    "Juan Pablo de Rivero Vaccari"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6",
+      "mice"
+    ],
+    "tissues": [
+      "brain"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "ground"
+    ],
+    "assays": [
+      "immunoblotting",
+      "Electrochemiluminescence Immunoassay (ECLIA)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "space flight",
+      "dose": null,
+      "duration": "37 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "inflammasome activation",
+      "effect": "decreased",
+      "magnitude": "null"
+    },
+    {
+      "target": "pro-inflammatory cytokines",
+      "effect": "no significant changes",
+      "magnitude": "null"
+    }
+  ]
+}

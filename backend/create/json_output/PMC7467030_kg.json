@@ -1,0 +1,39 @@
+{
+  "publication": {
+    "pmc_id": "PMC7467030",
+    "title": "Chronic Hydration and COVID-19 Mortality: A Review of Hypotheses",
+    "year": "2020",
+    "journal": "Med Hypotheses"
+  },
+  "authors": [
+    "Stookey JD",
+    "Allu PK",
+    "Chabas D",
+    "Pearce D",
+    "Lang F"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "lung"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "drinking water",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "positive total body water balance",
+      "effect": "increased risk of COVID-19 mortality",
+      "magnitude": "not specified"
+    }
+  ]
+}

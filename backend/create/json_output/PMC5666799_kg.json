@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC5666799",
+    "title": "Dose- and Ion-Dependent Effects in the Oxidative Stress Response to Space-Like Radiation Exposure in the Skeletal System",
+    "year": "2017",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Joshua S Alwood",
+    "Luan H Tran",
+    "Ann-Sofie Schreurs",
+    "Yasaman Shirazi-Fard",
+    "Akhilesh Kumar",
+    "Diane Hilton",
+    "Candice G T Tahimic",
+    "Ruth K Globus"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL6/J mouse"
+    ],
+    "tissues": [
+      "bone",
+      "marrow"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "NASA's Space Radiation Lab"
+    ],
+    "assays": [
+      "microcomputed tomography",
+      "RT-PCR",
+      "mineralized nodule imaging"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "56Fe ions",
+      "dose": "200 cGy",
+      "duration": "1 year"
+    },
+    {
+      "agent": "protons",
+      "dose": "200 cGy",
+      "duration": "1 year"
+    }
+  ],
+  "results": [
+    {
+      "target": "bone volume/total volume",
+      "effect": "loss",
+      "magnitude": "significant"
+    },
+    {
+      "target": "osteoblastogenesis",
+      "effect": "inhibition",
+      "magnitude": "over 90%"
+    },
+    {
+      "target": "gene expression levels",
+      "effect": "changes",
+      "magnitude": "limited"
+    }
+  ]
+}

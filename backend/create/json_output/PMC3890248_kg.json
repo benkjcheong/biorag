@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC3890248",
+    "title": "Understanding macrophage differentiation during space flight: The importance of ground-based experiments before space flight",
+    "year": "2013",
+    "journal": "Recent Pat Space Technol"
+  },
+  "authors": [
+    "Stephen K Chapes",
+    "M Teresa Ortega"
+  ],
+  "subjects": {
+    "species": [
+      "mouse"
+    ],
+    "tissues": [
+      "macrophage"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Techshot Cell Cult Bioreactor",
+      "BioServe Fluid Processing Apparatus (FPA)"
+    ],
+    "assays": [
+      "soft agar colony assays",
+      "flow cytometry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "M-CSF",
+      "dose": "appropriate concentration",
+      "duration": "during space flight"
+    }
+  ],
+  "results": [
+    {
+      "target": "macrophage differentiation",
+      "effect": "significant differences in macrophage recovery and cell size, granularity, and molecule expression",
+      "magnitude": "increased macrophage recovery in horizontal FPA orientation compared to vertical FPA"
+    }
+  ]
+}

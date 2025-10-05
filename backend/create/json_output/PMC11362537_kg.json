@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC11362537",
+    "title": "Spaceflight alters host-gut microbiota interactions",
+    "year": "2024",
+    "journal": "Nature Microbiology"
+  },
+  "authors": [
+    "E Gonzalez",
+    "M D Lee",
+    "B T Tierney",
+    "N Lipieta",
+    "P Flores",
+    "M Mishra",
+    "L Beckett",
+    "A Finkelstein",
+    "A Mo",
+    "P Walton",
+    "F Karouia",
+    "R Barker",
+    "R J Jansen",
+    "S J Green",
+    "S Weging",
+    "J Kelliher",
+    "N K Singh",
+    "D Bezdan",
+    "J Galazska",
+    "N J B Brereton"
+  ],
+  "subjects": {
+    "species": [
+      "Extibacter muris",
+      "Dysosmobacter welbionis"
+    ],
+    "tissues": [
+      "colon",
+      "liver"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "metagenomics"
+    ],
+    "assays": [
+      "host gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "29 days and 56 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gut microbiota composition",
+      "effect": "significant changes in microbiome species abundance",
+      "magnitude": "reduced abundance of bile acid and butyrate metabolising bacteria"
+    },
+    {
+      "target": "host gene expression",
+      "effect": "changes in bile acid and energy metabolism, immune suppression",
+      "magnitude": "altered expression of genes related to bile acid and energy metabolism"
+    }
+  ]
+}

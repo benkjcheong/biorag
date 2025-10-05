@@ -1,0 +1,69 @@
+{
+  "publication": {
+    "pmc_id": "PMC6339989",
+    "title": "Prolonged Microgravity Exposure Impairs Lumbar Spine Anatomy and Biomechanics in Astronauts",
+    "year": "2018",
+    "journal": "Spine J"
+  },
+  "authors": [
+    "Bailey, Jeannie F.",
+    "Miller, Stephanie L.",
+    "Khieu, Kristine",
+    "O'Neill, Conor W.",
+    "Healey, Robert M.",
+    "Coughlin, Dezba G.",
+    "Sayson, Jojo V.",
+    "Chang, Douglas G.",
+    "Hargens, Alan R.",
+    "Lotz, Jeffrey C."
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "multifidus",
+      "erector spinae",
+      "intervertebral discs",
+      "vertebrae",
+      "facet joint cartilage",
+      "ligaments"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "3T magnetic resonance imaging",
+      "dynamic fluoroscopy",
+      "supine lumbar lordosis measurement",
+      "active (standing) and passive (lying) flexion-extension range of motion (FE ROM) measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "microgravity exposure",
+      "dose": null,
+      "duration": "6 months"
+    }
+  ],
+  "results": [
+    {
+      "target": "supine lumbar lordosis",
+      "effect": "decreased by 11%",
+      "magnitude": null
+    },
+    {
+      "target": "active FE ROM",
+      "effect": "decreased in L2-L3, L3-L4, and L4-L5 discs",
+      "magnitude": null
+    },
+    {
+      "target": "multifidus FCSA",
+      "effect": "decreased by an average of 20%",
+      "magnitude": null
+    },
+    {
+      "target": "multifidus CSA",
+      "effect": "decreased by an average of 8%\u20139%",
+      "magnitude": null
+    }
+  ]
+}

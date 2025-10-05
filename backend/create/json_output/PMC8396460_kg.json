@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC8396460",
+    "title": "Spaceflight Modulates the Expression of Key Oxidative Stress and Cell Cycle Related Genes in Heart",
+    "year": "2021",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Akhilesh Kumar",
+    "Candice G T Tahimic",
+    "Ruth K Globus",
+    "Eduardo A C Almeida"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "heart"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "STS-131 space shuttle mission"
+    ],
+    "assays": [
+      "quantitative PCR"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "15 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression levels",
+      "effect": "altered",
+      "magnitude": "significant changes"
+    }
+  ]
+}

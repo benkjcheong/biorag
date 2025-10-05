@@ -1,0 +1,70 @@
+{
+  "publication": {
+    "pmc_id": "PMC5672023",
+    "title": "Adaptive Changes in the Vestibular System of Land Snail to a 30-Day Spaceflight and Readaptation on Return to Earth",
+    "year": "2017",
+    "journal": "Front Cell Neurosci."
+  },
+  "authors": [
+    "Aseyev, Nikolay",
+    "Vinarskaya, Alia Kh",
+    "Roshchin, Matvey",
+    "Korshunova, Tatiana A",
+    "Malyshev, Aleksey Yu",
+    "Zuzina, Alena B",
+    "Ierusalimsky, Victor N",
+    "Lemak, Maria S",
+    "Zakharov, Igor S",
+    "Novikov, Ivan A",
+    "Kolosov, Peter",
+    "Chesnokova, Ekaterina",
+    "Volkova, Svetlana",
+    "Kasianov, Artem",
+    "Uroshlev, Leonid",
+    "Popova, Yekaterina",
+    "Boyle, Richard D",
+    "Balaban, Pavel M"
+  ],
+  "subjects": {
+    "species": [
+      "Helix lucorum"
+    ],
+    "tissues": [
+      "statocyst"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Bion-M1 satellite"
+    ],
+    "assays": [
+      "geotactic behavior",
+      "differential gene expressions in statocyst transcriptome",
+      "electrophysiological responses of mechanoreceptors to applied tilts"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "geotactic behavior",
+      "effect": "plastic changes in the vestibular system",
+      "magnitude": null
+    },
+    {
+      "target": "statocyst transcriptome",
+      "effect": "differential gene expressions",
+      "magnitude": null
+    },
+    {
+      "target": "mechanoreceptors",
+      "effect": "electrophysiological responses to applied tilts",
+      "magnitude": null
+    }
+  ]
+}

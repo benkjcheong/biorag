@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC4896697",
+    "title": "Identification of foreign genes in independent Hypsibius dujardini genome assemblies",
+    "year": "2016",
+    "journal": "Proceedings of the National Academy of Sciences"
+  },
+  "authors": [
+    "Thomas C Boothby",
+    "Bob Goldstein"
+  ],
+  "subjects": {
+    "species": [
+      "Hypsibius dujardini"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "next-generation sequencing",
+      "long-read sequencing",
+      "Pacbio sequencing",
+      "short-insert library sequencing"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "antibiotics",
+      "dose": "48 h",
+      "duration": "48 h"
+    }
+  ],
+  "results": [
+    {
+      "target": "foreign genes",
+      "effect": "identified as foreign",
+      "magnitude": "3.8-7.1%"
+    },
+    {
+      "target": "foreign genes",
+      "effect": "identified by prokaryotic alignments",
+      "magnitude": "164-384 genes"
+    },
+    {
+      "target": "foreign genes",
+      "effect": "Class C genes",
+      "magnitude": "2.5-4.6%"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "publication": {
+    "pmc_id": "PMC10926278",
+    "title": "Adaptation to full weight\u2010bearing following disuse in rats: The impact of biological sex on musculoskeletal recovery",
+    "year": "2024",
+    "journal": "Physiological Reports"
+  },
+  "authors": [
+    "Issertine, M.",
+    "Rosa\u2010Caldwell, M. E."
+  ],
+  "subjects": {
+    "species": [
+      "rat"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "disuse",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": null,
+      "effect": "musculoskeletal recovery",
+      "magnitude": null
+    }
+  ]
+}

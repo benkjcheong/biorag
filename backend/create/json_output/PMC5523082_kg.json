@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC5523082",
+    "title": "Spatial regulation of a common precursor from two distinct genes generates metabolite diversity",
+    "year": "2015",
+    "journal": "Chem. Sci."
+  },
+  "authors": [
+    "Chun-Jun Guo",
+    "Wei-Wen Sun",
+    "Kenneth S Bruno",
+    "Berl R Oakley",
+    "Nancy P Keller",
+    "Clay C C Wang"
+  ],
+  "subjects": {
+    "species": [
+      "A. terreus"
+    ],
+    "tissues": [
+      "hyphae",
+      "conidia"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro",
+      "heterologous expression"
+    ],
+    "assays": [
+      "product analysis",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "expression of atmelA and apvA genes",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "aspulvinone E",
+      "effect": "converted to aspulvinones in hyphae and melanin in conidia",
+      "magnitude": "unknown"
+    }
+  ]
+}

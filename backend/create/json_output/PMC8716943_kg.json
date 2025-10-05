@@ -1,0 +1,36 @@
+{
+  "publication": {
+    "pmc_id": "PMC8716943",
+    "title": "Bundling up the Role of the Actin Cytoskeleton in Primary Root Growth",
+    "year": "2021",
+    "journal": "Front Plant Sci"
+  },
+  "authors": [
+    "Garc\u00eda-Gonz\u00e1lez, Judith",
+    "van Gelderen, Kasper"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "root growth",
+      "effect": "elongation",
+      "magnitude": "unknown"
+    }
+  ]
+}

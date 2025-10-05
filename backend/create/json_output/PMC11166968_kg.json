@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166968",
+    "title": "Ethical considerations for the age of non-governmental space exploration",
+    "year": "2024",
+    "journal": null
+  },
+  "authors": [
+    "Allen Seylani",
+    "Aman Singh Galsinh",
+    "Alexia Tasoula",
+    "Anu R I",
+    "Andrea Camera",
+    "Jean Calleja-Agius",
+    "Joseph Borg",
+    "Chirag Goel",
+    "JangKeun Kim",
+    "Kevin B Clark",
+    "Saswati Das",
+    "Shehbeel Arif",
+    "Michael Boerrigter",
+    "Caroline Coffey",
+    "Nathaniel Szewczyk",
+    "Christopher E Mason",
+    "Maria Manoli",
+    "Fathi Karouia",
+    "Afshin Beheshti",
+    "Dana Tulodziecki"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": null,
+      "effect": null,
+      "magnitude": null
+    }
+  ]
+}

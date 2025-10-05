@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC6372189",
+    "title": "A combined computational strategy of sequence and structural analysis predicts the existence of a functional eicosanoid pathway in Drosophila melanogaster",
+    "year": "2019",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Scarpati, Michael",
+    "Qi, Yan",
+    "Govind, Shubha",
+    "Singh, Shaneen"
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "sequence analysis",
+      "structural analysis"
+    ],
+    "assays": [
+      "formal analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "eicosanoid pathway",
+      "effect": "predicted existence",
+      "magnitude": null
+    }
+  ]
+}

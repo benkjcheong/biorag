@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC7251690",
+    "title": "Spaceflight induces novel regulatory responses in Arabidopsis seedling as revealed by combined proteomic and transcriptomic analyses",
+    "year": "2020",
+    "journal": "BMC Plant Biol."
+  },
+  "authors": [
+    "Colin P S Kruse",
+    "Alexander D Meyers",
+    "Proma Basu",
+    "Sarahann Hutchinson",
+    "Darron R Luesse",
+    "Sarah E Wyatt"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "seedling"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "ground control"
+    ],
+    "assays": [
+      "proteomic (iTRAQ-labelled LC-MS/MS)",
+      "transcriptomic (RNA-seq)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_protein abundance",
+      "effect": "differential expression",
+      "magnitude": "968 RNAs, 107 soluble proteins, and 103 membrane proteins were identified as differentially expressed"
+    }
+  ]
+}

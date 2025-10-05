@@ -1,0 +1,73 @@
+{
+  "publication": {
+    "pmc_id": "PMC5026643",
+    "title": "Lifelong Wheel Running Exercise and Mild Caloric Restriction Attenuate Nuclear EndoG in the Aging Plantaris Muscle",
+    "year": "2015",
+    "journal": "Experimental Gerontology"
+  },
+  "authors": [
+    "Kim, Jong-Hee",
+    "Lee, Yang",
+    "Kwak, Hyo-Bum",
+    "Lawler, John M."
+  ],
+  "subjects": {
+    "species": [
+      "Fischer-344 rat"
+    ],
+    "tissues": [
+      "plantaris muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "wheel running",
+      "treadmill exercise"
+    ],
+    "assays": [
+      "Apoptosis assay",
+      "HSP27 protein content measurement",
+      "HSP70 protein content measurement",
+      "EndoG translocation to the nucleus measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "ad libitum feeding",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "8% caloric restriction",
+      "dose": "8%",
+      "duration": "24 months"
+    },
+    {
+      "agent": "wheel running with 8% caloric restriction",
+      "dose": "8% CR",
+      "duration": "24 months"
+    }
+  ],
+  "results": [
+    {
+      "target": "nuclear EndoG levels",
+      "effect": "significantly lower in OExCR group compared to YAL and OCR groups",
+      "magnitude": null
+    },
+    {
+      "target": "HSP27 protein content",
+      "effect": "significantly higher in OCR and OExCR groups compared to YAL",
+      "magnitude": null
+    },
+    {
+      "target": "p-HSP27 (Ser82)",
+      "effect": "significantly higher in OExCR group compared to YAL",
+      "magnitude": null
+    },
+    {
+      "target": "AIF and HSP70",
+      "effect": "unaltered by CR or WR with CR",
+      "magnitude": null
+    }
+  ]
+}

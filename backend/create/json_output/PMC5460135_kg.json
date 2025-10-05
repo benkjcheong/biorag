@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC5460135",
+    "title": "Microbiology: Cavities-causing bacteria altered by space-like conditions",
+    "year": "2017",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Silvia S Orsini",
+    "April M Lewis",
+    "Kelly C Rice"
+  ],
+  "subjects": {
+    "species": [
+      "Streptococcus mutans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "rotating wall vessel bioreactor"
+    ],
+    "assays": [
+      "H2O2 resistance",
+      "competence in sucrose-containing biofilm media"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "metabolite profile",
+      "effect": "changes in metabolite profile",
+      "magnitude": "null"
+    },
+    {
+      "target": "transcriptome profiles",
+      "effect": "changes in gene expression",
+      "magnitude": "up-regulated \u22652-fold and down-regulated \u22652-fold"
+    },
+    {
+      "target": "H2O2 resistance",
+      "effect": "increased killing by H2O2",
+      "magnitude": "null"
+    },
+    {
+      "target": "competence in sucrose-containing biofilm media",
+      "effect": "no effect on competence",
+      "magnitude": "null"
+    }
+  ]
+}

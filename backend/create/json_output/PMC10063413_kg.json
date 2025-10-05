@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC10063413",
+    "title": "Modest differences in housing conditions influence experimental results: how small changes in temperature or heat loss impact bone accrual and turnover in growing female C57BL/6\u00a0J mice",
+    "year": "2023",
+    "journal": "Bone Research"
+  },
+  "authors": [
+    "Sattgast, Lara H.",
+    "Wong, Carmen P.",
+    "Branscum, Adam J.",
+    "Olson, Dawn A.",
+    "Aguirre-Burk, Allan M.",
+    "Iwaniec, Urszula T.",
+    "Turner, Russell T."
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6\u00a0J mice",
+      "mice"
+    ],
+    "tissues": [
+      "cancellous bone",
+      "femur metaphysis"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "individual housing",
+      "group housing"
+    ],
+    "assays": [
+      "bone volume fraction measurement",
+      "body weight measurement",
+      "femur size measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "cancellous bone volume fraction",
+      "effect": "decreased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "body weight",
+      "effect": "increased",
+      "magnitude": "statistically significant"
+    },
+    {
+      "target": "femur size",
+      "effect": "increased",
+      "magnitude": "statistically significant"
+    }
+  ]
+}

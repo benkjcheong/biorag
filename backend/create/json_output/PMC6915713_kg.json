@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC6915713",
+    "title": "Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver",
+    "year": "2019",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Afshin Beheshti",
+    "Kaushik Chakravarty",
+    "Homer Fogle",
+    "Hossein Fazelinia",
+    "Willian A da Silveira",
+    "Valery Boyko",
+    "San-Huei Lai Polo",
+    "Amanda M Saravia-Butler",
+    "Gary Hardiman",
+    "Deanne Taylor",
+    "Jonathan M Galazka",
+    "Sylvain V Costes"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6",
+      "BALB/c"
+    ],
+    "tissues": [
+      "liver"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNA-sequencing",
+      "Oil Red O staining",
+      "quantitative proteomic analysis"
+    ],
+    "assays": [
+      "ORO staining"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "days"
+    }
+  ],
+  "results": [
+    {
+      "target": "lipid accumulation",
+      "effect": "abnormal",
+      "magnitude": "increased"
+    },
+    {
+      "target": "lipid metabolism pathways",
+      "effect": "altered",
+      "magnitude": "significant"
+    }
+  ]
+}

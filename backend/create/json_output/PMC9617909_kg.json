@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC9617909",
+    "title": "High-gradient magnetic fields and starch metabolism: results from a space experiment",
+    "year": "2022",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "K H Hasenstein",
+    "M R Park",
+    "S P John",
+    "C Ajala"
+  ],
+  "subjects": {
+    "species": [
+      "Brassica rapa"
+    ],
+    "tissues": [
+      "amyloplasts"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "space",
+      "ground"
+    ],
+    "assays": [
+      "transcription analysis",
+      "amyloplast size measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "HGMF",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "amyloplast size",
+      "effect": "increased under weightlessness",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "amylase transcription",
+      "effect": "reduced under space conditions",
+      "magnitude": "not specified"
+    }
+  ]
+}

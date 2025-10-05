@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC6048781",
+    "title": "ERULUS Is a Plasma Membrane-Localized Receptor-Like Kinase That Specifies Root Hair Growth by Maintaining Tip-Focused Cytoplasmic Calcium Oscillations",
+    "year": "2018",
+    "journal": "Plant Cell"
+  },
+  "authors": [
+    "Taegun Kwon",
+    "J Alan Sparks",
+    "Fuqi Liao",
+    "Elison B Blancaflor"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root hair"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "onion epidermal cells",
+      "leaf protoplasts"
+    ],
+    "assays": [
+      "transient expression of a CAP1/ERU-GFP fusion"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "latrunculin B",
+      "dose": "low concentrations",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "root hair length",
+      "effect": "restored to wild-type lengths",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "ERU localization",
+      "effect": "localized to the plasma membrane",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "tip-focused [Ca2+]cyt oscillations",
+      "effect": "intensified and formed a diffuse fluorescent cap at the root hair apex",
+      "magnitude": "not specified"
+    }
+  ]
+}

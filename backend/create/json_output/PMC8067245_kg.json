@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC8067245",
+    "title": "Growth and Antifungal Resistance of the Pathogenic Yeast, Candida Albicans, in the Microgravity Environment of the International Space Station: An Aggregate of Multiple Flight Experiences",
+    "year": "2021",
+    "journal": "Life"
+  },
+  "authors": [
+    "Nielsen, Sheila",
+    "White, Kenna",
+    "Preiss, Kyle",
+    "Peart, Dakota",
+    "Gianoulias, Kathryn",
+    "Juel, Rachel",
+    "Sutton, James",
+    "McKinney, James",
+    "Bender, Jaclyn",
+    "Pinc, Gabrielle",
+    "Bergren, Kela",
+    "Gans, Wendy",
+    "Kelley, Jessica",
+    "McQuaid, Millard"
+  ],
+  "subjects": {
+    "species": [
+      "Candida albicans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "Antifungal Resistance"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "unknown",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "growth rate",
+      "effect": "an increase in growth rate",
+      "magnitude": "unknown"
+    }
+  ]
+}

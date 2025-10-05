@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC11127935",
+    "title": "Tardigrade secretory-abundant heat soluble (SAHS) proteins protect biological structures such as liposomes and microbial cells from dehydration-induced damages, potentially through undergoing structural transition upon desiccation.",
+    "year": "2024",
+    "journal": "Commun Biol"
+  },
+  "authors": [
+    "Samuel Lim",
+    "Charles B Reilly",
+    "Zeina Barghouti",
+    "Benedetto Marelli",
+    "Jeffrey C Way",
+    "Pamela A Silver"
+  ],
+  "subjects": {
+    "species": [
+      "Tardigrada"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Recombinant expression",
+      "Molecular dynamics simulation",
+      "Comparative structural analysis"
+    ],
+    "assays": [
+      "Liposome fusion prevention assay",
+      "Desiccation tolerance enhancement assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Liposome fusion prevention",
+      "effect": "Prevention",
+      "magnitude": null
+    },
+    {
+      "target": "Desiccation tolerance of E. coli and Rhizobium tropici",
+      "effect": "Enhancement",
+      "magnitude": null
+    }
+  ]
+}

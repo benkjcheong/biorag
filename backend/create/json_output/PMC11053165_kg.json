@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC11053165",
+    "title": "NASA GeneLab derived microarray studies of Mus musculus and Homo sapiens organisms in altered gravitational conditions",
+    "year": "2024",
+    "journal": null
+  },
+  "authors": [
+    "Adamopoulos, Konstantinos I.",
+    "Sanders, Lauren M.",
+    "Costes, Sylvain V."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus",
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "musculoskeletal",
+      "brain",
+      "adrenal gland",
+      "hippocampus",
+      "cortex"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microarray",
+      "RNA sequencing"
+    ],
+    "assays": [
+      "transcription profiling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "altered",
+      "magnitude": "decreased"
+    },
+    {
+      "target": "gene expression",
+      "effect": "altered",
+      "magnitude": "increased"
+    }
+  ]
+}

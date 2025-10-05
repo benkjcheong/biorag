@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC8518694",
+    "title": "Cadaverine regulates biotin synthesis to modulate primary root growth in Arabidopsis",
+    "year": "2021",
+    "journal": "The Plant Journal"
+  },
+  "authors": [
+    "Nicole M Gibbs",
+    "Shih-Heng Su",
+    "Samuel Lopez-Nieves",
+    "St\u00e9phane Mann",
+    "Claude Alban",
+    "Hiroshi A Maeda",
+    "Patrick H Masson"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro"
+    ],
+    "assays": [
+      "enzyme assay",
+      "biotinylation assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "cadaverine",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "biotin biosynthesis",
+      "effect": "increased sensitivity to cadaverine",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "root growth",
+      "effect": "reduced root growth",
+      "magnitude": "unknown"
+    }
+  ]
+}

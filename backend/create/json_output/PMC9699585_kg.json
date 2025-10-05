@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC9699585",
+    "title": "Space Microgravity Alters Neural Stem Cell Division: Implications for Brain Cancer Research on Earth and in Space",
+    "year": "2022",
+    "journal": "International Journal of Molecular Sciences"
+  },
+  "authors": [
+    "Shaka, Sophia",
+    "Carpo, Nicolas",
+    "Tran, Victoria",
+    "Cepeda, Carlos",
+    "Espinosa-Jeffrey, Araceli"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "neural stem cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Space Microgravity (SPC-\u00b5G)",
+      "Ground Control (1G)"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "Abnormal cell division (ACD)",
+      "effect": "Increased frequency of abnormal cell division including incomplete cell division (ICD) and multi-daughter cell division (MDCD)",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC10264680",
+    "title": "The EXO70 inhibitor Endosidin2 alters plasma membrane protein composition in Arabidopsis roots",
+    "year": "2023",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Li Xiaohui",
+    "Zhu Peipei",
+    "Chen Yen-Ju",
+    "Huang Lei",
+    "Wang Diwen",
+    "Newton David T",
+    "Hsu Chuan-Chih",
+    "Lin Guang",
+    "Tao W Andy",
+    "Staiger Christopher J",
+    "Zhang Chunhua"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "plasma membrane enrichment",
+      "quantitative proteomic analysis"
+    ],
+    "assays": [
+      "Endosidin2 treatment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Endosidin2 (ES2)",
+      "dose": "not specified",
+      "duration": "2 hours"
+    }
+  ],
+  "results": [
+    {
+      "target": "plasma membrane proteins",
+      "effect": "abundance reduction",
+      "magnitude": "145 proteins"
+    }
+  ]
+}

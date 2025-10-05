@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC7162976",
+    "title": "Dietary countermeasure mitigates simulated spaceflight-induced osteopenia in mice",
+    "year": "2020",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Steczina, Sonette",
+    "Tahimic, Candice G T",
+    "Pendleton, Megan",
+    "M\u2019Saad, Ons",
+    "Lowe, Moniece",
+    "Alwood, Joshua S",
+    "Halloran, Bernard P",
+    "Globus, Ruth K",
+    "Schreurs, Ann-Sofie"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading",
+      "simulated spaceflight"
+    ],
+    "assays": [
+      "BMD measurement",
+      "micro-architectural analysis",
+      "mechanical property assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Dried plum powder (DP)",
+      "dose": "ad libitum",
+      "duration": "throughout the study duration"
+    }
+  ],
+  "results": [
+    {
+      "target": "bone micro-architectural and mechanical properties",
+      "effect": "protection against decrements",
+      "magnitude": "significant improvement"
+    },
+    {
+      "target": "osteoprogenitor cells",
+      "effect": "protection from impairments",
+      "magnitude": "improved cell function"
+    }
+  ]
+}

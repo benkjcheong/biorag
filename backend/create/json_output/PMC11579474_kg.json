@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC11579474",
+    "title": "Impact of microgravity and lunar gravity on murine skeletal and immune systems during space travel",
+    "year": "2024",
+    "journal": "Sci Rep"
+  },
+  "authors": [
+    "Okamura Yui",
+    "Gochi Kei",
+    "Ishikawa Tatsuya",
+    "Hayashi Takuto",
+    "Fuseya Sayaka",
+    "Suzuki Riku",
+    "Kanai Maho",
+    "Inoue Yuri",
+    "Murakami Yuka",
+    "Sadaki Shunya",
+    "Jeon Hyojung",
+    "Hayama Mio",
+    "Ishii Hiroto",
+    "Tsunakawa Yuki",
+    "Ochi Hiroki",
+    "Sato Shingo",
+    "Hamada Michito",
+    "Okada Risa",
+    "Shiba Dai",
+    "Muratani Masafumi",
+    "Shinohara Masahiro",
+    "Akiyama Taishin",
+    "Kudo Takashi",
+    "Takahashi Satoru"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "skeletal",
+      "immune"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ISS/Kibo Experiment"
+    ],
+    "assays": [
+      "immunological assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "microgravity",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "skeletal and immune system function",
+      "effect": "altered",
+      "magnitude": "unknown"
+    }
+  ]
+}

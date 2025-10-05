@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC5026642",
+    "title": "Age-related alterations in the sarcolemmal environment are attenuated by lifelong caloric restriction and voluntary exercise",
+    "year": "2017",
+    "journal": "Experimental Gerontology"
+  },
+  "authors": [
+    "Jeffrey M Hord",
+    "Rachel Botchlett",
+    "John M Lawler"
+  ],
+  "subjects": {
+    "species": [
+      "Fischer-344 rat"
+    ],
+    "tissues": [
+      "skeletal muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "plantaris muscle fibers"
+    ],
+    "assays": [
+      "DGC protein expression",
+      "nNOS content",
+      "MG53, dysferlin, annexin A6, and annexin A2 protein content",
+      "Nox2 subunit (p67phox and p47phox) content"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "caloric restriction (8%)",
+      "dose": "8%",
+      "duration": "lifelong"
+    },
+    {
+      "agent": "voluntary wheel running",
+      "dose": null,
+      "duration": "lifelong"
+    }
+  ],
+  "results": [
+    {
+      "target": "dystrophin glycoprotein complex (DGC) protein expression",
+      "effect": "disruption",
+      "magnitude": "age-related decrease"
+    },
+    {
+      "target": "nNOS content",
+      "effect": "decrease",
+      "magnitude": "age-related decrease"
+    },
+    {
+      "target": "MG53, dysferlin, annexin A6, and annexin A2 protein content",
+      "effect": "protection against age-related decline",
+      "magnitude": "near YAL levels"
+    },
+    {
+      "target": "Nox2 subunit (p67phox and p47phox) content",
+      "effect": "prevention of loss",
+      "magnitude": "maintained near YAL levels"
+    }
+  ]
+}

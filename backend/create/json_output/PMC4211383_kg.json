@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC4211383",
+    "title": "Light and gravity signals synergize in modulating plant development",
+    "year": "2014",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Vandenbrink, Joshua P.",
+    "Kiss, John Z.",
+    "Herranz, Raul",
+    "Medina, F Javier"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "root",
+      "shoot"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Earth's gravity",
+      "Rotating wheel"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "root growth",
+      "effect": "directed growth towards center of wheel",
+      "magnitude": null
+    },
+    {
+      "target": "shoot growth",
+      "effect": "directed growth toward periphery of wheel",
+      "magnitude": null
+    }
+  ]
+}

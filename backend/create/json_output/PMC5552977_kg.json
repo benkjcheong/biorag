@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC5552977",
+    "title": "Draft Genome Sequences from a Novel Clade of Bacillus cereus\u00a0Sensu Lato Strains, Isolated from the International Space Station",
+    "year": "2017",
+    "journal": "Genome Announcement"
+  },
+  "authors": [
+    "Kasthuri Venkateswaran",
+    "Aleksandra Checinska Sielaff",
+    "Shashikala Ratnayake",
+    "Robert K Pope",
+    "Thomas E Blank",
+    "Victor G Stepanov",
+    "George E Fox",
+    "Sandra P van Tongeren",
+    "Clinton Torres",
+    "Jonathan Allen",
+    "Crystal Jaing",
+    "Duane Pierson",
+    "Jay Perry",
+    "Sergey Koren",
+    "Adam Phillippy",
+    "Joy Klubnik",
+    "Todd J Treangen",
+    "M J Rosovitz",
+    "Nicholas H Bergman"
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus anthracis",
+      "B. cereus",
+      "B. thuringiensis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina MiSeq",
+      "PacBio RSII"
+    ],
+    "assays": [
+      "de novo assembly",
+      "alignment",
+      "phylogenetic placement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequences",
+      "effect": "assembled genomes",
+      "magnitude": "high similarity to B. anthracis type strain"
+    }
+  ]
+}

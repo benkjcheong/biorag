@@ -1,0 +1,75 @@
+{
+  "publication": {
+    "pmc_id": "PMC4682325",
+    "title": "Transcriptional and Hormonal Regulation of Gravitropism of Woody Stems in Populus",
+    "year": "2015",
+    "journal": "Plant Cell"
+  },
+  "authors": [
+    "Gerttula, Suzanne",
+    "Zinkgraf, Matthew",
+    "Muday, Gloria K",
+    "Lewis, Daniel R",
+    "Ibatullin, Farid M",
+    "Brumer, Harry",
+    "Hart, Foster",
+    "Mansfield, Shawn D",
+    "Filkov, Vladimir",
+    "Groover, Andrew"
+  ],
+  "subjects": {
+    "species": [
+      "Populus"
+    ],
+    "tissues": [
+      "xylem",
+      "cambium",
+      "tension wood fibers"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro",
+      "genome-wide transcriptome analysis"
+    ],
+    "assays": [
+      "gravitation-induced tension wood formation assay",
+      "gibberellic acid treatment assay",
+      "ARK2 expression modulation assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "gravity",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "gibberellic acid",
+      "dose": "10 \u00b5M",
+      "duration": "24 hours"
+    },
+    {
+      "agent": "ARK2 modulation",
+      "dose": "overexpression/knockdown",
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "PIN3 localization",
+      "effect": "redistribution to amyloplasts and cell membranes",
+      "magnitude": "increased expression in response to gravity"
+    },
+    {
+      "target": "tension wood formation",
+      "effect": "stimulated by gibberellic acid treatment",
+      "magnitude": "enhanced rate of tension wood formation"
+    },
+    {
+      "target": "ARK2 transcript levels",
+      "effect": "increased expression in response to gravity and GA treatment",
+      "magnitude": "significant correlation with tension wood formation"
+    }
+  ]
+}

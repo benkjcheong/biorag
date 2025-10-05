@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC3190158",
+    "title": "The C-terminal region of S. aureus MscL plays a critical role in the oligomeric state of the protein when it is solubilized in detergent.",
+    "year": "2011",
+    "journal": "Protein Science"
+  },
+  "authors": [
+    "Iscla, Irene",
+    "Wray, Robin",
+    "Blount, Paul"
+  ],
+  "subjects": {
+    "species": [
+      "S. aureus"
+    ],
+    "tissues": [
+      "membrane"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "native membranes",
+      "in vivo disulfide-trapping assay"
+    ],
+    "assays": [
+      "disulfide-trapping"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "osmotic shock",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "oligomeric state of S. aureus MscL",
+      "effect": "pentamer",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "publication": {
+    "pmc_id": "PMC11470607",
+    "title": "Over-activation of iNKT cells aggravate lung injury in bronchopulmonary dysplasia mice",
+    "year": "2024",
+    "journal": "Redox Biology"
+  },
+  "authors": [
+    "Wang, Ming-Yan",
+    "Yi, Meng-Xu",
+    "Mo, Xing-Yu",
+    "Wei, Shan-Jie",
+    "Qiao, Yu",
+    "Zhang, Zheng",
+    "Su, Zhao-Liang",
+    "Lu, Hong-Yan"
+  ],
+  "subjects": {
+    "species": [
+      "mice"
+    ],
+    "tissues": [
+      "AEC II",
+      "lung"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hyperoxia-induced BPD mouse model"
+    ],
+    "assays": [
+      "transwell co-culture system",
+      "RNA-seq analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "anti-CD1d neutralizing antibody",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "\u03b1-GalCer",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "iNKT cells adoptive transfer",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "lung development",
+      "effect": "abnormal lung development",
+      "magnitude": "increased lung injury"
+    },
+    {
+      "target": "iNKT cell activation",
+      "effect": "increased activation",
+      "magnitude": "increased percentage of iNKT cells"
+    },
+    {
+      "target": "AEC II ferroptosis",
+      "effect": "increased ferroptosis",
+      "magnitude": "decreased SP-C and T1\u03b1 expression"
+    }
+  ]
+}

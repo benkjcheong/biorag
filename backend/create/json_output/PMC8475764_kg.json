@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC8475764",
+    "title": "Epigenetic Regulators Elongator Complex Subunit 2 and Methyltransferase 1 Differentially Condition the Spaceflight Response in Arabidopsis",
+    "year": "2021",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Paul, Anna-Lisa",
+    "Haveman, Natasha",
+    "Califar, Brandon",
+    "Ferl, Robert J."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station"
+    ],
+    "assays": [
+      "DNA methylation profiling",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "differentially expressed genes (DEGs)",
+      "effect": "reprogramming of spaceflight transcriptomic response",
+      "magnitude": "significant changes in gene expression"
+    },
+    {
+      "target": "DNA methylation profiles",
+      "effect": "organ-specific alterations in DNA methylation patterns",
+      "magnitude": "differential methylation levels"
+    }
+  ]
+}

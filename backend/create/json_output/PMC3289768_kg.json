@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC3289768",
+    "title": "Dissociation of the c-terminal \u03b1 helical bundle is not required for normal gating and conductance of the MscL channel",
+    "year": "2012",
+    "journal": "ACS Nano"
+  },
+  "authors": [
+    "Li-Min Yang",
+    "Robin Wray",
+    "Juandell Parker",
+    "Danyell Wilson",
+    "Randolph S Duran",
+    "Paul Blount"
+  ],
+  "subjects": {
+    "species": [
+      "E. coli",
+      "Mycobacterium tuberculosis"
+    ],
+    "tissues": [
+      "cytoplasmic membrane"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "X-ray crystallography"
+    ],
+    "assays": [
+      "Western blot"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "cross linking",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "channel conductance",
+      "effect": "reduced",
+      "magnitude": "null"
+    },
+    {
+      "target": "CB conformation",
+      "effect": "stable",
+      "magnitude": "null"
+    }
+  ]
+}

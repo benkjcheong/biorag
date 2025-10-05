@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC3947616",
+    "title": "Altered Disc Compression in Children with Idiopathic Low Back Pain: An Upright MRI Backpack Study",
+    "year": "2014",
+    "journal": "Spine (Phila Pa 1976)"
+  },
+  "authors": [
+    "Stephen J Shymon",
+    "Burt Yaszay",
+    "Jerry R Dwek",
+    "James A Proudfoot",
+    "Michael Donohue",
+    "Alan R Hargens"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "intervertebral disc"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "0.6T upright MRI scanner",
+      "Jansport backpack"
+    ],
+    "assays": [
+      "IVD height measurement",
+      "lumbar lordosis measurement",
+      "lumbar coronal deformity measurement",
+      "pain score measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "backpack loads",
+      "dose": "0 kg, 4 kg, 8 kg",
+      "duration": "30 minutes"
+    }
+  ],
+  "results": [
+    {
+      "target": "IVD height",
+      "effect": "compression",
+      "magnitude": "L5-S1 only"
+    },
+    {
+      "target": "lumbar lordosis",
+      "effect": "decrease",
+      "magnitude": "ILBP children less than normal children"
+    },
+    {
+      "target": "lumbar coronal deformity",
+      "effect": "increase",
+      "magnitude": "ILBP children more than normal children"
+    },
+    {
+      "target": "pain score",
+      "effect": "increase",
+      "magnitude": "increasing load"
+    }
+  ]
+}

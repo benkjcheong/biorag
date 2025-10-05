@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC7890410",
+    "title": "Spaceflight induces morphological remodeling of adult neurons in C.\u00a0elegans",
+    "year": "2021",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Ricardo Laranjeiro",
+    "Girish Harinath",
+    "Amelia K Pollard",
+    "Christopher J Gaffney",
+    "Colleen S Deane",
+    "Siva A Vanapalli",
+    "Timothy Etheridge",
+    "Nathaniel J Szewczyk",
+    "Monica Driscoll"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": [
+      "neurons",
+      "hypodermis"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "hyperbranching analysis",
+      "neuronal debris accumulation assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "5 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "neuronal morphology",
+      "effect": "hyperbranching",
+      "magnitude": null
+    },
+    {
+      "target": "neuronal debris",
+      "effect": "accumulation",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC3251573",
+    "title": "New Insights into the Bacterial Fitness-Associated Mechanisms Revealed by the Characterization of Large Plasmids of an Avian Pathogenic E. coli",
+    "year": "2012",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Mellata, Melha",
+    "Maddux, Jacob T",
+    "Nam, Timothy",
+    "Thomson, Nicholas",
+    "Hauser, Heidi",
+    "Stevens, Mark P",
+    "Mukhopadhyay, Suman",
+    "Sarker, Shameema",
+    "Crabb\u00e9, Aur\u00e9lie",
+    "Nickerson, Cheryl A",
+    "Santander, Javier",
+    "Curtiss III, Roy"
+  ],
+  "subjects": {
+    "species": [
+      "Escherichia coli",
+      "Salmonella"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "sequencing",
+      "biofilm formation assays",
+      "bile tolerance assays",
+      "acid tolerance assays",
+      "3-D cultures of intestinal epithelial cells"
+    ],
+    "assays": [
+      "biofilm formation assay",
+      "bile tolerance assay",
+      "acid tolerance assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "biofilm formation",
+      "effect": "increased biofilm formation",
+      "magnitude": "significant increase in biofilm formation"
+    },
+    {
+      "target": "bile tolerance",
+      "effect": "improved bile tolerance",
+      "magnitude": "higher bile tolerance compared to wild-type strain"
+    },
+    {
+      "target": "acid tolerance",
+      "effect": "enhanced acid tolerance",
+      "magnitude": "increased acid tolerance compared to wild-type strain"
+    }
+  ]
+}

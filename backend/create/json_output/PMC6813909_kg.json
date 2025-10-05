@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC6813909",
+    "title": "Effects of ex vivo Ionizing Radiation on Collagen Structure and Whole-Bone Mechanical Properties of Mouse Vertebrae",
+    "year": "2019",
+    "journal": "Bone"
+  },
+  "authors": [
+    "Megan M Pendleton",
+    "Shannon R Emerzian",
+    "Jennifer Liu",
+    "Simon Y Tang",
+    "Grace D O\u2019Connell",
+    "Joshua S Alwood",
+    "Tony M Keaveny"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J mouse"
+    ],
+    "tissues": [
+      "vertebrae",
+      "collagen"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ex vivo"
+    ],
+    "assays": [
+      "monotonic strength",
+      "fatigue life",
+      "collagen fragmentation",
+      "non-enzymatic collagen crosslinking"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "x-ray radiation",
+      "dose": "0 Gy, 50 Gy, 1000 Gy, 17000 Gy, 35000 Gy",
+      "duration": "Ex vivo"
+    }
+  ],
+  "results": [
+    {
+      "target": "monotonic strength",
+      "effect": "reduced",
+      "magnitude": "50% at 17000 and 35000 Gy, p < 0.001"
+    },
+    {
+      "target": "fatigue life",
+      "effect": "reduced",
+      "magnitude": "p < 0.001"
+    }
+  ]
+}

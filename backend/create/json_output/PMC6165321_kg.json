@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC6165321",
+    "title": "Impact of Spaceflight and Artificial Gravity on the Mouse Retina: Biochemical and Proteomic Analysis",
+    "year": "2018",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Xiao W Mao",
+    "Stephanie Byrum",
+    "Nina C Nishiyama",
+    "Michael J Pecaut",
+    "Vijayalakshmi Sridharan",
+    "Marjan Boerma",
+    "Alan J Tackett",
+    "Dai Shiba",
+    "Masaki Shirakawa",
+    "Satoru Takahashi",
+    "Michael D Delp"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6 mouse"
+    ],
+    "tissues": [
+      "retina",
+      "ocular tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "SpaceX rocket",
+      "Japan Aerospace Exploration Agency (JAXA) \u201cKibo\u201d facility"
+    ],
+    "assays": [
+      "apoptosis assay",
+      "proteomic analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "35 days"
+    },
+    {
+      "agent": "artificial gravity (AG)",
+      "dose": "1 g",
+      "duration": "35 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "apoptosis in retinal vascular endothelial cells",
+      "effect": "increased apoptosis",
+      "magnitude": "64% greater than HC group"
+    },
+    {
+      "target": "protein expression profiles",
+      "effect": "significant changes",
+      "magnitude": null
+    }
+  ]
+}

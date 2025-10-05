@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC9953463",
+    "title": "Transcriptomic Effects on the Mouse Heart Following 30 Days on the International Space Station",
+    "year": "2023",
+    "journal": "Biomolecules"
+  },
+  "authors": [
+    "Alicia L Veliz",
+    "Lana Mamoun",
+    "Lorelei Hughes",
+    "Richard Vega",
+    "Bailey Holmes",
+    "Andrea Monteon",
+    "Jillian Bray",
+    "Mary Kearns-Jonker",
+    "Daniela Grimm"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J mouse"
+    ],
+    "tissues": [
+      "heart"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "ground control"
+    ],
+    "assays": [
+      "RNA sequencing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "transcripts",
+      "effect": "significantly regulated",
+      "magnitude": "1147 transcripts"
+    }
+  ]
+}

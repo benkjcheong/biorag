@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC7599661",
+    "title": "Approaching Gravity as a Continuum Using the Rat Partial Weight-Bearing Model",
+    "year": "2020",
+    "journal": "Life"
+  },
+  "authors": [
+    "Mortreux, Marie",
+    "Rosa-Caldwell, Megan E"
+  ],
+  "subjects": {
+    "species": [
+      "rat",
+      "mouse"
+    ],
+    "tissues": [
+      "muscle",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ground-based"
+    ],
+    "assays": [
+      "weight-bearing",
+      "musculoskeletal analysis",
+      "blood cell count",
+      "bone mineral density (BMD)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "partial weight-bearing",
+      "dose": "21 days of Mars-analog loading (38% of normal loading)",
+      "duration": "21 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "musculoskeletal system",
+      "effect": "atrophy of hindlimb muscles and decline in bone mineral density (BMD)",
+      "magnitude": "20% lower gastrocnemius wet mass, 24% lower femoral bone volume"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC8932657",
+    "title": "Piezo1 regulates functional mechanoproperties of muscle stem cells during regeneration.",
+    "year": "2022",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Nuoying Ma",
+    "Delia Chen",
+    "Ji-Hyung Lee",
+    "Paola Kuri",
+    "Edward Blake Hernandez",
+    "Jacob Kocan",
+    "Hamd Mahmood",
+    "Elisia D Tichy",
+    "Panteleimon Rompolas",
+    "Foteini Mourkioti"
+  ],
+  "subjects": {
+    "species": [
+      "Musculus"
+    ],
+    "tissues": [
+      "Muscle stem cells",
+      "Skeletal muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "In vitro"
+    ],
+    "assays": [
+      "Regeneration assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Piezo1 activation",
+      "dose": "Pharmacological activation",
+      "duration": "Time-dependent"
+    }
+  ],
+  "results": [
+    {
+      "target": "MuSC morphology",
+      "effect": "Shift in stem cell states",
+      "magnitude": "Increased responsiveness"
+    },
+    {
+      "target": "Muscle regeneration",
+      "effect": "Enhanced regenerative capacity",
+      "magnitude": "Improved muscle repair"
+    }
+  ]
+}

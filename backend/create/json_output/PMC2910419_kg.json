@@ -1,0 +1,92 @@
+{
+  "publication": {
+    "pmc_id": "PMC2910419",
+    "title": "Development of otolith receptors in Japanese quail",
+    "year": "2010",
+    "journal": "Developmental Neurobiology"
+  },
+  "authors": [
+    "David Huss",
+    "Rena Navaluri",
+    "Kathleen F Faulkner",
+    "J David Dickman"
+  ],
+  "subjects": {
+    "species": [
+      "Japanese quail"
+    ],
+    "tissues": [
+      "otolith maculae",
+      "hair cells",
+      "stereocilia",
+      "calyx",
+      "bouton",
+      "type I hair cells",
+      "type II hair cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "embryo",
+      "utricle",
+      "quail utricle"
+    ],
+    "assays": [
+      "immunohistochemistry",
+      "neural tracing techniques",
+      "calyx afferent innervation",
+      "bouton afferent innervation",
+      "type I hair cell innervation",
+      "type II hair cell innervation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "otolith maculae epithelial areas",
+      "effect": "exponential growth",
+      "magnitude": "asymptotic values near post-hatch day P7"
+    },
+    {
+      "target": "hair cell density",
+      "effect": "dependent upon macular location",
+      "magnitude": null
+    },
+    {
+      "target": "stereocilia polarization",
+      "effect": "initiation early, with defining reversal zones forming at E8",
+      "magnitude": null
+    },
+    {
+      "target": "hair cell polarity",
+      "effect": "less than half of all immature hair cells observed had non-polarized internal kinocilia",
+      "magnitude": null
+    },
+    {
+      "target": "calyx afferent innervation",
+      "effect": "small fibers with terminal growth cones at E6, followed by collateral branches with apparent bouton terminals at E8",
+      "magnitude": null
+    },
+    {
+      "target": "calyx afferent development",
+      "effect": "began at E10, but mature calyces were not observed until E12",
+      "magnitude": null
+    },
+    {
+      "target": "type I hair cell innervation by calyx afferents",
+      "effect": "did not develop until E14",
+      "magnitude": null
+    },
+    {
+      "target": "bouton afferent innervation",
+      "effect": "exclusive to the extrastriola and type II band",
+      "magnitude": null
+    }
+  ]
+}

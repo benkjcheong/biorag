@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC6952069",
+    "title": "MetaMiner: A Scalable Peptidogenomics Approach for Discovery of Ribosomal Peptide Natural Products with Blind Modifications from Microbial Communities",
+    "year": "2019",
+    "journal": "Cell Systems"
+  },
+  "authors": [
+    "Liu Cao",
+    "Alexey Gurevich",
+    "Kelsey L Alexander",
+    "C Benjamin Naman",
+    "Tiago Le\u00e3o",
+    "Evgenia Glukhov",
+    "Tal Luzzatto-Knaan",
+    "Fernando Vargas",
+    "Robby Quinn",
+    "Amina Bouslimani",
+    "Louis Felix Nothias",
+    "Nitin K Singh",
+    "Jon G Sanders",
+    "Rodolfo A S Benitez",
+    "Luke R Thompson",
+    "Md-Nafiz Hamid",
+    "James T Morton",
+    "Alla Mikheenko",
+    "Alexander Shlemov",
+    "Anton Korobeynikov",
+    "Iddo Friedberg",
+    "Rob Knight",
+    "Kasthuri Venkateswaran",
+    "William H Gerwick",
+    "Lena Gerwick",
+    "Pieter C Dorrestein",
+    "Pavel A Pevzner",
+    "Hosein Mohimani"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "mass spectrometry"
+    ],
+    "assays": [
+      "blind modifications"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "Ribosomal peptide natural products",
+      "effect": "Discovery",
+      "magnitude": "Scalable"
+    }
+  ]
+}

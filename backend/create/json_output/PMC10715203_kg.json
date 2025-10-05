@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC10715203",
+    "title": "Genomic analysis reveals the presence of emerging pathogenic Klebsiella lineages aboard the International Space Station",
+    "year": "2023",
+    "journal": "Microbiol Spectr."
+  },
+  "authors": [
+    "Georgios Miliotis",
+    "Francesca McDonagh",
+    "Nitin Kumar Singh",
+    "Louise O'Connor",
+    "Alma Tuohy",
+    "Dearbh\u00e1ile Morris",
+    "Kasthuri Venkateswaran",
+    "Varsha Singh"
+  ],
+  "subjects": {
+    "species": [
+      "Klebsiella pneumoniae",
+      "Klebsiella aerogenes",
+      "Klebsiella quasipneumoniae"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "Genomic analysis",
+      "Mobile genetic element (MGE) analysis"
+    ]
+  },
+  "treatments": [],
+  "results": [
+    {
+      "target": "antimicrobial resistance",
+      "effect": "increased resistance to disinfectants and heavy metals",
+      "magnitude": "significant increase in resistance levels"
+    },
+    {
+      "target": "virulence",
+      "effect": "potential for enhanced virulence due to MGEs",
+      "magnitude": "possible increased virulence potential"
+    }
+  ]
+}

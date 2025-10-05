@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC4960141",
+    "title": "Establishment and characterization of DB-1: a leptin receptor-deficient murine macrophage cell line",
+    "year": "2015",
+    "journal": "Cytotechnology"
+  },
+  "authors": [
+    "Dib, Lea H",
+    "Ortega, M Teresa",
+    "Melgarejo, Tonatiuh",
+    "Chapes, Stephen K"
+  ],
+  "subjects": {
+    "species": [
+      "db/db mouse",
+      "C57BL/6 mouse"
+    ],
+    "tissues": [
+      "macrophage"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "cell culture",
+      "immortalization"
+    ],
+    "assays": [
+      "RNA quantification",
+      "phagocytosis",
+      "nitric oxide synthase (NOS) expression"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "recombinant mouse macrophage colony stimulating factor (rmM-CSF)",
+      "dose": "Not specified",
+      "duration": "Not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "Nos2 transcript levels",
+      "effect": "increased",
+      "magnitude": "Not specified"
+    },
+    {
+      "target": "macrophage phagocytic activity",
+      "effect": "similar to primary macrophages",
+      "magnitude": "Not specified"
+    }
+  ]
+}

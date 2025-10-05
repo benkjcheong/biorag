@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC9267413",
+    "title": "Extraterrestrial Gynecology: Could Spaceflight Increase the Risk of Developing Cancer in Female Astronauts? An Updated Review",
+    "year": "2022",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Rosa Drago-Ferrante",
+    "Riccardo Di Fiore",
+    "Fathi Karouia",
+    "Yashwanth Subbannayya",
+    "Saswati Das",
+    "Begum Aydogan Mathyk",
+    "Shehbeel Arif",
+    "Ana Paula Guevara-Cerd\u00e1n",
+    "Allen Seylani",
+    "Weronika Kukulska",
+    "Joseph Borg",
+    "Sherif Suleiman",
+    "David Marshall Porterfield",
+    "Andrea Camera",
+    "Lane K Christenson",
+    "April Elizabeth Ronca",
+    "Jonathan G Steller",
+    "Afshin Beheshti",
+    "Jean Calleja-Agius"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "PMC",
+      "PubMed"
+    ],
+    "assays": [
+      "Search in PMC",
+      "Search in PubMed"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "treatment_agent",
+      "dose": "dose_amount dose_unit",
+      "duration": "duration_amount duration_unit"
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

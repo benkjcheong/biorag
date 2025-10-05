@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC4290804",
+    "title": "Spaceflight Induces Specific Alterations in the Proteomes of Arabidopsis",
+    "year": "2015",
+    "journal": "Astrobiology"
+  },
+  "authors": [
+    "Robert J Ferl",
+    "Jin Koh",
+    "Fiona Denison",
+    "Anna-Lisa Paul"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "leaves",
+      "roots"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Earth"
+    ],
+    "assays": [
+      "iTRAQ broad-scale proteomics procedures",
+      "mass spectrometry (MS)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_proteins",
+      "effect": "differential abundance",
+      "magnitude": "statistically significant"
+    }
+  ]
+}

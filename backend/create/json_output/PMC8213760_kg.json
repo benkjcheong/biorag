@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC8213760",
+    "title": "Evidence for increased thermogenesis in female C57BL/6J mice housed aboard the international space station",
+    "year": "2021",
+    "journal": "Nature Publishing Group"
+  },
+  "authors": [
+    "Carmen P Wong",
+    "Urszula T Iwaniec",
+    "Russell T Turner"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J mice"
+    ],
+    "tissues": [
+      "interscapular brown adipose tissue (BAT)",
+      "gonadal white adipose tissue (WAT)"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "RNA isolation",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "37 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "Ucp-1 gene expression",
+      "effect": "increased",
+      "magnitude": "1.5x"
+    },
+    {
+      "target": "Adipoq, Ppargc1a, Cdkn1a, and Cfd gene expression",
+      "effect": "differential expression",
+      "magnitude": "altered"
+    }
+  ]
+}

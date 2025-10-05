@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC5132293",
+    "title": "Preservation of Multiple Mammalian Tissues to Maximize Science Return from Ground Based and Spaceflight Experiments",
+    "year": "2016",
+    "journal": "PLOS ONE"
+  },
+  "authors": [
+    "Sungshin Choi",
+    "Hami E Ray",
+    "San-Huei Lai",
+    "Joshua S Alwood",
+    "Ruth K Globus"
+  ],
+  "subjects": {
+    "species": [
+      "C57Bl/6J mice"
+    ],
+    "tissues": [
+      "liver",
+      "spleen",
+      "heart",
+      "kidneys",
+      "small intestine",
+      "bone",
+      "bone marrow"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Agilent Bioanalyzer"
+    ],
+    "assays": [
+      "RNA integrity number (RIN) measurement",
+      "enzyme activity measurements"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "RNA quality",
+      "effect": "minimal adverse effects on RNA quality of either livers or RNAlater-preserved spleens",
+      "magnitude": "similar to those of positive controls"
+    },
+    {
+      "target": "enzyme activity",
+      "effect": "no significant effect observed at any time point",
+      "magnitude": null
+    }
+  ]
+}

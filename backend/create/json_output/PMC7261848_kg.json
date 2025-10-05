@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC7261848",
+    "title": "Competitive Growth Assay of Mutagenized Chlamydomonas reinhardtii Compatible With the International Space Station Veggie Plant Growth Chamber",
+    "year": "2020",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Zhang Junya",
+    "M\u00fcller B\u00e1rbara S F",
+    "Tyre Kevin N",
+    "Hersh Hope L",
+    "Bai Fang",
+    "Hu Ying",
+    "Resende Jr Marcio F R",
+    "Rathinasabapathi Bala",
+    "Settles A Mark"
+  ],
+  "subjects": {
+    "species": [
+      "Chlamydomonas reinhardtii"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Veggie plant growth chamber",
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "competitive growth assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "UVC mutagenesis",
+      "dose": "short-wave ultraviolet light (UVC)",
+      "duration": "start of the assay"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene mutations",
+      "effect": "enriched for transversions and non-synonymous mutations",
+      "magnitude": "relative to natural variants"
+    }
+  ]
+}

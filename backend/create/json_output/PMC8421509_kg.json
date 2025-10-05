@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC8421509",
+    "title": "Longitudinal characterization of multispecies microbial populations recovered from spaceflight potable water",
+    "year": "2021",
+    "journal": "NPJ Biofilms Microbiomes"
+  },
+  "authors": [
+    "Jiseon Yang",
+    "Jennifer Barrila",
+    "C Mark Ott",
+    "Olivia King",
+    "Rebekah Bruce",
+    "Robert J C McLean",
+    "Cheryl A Nickerson"
+  ],
+  "subjects": {
+    "species": [
+      "Ralstonia",
+      "Burkholderia",
+      "Sphingomonas",
+      "Rhizobiales"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "antibiotic resistance",
+      "metabolism",
+      "hemolysis",
+      "biofilm structure/composition"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "antibiotic resistance",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    },
+    {
+      "target": "metabolism",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    },
+    {
+      "target": "hemolysis",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    },
+    {
+      "target": "biofilm structure/composition",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

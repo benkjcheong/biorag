@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC8234954",
+    "title": "Detection of Genes in Arabidopsis thaliana L. Responding to DNA Damage from Radiation and Other Stressors in Spaceflight",
+    "year": "2021",
+    "journal": "Genes (Basel)"
+  },
+  "authors": [
+    "Vidya Manian",
+    "Jairo Orozco-Sandoval",
+    "Victor Diaz-Martinez"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana L."
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "GeneLab"
+    ],
+    "assays": [
+      "Pearson correlation-based gene regulatory network inferencing",
+      "topological and spectral analysis of the networks"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Ionizing radiation",
+      "dose": "Not specified",
+      "duration": "Not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "DNA damage response processes",
+      "effect": "Gene expression changes",
+      "magnitude": "Not specified"
+    },
+    {
+      "target": "ATR/ATM protein interactions",
+      "effect": "Protein-protein interaction similarities under low radiation doses",
+      "magnitude": "Not specified"
+    },
+    {
+      "target": "DNA repair processes",
+      "effect": "Identification of key genes involved in DNA repair",
+      "magnitude": "Not specified"
+    },
+    {
+      "target": "Pigment biosynthesis processes",
+      "effect": "Activation of flavonoids and carotenoids under specific radiation doses",
+      "magnitude": "Not specified"
+    }
+  ]
+}

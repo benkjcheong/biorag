@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC9111996",
+    "title": "Asparagine biosynthesis as a mechanism of increased host lethality induced by Serratia marcescens in simulated microgravity environments",
+    "year": "2022",
+    "journal": "Heliyon"
+  },
+  "authors": [
+    "Gilbert, Rachel",
+    "Tanenbaum, Nicole",
+    "Bhattacharya, Sharmila"
+  ],
+  "subjects": {
+    "species": [
+      "Serratia marcescens",
+      "Drosophila melanogaster"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "rotating wall vessel (RWV)",
+      "low shear modeled microgravity (LSMMG)"
+    ],
+    "assays": [
+      "host lethality",
+      "asparagine uptake and synthesis",
+      "bacterial growth rate",
+      "L-asparaginase mediated breakdown of asparagine"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Serratia marcescens",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "host lethality",
+      "effect": "increased",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "asparagine uptake and synthesis",
+      "effect": "increased",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "bacterial growth rate",
+      "effect": "increased",
+      "magnitude": "comparable to aspartate and glutamine addition"
+    },
+    {
+      "target": "L-asparaginase mediated breakdown of asparagine",
+      "effect": "effective countermeasure",
+      "magnitude": null
+    }
+  ]
+}

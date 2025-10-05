@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC11942576",
+    "title": "Genome-Wide Analysis of the PERK Gene Family in Brassica napus L. and Their Potential Roles in Clubroot Disease",
+    "year": "2025",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Zeyu Zhang",
+    "Tongyu Fu",
+    "Cong Zhou",
+    "Fan Liu",
+    "Lingyi Zeng",
+    "Li Ren",
+    "Chaobo Tong",
+    "Lijiang Liu",
+    "Li Xu",
+    "Richard R-C Wang"
+  ],
+  "subjects": {
+    "species": [
+      "Brassica napus",
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root",
+      "cell wall"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "qPCR",
+      "bioinformatics analysis"
+    ],
+    "assays": [
+      "gene expression analysis",
+      "protein-protein interaction network analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Plasmodiophora brassicae infection",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "BnPERK gene expression",
+      "effect": "downregulation",
+      "magnitude": "significant reduction"
+    },
+    {
+      "target": "clubroot disease severity",
+      "effect": "relieved",
+      "magnitude": "reduced disease severity"
+    },
+    {
+      "target": "immune response",
+      "effect": "enhanced",
+      "magnitude": "increased basal immunity"
+    }
+  ]
+}

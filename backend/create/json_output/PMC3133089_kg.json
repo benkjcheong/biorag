@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC3133089",
+    "title": "Characterization of the Salmonella enterica Serovar Typhimurium ydcI Gene, Which Encodes a Conserved DNA Binding Protein Required for Full Acid Stress Resistance",
+    "year": "2011",
+    "journal": "Journal of Bacteriology"
+  },
+  "authors": [
+    "Jennings ME",
+    "Quick LN",
+    "Soni A",
+    "Davis RR",
+    "Crosby K",
+    "Ott CM",
+    "Nickerson CA",
+    "Wilson JW"
+  ],
+  "subjects": {
+    "species": [
+      "Salmonella enterica",
+      "Typhimurium"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "RWV bioreactor",
+      "spaceflight"
+    ],
+    "assays": [
+      "acid stress resistance assay",
+      "invasion assay",
+      "biofilm formation assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "acid stress resistance",
+      "effect": "increased resistance",
+      "magnitude": "null"
+    },
+    {
+      "target": "invasion of host cells",
+      "effect": "increased invasion rate",
+      "magnitude": "2.8 times higher"
+    },
+    {
+      "target": "biofilm formation",
+      "effect": "enhanced biofilm formation",
+      "magnitude": "null"
+    }
+  ]
+}

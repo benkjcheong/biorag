@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC7756144",
+    "title": "Beyond Low-Earth Orbit: Characterizing Immune and microRNA Differentials following Simulated Deep Spaceflight Conditions in Mice",
+    "year": "2020",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Paul, Amber M",
+    "Cheng-Campbell, Margareth",
+    "Blaber, Elizabeth A",
+    "Anand, Sulekha",
+    "Bhattacharya, Sharmila",
+    "Zwart, Sara R",
+    "Crucian, Brian E",
+    "Smith, Scott M",
+    "Meller, Robert",
+    "Grabham, Peter",
+    "Beheshti, Afshin",
+    "Crucian, Brian E",
+    "Smith, Scott M",
+    "Meller, Robert",
+    "Grabham, Peter",
+    "Beheshti, Afshin"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloaded mouse model",
+      "simulated galactic cosmic rays irradiation"
+    ],
+    "assays": [
+      "plasma microRNA sequence analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Simulated deep spaceflight conditions",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "immune response",
+      "effect": "unique immune diversity",
+      "magnitude": null
+    },
+    {
+      "target": "plasma microRNA sequence",
+      "effect": "involvement in immune system dysregulation",
+      "magnitude": null
+    }
+  ]
+}

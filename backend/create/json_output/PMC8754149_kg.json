@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC8754149",
+    "title": "Genomic Characterization of Potential Plant Growth-Promoting Features of Sphingomonas Strains Isolated from the International Space Station",
+    "year": "2022",
+    "journal": "Microbiol Spectr."
+  },
+  "authors": [
+    "Lombardino, Jonathan",
+    "Bijlani, Swati",
+    "Singh, Nitin K",
+    "Wood, Jason M",
+    "Barker, Richard",
+    "Gilroy, Simon",
+    "Wang, Clay C C",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Sphingomonas sanguinis",
+      "Sphingomonas paucimobilis",
+      "S. sanguinis",
+      "S. paucimobilis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "metagenomic sequencing",
+      "shotgun metagenome assembly"
+    ],
+    "assays": [
+      "IAA production assay",
+      "phosphate uptake and solubilization assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "phytohormone production",
+      "effect": "indole-3-acetic acid (IAA) production was confirmed",
+      "magnitude": "quantified by LC-MS"
+    },
+    {
+      "target": "phosphate uptake and metabolism",
+      "effect": "conserved across all S. sanguinis and S. paucimobilis strains tested",
+      "magnitude": "gene expression analysis"
+    }
+  ]
+}

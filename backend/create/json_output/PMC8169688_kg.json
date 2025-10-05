@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC8169688",
+    "title": "Immunological and hematological outcomes following protracted low dose/low dose rate ionizing radiation and simulated microgravity",
+    "year": "2021",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Paul, Amber M.",
+    "Overbey, Eliah G.",
+    "da Silveira, Willian A.",
+    "Szewczyk, Nathaniel S.",
+    "Nishiyama, Nina C.",
+    "Pecaut, Michael J.",
+    "Anand, Sulekha",
+    "Galazka, Jonathan M.",
+    "Mao, Xiao Wen"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "spleen",
+      "blood"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ground-based model"
+    ],
+    "assays": [
+      "hematology analyzer",
+      "RNA-sequencing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "protracted low dose/low dose rate ionizing radiation",
+      "dose": "0.04 Gy",
+      "duration": "21 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "hematological system analyses of whole blood",
+      "effect": "anemia",
+      "magnitude": "large disparities in red blood cell differentials and morphology"
+    },
+    {
+      "target": "spleen transcriptome",
+      "effect": "differential gene expression",
+      "magnitude": "Murine Reactome networks"
+    }
+  ]
+}

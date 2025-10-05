@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC5515531",
+    "title": "Exposure of Mycobacterium marinum to low-shear modeled microgravity: effect on growth, the transcriptome and survival under stress",
+    "year": "2016",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Abshire, Camille F.",
+    "Prasai, Kanchanjunga",
+    "Soto, Israel",
+    "Shi, Runhua",
+    "Concha, Monica",
+    "Baddoo, Melody",
+    "Flemington, Erik K",
+    "Ennis, Don G",
+    "Scott, Rona S",
+    "Harrison, Lynn"
+  ],
+  "subjects": {
+    "species": [
+      "Mycobacterium marinum",
+      "Mycobacterium tuberculosis",
+      "Mycobacterium avium",
+      "Mycobacterium ulcerans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "high aspect ratio vessels (HARVs)",
+      "rotary cell culture system"
+    ],
+    "assays": [
+      "growth",
+      "bacterium size",
+      "transcriptome changes",
+      "resistance to stress",
+      "RNA-Seq"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "low-shear modeled microgravity (LSMMG)",
+      "dose": null,
+      "duration": "40 hours or 4 days followed by re-dilution and growth for ~35 hours"
+    }
+  ],
+  "results": [
+    {
+      "target": "bacterial growth",
+      "effect": "LSMMG induced a reduction in bacterial growth compared to NG cultures",
+      "magnitude": null
+    },
+    {
+      "target": "bacterium size",
+      "effect": "LSMMG affected the size of bacteria",
+      "magnitude": null
+    },
+    {
+      "target": "transcriptome changes",
+      "effect": "RNA-Seq detected significantly altered transcript levels for 562 and 328 genes under LSMMG after short and long exposure times, respectively.",
+      "magnitude": null
+    },
+    {
+      "target": "resistance to stress",
+      "effect": "LSMMG increased oxidative stress resistance of M. marinum but decreased resistance to other stresses like acid or heat shock.",
+      "magnitude": null
+    }
+  ]
+}

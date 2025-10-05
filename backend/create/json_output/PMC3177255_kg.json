@@ -1,0 +1,76 @@
+{
+  "publication": {
+    "pmc_id": "PMC3177255",
+    "title": "TNO1 Is Involved in Salt Tolerance and Vacuolar Trafficking in Arabidopsis",
+    "year": "2011",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Sang-Jin Kim",
+    "Diane C Bassham"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "vacuole"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "immunofluorescence microscopy",
+      "BFA treatment"
+    ],
+    "assays": [
+      "salt tolerance assay",
+      "osmotic stress assay",
+      "mannitol-induced osmotic stress assay",
+      "vacuolar protein secretion assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "NaCl",
+      "dose": "high concentration",
+      "duration": "unknown"
+    },
+    {
+      "agent": "KCl",
+      "dose": "high concentration",
+      "duration": "unknown"
+    },
+    {
+      "agent": "LiCl",
+      "dose": "high concentration",
+      "duration": "unknown"
+    },
+    {
+      "agent": "mannitol",
+      "dose": "osmotic stress inducing amount",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "salt tolerance",
+      "effect": "increased sensitivity",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "vacuolar trafficking",
+      "effect": "delayed vacuolar protein secretion",
+      "magnitude": "partially secreted"
+    },
+    {
+      "target": "SYP61 localization",
+      "effect": "disrupted",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "vacuole formation",
+      "effect": "delayed",
+      "magnitude": "unknown"
+    }
+  ]
+}

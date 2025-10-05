@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC4469364",
+    "title": "Expressing and Characterizing Mechanosensitive Channels in Xenopus Oocytes",
+    "year": "2015",
+    "journal": "Methods Mol Biol"
+  },
+  "authors": [
+    "Grigory Maksaev",
+    "Elizabeth S Haswell"
+  ],
+  "subjects": {
+    "species": [
+      "Xenopus laevis"
+    ],
+    "tissues": [
+      "oocyte"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "patch-clamp electrophysiology",
+      "pressure-clamp"
+    ],
+    "assays": [
+      "single-channel recording"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_effect",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

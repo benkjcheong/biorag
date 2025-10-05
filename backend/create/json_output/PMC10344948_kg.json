@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC10344948",
+    "title": "Caenorhabditis elegans in microgravity: An omics perspective",
+    "year": "2023",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Scott, Amanda",
+    "Willis, Craig RG",
+    "Muratani, Masafumi",
+    "Higashitani, Atsushi",
+    "Etheridge, Timothy",
+    "Szewczyk, Nathaniel J",
+    "Deane, Colleen S"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "liquid culture",
+      "CeMM (C.\u00a0elegans Maintenance Medium)"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC3659353",
+    "title": "Spaceflight-induced alterations in cerebral artery vasoconstrictor, mechanical, and structural properties: implications for elevated cerebral perfusion and intracranial pressure",
+    "year": "2013",
+    "journal": "FASEB Journal"
+  },
+  "authors": [
+    "Taylor CR",
+    "Hanna M",
+    "Behnke BJ",
+    "Stabley JN",
+    "McCullough DJ",
+    "Davis III RT",
+    "Ghosh P",
+    "Papadopoulos A",
+    "Muller-Delp JM",
+    "Delp MD"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6 mouse",
+      "rat"
+    ],
+    "tissues": [
+      "cerebral artery",
+      "basilar artery",
+      "posterior communicating artery (PCA)"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Space Transportation System (STS-135)",
+      "ground-based control group (GC)"
+    ],
+    "assays": [
+      "myogenic vasoconstriction",
+      "mechanical testing",
+      "nanoindentation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "13 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "myogenic vasoconstriction",
+      "effect": "lower",
+      "magnitude": null
+    },
+    {
+      "target": "basilar artery maximal diameter",
+      "effect": "greater",
+      "magnitude": "236 \u03bcm"
+    },
+    {
+      "target": "medial wall thickness",
+      "effect": "no difference",
+      "magnitude": null
+    },
+    {
+      "target": "PCA stiffness",
+      "effect": "lower",
+      "magnitude": "3.4 N/m"
+    }
+  ]
+}

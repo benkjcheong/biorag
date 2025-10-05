@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC8468678",
+    "title": "Simulated Microgravity Promotes Horizontal Gene Transfer of Antimicrobial Resistance Genes between Bacterial Genera in the Absence of Antibiotic Selective Pressure",
+    "year": "2021",
+    "journal": "Life (Basel)"
+  },
+  "authors": [
+    "Urbaniak, Camilla",
+    "Grams, Tristan",
+    "Mason, Christopher E.",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Acinetobacter pittii",
+      "Staphylococcus aureus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "high-aspect-ratio vessel (HARV)",
+      "Earth"
+    ],
+    "assays": [
+      "polymerase chain reaction (PCR)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Simulated Microgravity",
+      "dose": null,
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "blaOXA-500 and ISAba1 gene transfer",
+      "effect": "increased number of isolates with blaOXA-500 and ISAba1 genes",
+      "magnitude": "significant increase in resistance to oxacillin"
+    }
+  ]
+}

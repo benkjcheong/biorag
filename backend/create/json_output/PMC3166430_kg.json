@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC3166430",
+    "title": "Spatial and temporal characteristics of vestibular convergence",
+    "year": "2011",
+    "journal": "Neuroscience"
+  },
+  "authors": [
+    "Kimberly L McArthur",
+    "Mridha Zakir",
+    "Asim Haque",
+    "J David Dickman"
+  ],
+  "subjects": {
+    "species": [
+      "pigeon"
+    ],
+    "tissues": [
+      "vestibular"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "semicircular canals",
+      "otolith organs",
+      "VNC neurons"
+    ],
+    "assays": [
+      "discrete rotational motion stimuli",
+      "discrete translational motion stimuli"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "neural response to canal stimulation",
+      "effect": "spatial variability in preferred rotation axes",
+      "magnitude": "null"
+    },
+    {
+      "target": "neural response to otolith stimulation",
+      "effect": "similar mean gain and phase values to afferent population, spatially well-matched with canal signals",
+      "magnitude": "null"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166655",
+    "title": "Influence of the spaceflight environment on macrophage lineages",
+    "year": "2024",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Rocky An",
+    "Virginia Katherine Blackwell",
+    "Bijan Harandi",
+    "Alicia C Gibbons",
+    "Olivia Siu",
+    "Iris Irby",
+    "Amy Rees",
+    "Nadjet Cornejal",
+    "Kristina M Sattler",
+    "Tao Sheng",
+    "Nicholas C Syracuse",
+    "David Loftus",
+    "Sergio R Santa Maria",
+    "Egle Cekanaviciute",
+    "Sigrid S Reinsch",
+    "Hami E Ray",
+    "Amber M Paul"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "macrophage",
+      "immune cells",
+      "tissue-specific effects"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight environment",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "macrophage phenotypes",
+      "effect": "altered immune responses",
+      "magnitude": "unknown"
+    }
+  ]
+}

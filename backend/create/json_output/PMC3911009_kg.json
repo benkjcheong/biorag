@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC3911009",
+    "title": "Resistance of Bacillus subtilis Spore DNA to Lethal Ionizing Radiation Damage Relies Primarily on Spore Core Components and DNA Repair",
+    "year": "2014",
+    "journal": "Applied and Environmental Microbiology"
+  },
+  "authors": [
+    "Moeller, Ralf",
+    "Raguse, Marina",
+    "Reitz, G\u00fcnther",
+    "Okayasu, Ryuichi",
+    "Li, Zuofeng",
+    "Klein, Stuart",
+    "Setlow, Peter",
+    "Nicholson, Wayne L."
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus subtilis"
+    ],
+    "tissues": [
+      "spore"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "not specified"
+    ],
+    "assays": [
+      "not specified"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "not specified",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "DNA damage",
+      "effect": "increased sensitivity to ionizing radiation",
+      "magnitude": "not specified"
+    }
+  ]
+}

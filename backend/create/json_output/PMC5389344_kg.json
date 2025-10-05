@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC5389344",
+    "title": "Bone marrow adipose tissue deficiency increases disuse-induced bone loss in male mice",
+    "year": "2017",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Jessica A Keune",
+    "Carmen P Wong",
+    "Adam J Branscum",
+    "Urszula T Iwaniec",
+    "Russell T Turner"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone marrow adipose tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "micro-computed tomography",
+      "histomorphometry",
+      "targeted gene profiling"
+    ],
+    "assays": [
+      "blood glucose measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading (HU)",
+      "dose": null,
+      "duration": "2 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "bone volume fraction",
+      "effect": "reduced",
+      "magnitude": "greater reduction in MAT- mice"
+    },
+    {
+      "target": "connectivity density",
+      "effect": "increased",
+      "magnitude": "greater increase in MAT- mice"
+    },
+    {
+      "target": "trabecular number",
+      "effect": "increased",
+      "magnitude": "greater increase in MAT- mice"
+    },
+    {
+      "target": "trabecular thickness",
+      "effect": "increased",
+      "magnitude": "greater increase in MAT- mice"
+    },
+    {
+      "target": "trabecular spacing",
+      "effect": "decreased",
+      "magnitude": "greater decrease in MAT- mice"
+    }
+  ]
+}

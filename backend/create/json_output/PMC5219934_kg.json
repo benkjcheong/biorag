@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC5219934",
+    "title": "Environmental cues and symbiont microbe-associated molecular patterns function in concert to drive the daily remodelling of the crypt-cell brush border of the Euprymna scolopes light organ",
+    "year": "2016",
+    "journal": "Cell Microbiology"
+  },
+  "authors": [
+    "Elizabeth AC Heath-Heckman",
+    "Jamie Foster",
+    "Michael A Apicella",
+    "William E Goldman",
+    "Margaret McFall-Ngai"
+  ],
+  "subjects": {
+    "species": [
+      "Euprymna scolopes",
+      "Vibrio fischeri"
+    ],
+    "tissues": [
+      "crypt-cell brush border",
+      "epithelial cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ultrastructural analyses"
+    ],
+    "assays": [
+      "manipulation of the environmental light cue",
+      "manipulation of the juvenile symbiotic state"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "environmental light cue",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "crypt-cell brush border microarchitecture",
+      "effect": "daily remodelling",
+      "magnitude": "increased microvillar density"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC6240453",
+    "title": "Comparing RNA\u2010Seq and microarray gene expression data in two zones of the Arabidopsis root apex relevant to spaceflight",
+    "year": "2018",
+    "journal": "Applications in Plant Sciences"
+  },
+  "authors": [
+    "Krishnamurthy, A.",
+    "Ferl, R.J.",
+    "Paul, A.-L."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root apex",
+      "root cap",
+      "meristematic zone",
+      "transition zone",
+      "elongation zone",
+      "growth-terminating zone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microarray",
+      "RNA sequencing (RNA\u2010Seq)"
+    ],
+    "assays": [
+      "differential gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "differential expression",
+      "magnitude": "fold change"
+    },
+    {
+      "target": "genes",
+      "effect": "novel gene identification",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC4169763",
+    "title": "Exercise Training Augments Regional Bone and Marrow Blood Flow during Exercise",
+    "year": "2015",
+    "journal": "Med Sci Sports Exerc"
+  },
+  "authors": [
+    "Stabley, John N.",
+    "Moningka, Natasha C.",
+    "Behnke, Bradley J.",
+    "Delp, Michael D."
+  ],
+  "subjects": {
+    "species": [
+      "Sprague-Dawley rat"
+    ],
+    "tissues": [
+      "femur",
+      "tibia",
+      "fibula"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "treadmill",
+      "carotid artery catheter"
+    ],
+    "assays": [
+      "microsphere infusion",
+      "reference sample microsphere method"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "exercise training",
+      "dose": null,
+      "duration": "10-12 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "blood flow to nine distinct regions of the femur, tibia, and fibula",
+      "effect": "augmentation of exercise hyperemia",
+      "magnitude": null
+    }
+  ]
+}

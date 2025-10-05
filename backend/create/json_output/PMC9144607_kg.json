@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC9144607",
+    "title": "CAMDLES: CFD-DEM Simulation of Microbial Communities in Spaceflight and Artificial Microgravity",
+    "year": "2022",
+    "journal": "Life"
+  },
+  "authors": [
+    "Rocky An",
+    "Jessica Audrey Lee"
+  ],
+  "subjects": {
+    "species": [
+      "Escherichia coli",
+      "Salmonella enterica"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "rotating wall vessel (RWV)",
+      "clinostat"
+    ],
+    "assays": [
+      "Monod dynamic parameters",
+      "mass transfer calculations"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "growth rates",
+      "effect": "differences in growth rates between artificial microgravity, spaceflight microgravity, and 1 g conditions",
+      "magnitude": "greater differences observed when species colocalized in dense aggregates"
+    }
+  ]
+}

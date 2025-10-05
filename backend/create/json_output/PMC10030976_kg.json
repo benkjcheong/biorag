@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC10030976",
+    "title": "Toward sustainable space exploration: a roadmap for harnessing the power of microorganisms",
+    "year": "2023",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Rosa Santomartino",
+    "Nils J H Averesch",
+    "Marufa Bhuiyan",
+    "Charles S Cockell",
+    "Jesse Colangelo",
+    "Yosephine Gumulya",
+    "Benjamin Lehner",
+    "Ivanna Lopez-Ayala",
+    "Sean McMahon",
+    "Anurup Mohanty",
+    "Sergio R Santa Maria",
+    "Camilla Urbaniak",
+    "Rik Volger",
+    "Jiseon Yang",
+    "Luis Zea",
+    "Biodesign Center for Fundamental and Applied Microbiomics, Biodesign Institute, Arizona State University, Tempe, AZ USA"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "treatment_agent",
+      "dose": "dose_amount dose_unit",
+      "duration": "duration_amount duration_unit"
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

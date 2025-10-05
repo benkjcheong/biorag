@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC6013642",
+    "title": "Draft genome sequence of a clinical isolate of Fusarium fujikuroi isolated from a male patient with acute myeloid leukemia",
+    "year": "2018",
+    "journal": "Genome Announcements"
+  },
+  "authors": [
+    "Urbaniak C",
+    "Dadwal S",
+    "Bagramyan K",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Fusarium fujikuroi",
+      "Aspergillus niger"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina HiSeq",
+      "Galaxy server"
+    ],
+    "assays": [
+      "de novo assembly"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "chemotherapy",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequence",
+      "effect": "assembled",
+      "magnitude": "48 Mb"
+    },
+    {
+      "target": "genome sequence",
+      "effect": "assembled",
+      "magnitude": "32 Mb"
+    }
+  ]
+}

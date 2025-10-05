@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC10793275",
+    "title": "Draft Genome Sequence of Sphingomonas paucimobilis Strain Sph5, Isolated from Tap Water Filtration Membrane",
+    "year": "2023",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Koroli, Sara",
+    "Buss, Kristina",
+    "Blain, Joy M",
+    "Nakka, Gautam Sai",
+    "Hong, Mina",
+    "McLean, Robert JC",
+    "Plugge, Caroline M",
+    "Yang, Jiseon",
+    "Maresca, Julia A"
+  ],
+  "subjects": {
+    "species": [
+      "Sphingomonas paucimobilis",
+      "Sphingomonas sanguinis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina short-read sequencing",
+      "SPADES",
+      "Diamond",
+      "BUSCO",
+      "Prokka",
+      "PYANI",
+      "MUMMER",
+      "Orthofinder",
+      "MAFFT",
+      "FastTree"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequence",
+      "effect": "draft genome sequence obtained",
+      "magnitude": "complete genome assembly with 97.7% complete genes"
+    }
+  ]
+}

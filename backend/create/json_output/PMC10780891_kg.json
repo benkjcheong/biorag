@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC10780891",
+    "title": "Bread Wheat in Space Flight: Is There a Difference in Kernel Quality?",
+    "year": "2023",
+    "journal": "Plants"
+  },
+  "authors": [
+    "Aniskina, T. S.",
+    "Sudarikov, K. A.",
+    "Levinskikh, M. A.",
+    "Gulevich, A. A.",
+    "Baranova, E. N."
+  ],
+  "subjects": {
+    "species": [
+      "Triticum aestivum L.",
+      "wheat"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Lada growth chamber"
+    ],
+    "assays": [
+      "weight measurement",
+      "area measurement",
+      "length measurement",
+      "width measurement",
+      "starch granule analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "space conditions",
+      "dose": null,
+      "duration": "long-term space flight"
+    }
+  ],
+  "results": [
+    {
+      "target": "kernel weight",
+      "effect": "significant differences in weight",
+      "magnitude": "0.0362 g (space) vs 0.0376 g (Earth)"
+    },
+    {
+      "target": "kernel parameters",
+      "effect": "no significant increase in asymmetry",
+      "magnitude": null
+    },
+    {
+      "target": "starch granule analysis",
+      "effect": "significant differences in starch granule length and width",
+      "magnitude": null
+    }
+  ]
+}

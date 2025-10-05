@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC4052902",
+    "title": "Phosphoinositide-signaling is one component of the plant defense network and is involved in both basal and systemic responses.",
+    "year": "2014",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Hung, Chiu-Yueh",
+    "Aspesi Jr, Peter",
+    "Hunter, Melissa R",
+    "Lomax, Aaron W",
+    "Perera, Imara Y"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "Ca2+-release",
+      "gene expression analysis",
+      "PR-1 gene expression",
+      "PR-5 gene expression",
+      "AIG1 gene expression",
+      "pathogen susceptibility"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "InsP 5-ptase",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Ca2+-release",
+      "effect": "attenuated",
+      "magnitude": null
+    },
+    {
+      "target": "flg22 responsive genes",
+      "effect": "attenuated",
+      "magnitude": null
+    },
+    {
+      "target": "pathogen susceptibility",
+      "effect": "increased",
+      "magnitude": null
+    },
+    {
+      "target": "salicylic acid (SA) levels",
+      "effect": "lowered",
+      "magnitude": null
+    },
+    {
+      "target": "SAR induction",
+      "effect": "delayed and reduced",
+      "magnitude": null
+    },
+    {
+      "target": "PR-1, PR-2, PR-5 gene expression",
+      "effect": "downregulated",
+      "magnitude": null
+    }
+  ]
+}

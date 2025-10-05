@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC8539686",
+    "title": "Uncovering Transcriptional Responses to Fractional Gravity in Arabidopsis Roots",
+    "year": "2021",
+    "journal": "Life"
+  },
+  "authors": [
+    "James Sheppard",
+    "Eric S Land",
+    "Tiffany Aurora Toennisson",
+    "Colleen J Doherty",
+    "Imara Y Perera"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "European Modular Cultivation System (EMCS)",
+      "clinostats",
+      "centrifuges"
+    ],
+    "assays": [
+      "RNA-seq",
+      "DESeq2"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "fractional gravity",
+      "dose": "0.53 to 0.88 g",
+      "duration": "5 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "changes in gene expression patterns",
+      "magnitude": "correlations with fractional gravity"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC10285634",
+    "title": "Toward countering muscle and bone loss with spaceflight: GSK3 as a potential target",
+    "year": "2023",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Ryan W Baranowski",
+    "Jessica L Braun",
+    "Briana L Hockey",
+    "Jenalyn L Yumol",
+    "Mia S Geromella",
+    "Colton JF Watson",
+    "Nigel Kurgan",
+    "Holt N Messner",
+    "Kennedy C Whitley",
+    "Adam J MacNeil",
+    "Guillemette Gauquelin-Koch",
+    "Fabrice Bertile",
+    "William Gittings",
+    "Rene Vandenboom",
+    "Wendy E Ward",
+    "Val A Fajardo"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "muscle",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo"
+    ],
+    "assays": [
+      "GSK3 content analysis",
+      "phosphorylation assay",
+      "hindlimb suspension",
+      "muscle mass measurement",
+      "bone mineral density measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": "\u223c30\u00a0days",
+      "duration": "\u223c30\u00a0days"
+    }
+  ],
+  "results": [
+    {
+      "target": "GSK3\u03b2 content",
+      "effect": "reduced",
+      "magnitude": "-36%"
+    },
+    {
+      "target": "muscle strength",
+      "effect": "preserved",
+      "magnitude": null
+    },
+    {
+      "target": "bone mineral density",
+      "effect": "reduced",
+      "magnitude": null
+    }
+  ]
+}

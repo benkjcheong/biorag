@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC5286820",
+    "title": "Skewing in Arabidopsis roots involves disparate environmental signaling pathways",
+    "year": "2017",
+    "journal": "BMC Plant Biol."
+  },
+  "authors": [
+    "Eric R Schultz",
+    "Agata K Zupanska",
+    "Natasha J Sng",
+    "Anna-Lisa Paul",
+    "Robert J Ferl"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "microarray"
+    ],
+    "assays": [
+      "transcriptome analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "tilt",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "skewing",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "gene expression",
+      "effect": "waving",
+      "magnitude": "unknown"
+    }
+  ]
+}

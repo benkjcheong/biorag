@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC8185232",
+    "title": "New Insights Into Lignification via Network and Multi-Omics Analyses of Arogenate Dehydratase Knock-Out Mutants in Arabidopsis thaliana",
+    "year": "2021",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Kim K Hixson",
+    "Joaquim V Marques",
+    "Jason P Wendler",
+    "Jason E McDermott",
+    "Karl K Weitz",
+    "Therese R Clauss",
+    "Matthew E Monroe",
+    "Ronald J Moore",
+    "Joseph Brown",
+    "Mary S Lipton",
+    "Callum J Bell",
+    "Ljiljana Pa\u0161a-Toli\u0107",
+    "Laurence B Davin",
+    "Norman G Lewis"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "stem"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "metabolome",
+      "transcriptome",
+      "proteome"
+    ],
+    "assays": [
+      "network analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "ADT knock-out (KO)",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "lignin levels",
+      "effect": "reduced",
+      "magnitude": "circa 70%"
+    },
+    {
+      "target": "metabolite levels",
+      "effect": "changes",
+      "magnitude": null
+    }
+  ]
+}

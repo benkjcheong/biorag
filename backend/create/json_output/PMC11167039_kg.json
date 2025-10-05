@@ -1,0 +1,80 @@
+{
+  "publication": {
+    "pmc_id": "PMC11167039",
+    "title": "Bioreactor development for skeletal muscle hypertrophy and atrophy by manipulating uniaxial cyclic strain: proof of concept",
+    "year": "2024",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Khaled Y Kamal",
+    "Mariam Atef Othman",
+    "Joo-Hyun Kim",
+    "John M Lawler"
+  ],
+  "subjects": {
+    "species": [
+      "C2C12"
+    ],
+    "tissues": [
+      "skeletal muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "StrexCell\u00ae (STB-1400)"
+    ],
+    "assays": [
+      "\u00df-sarcoglycan",
+      "talin",
+      "Akt phosphorylation (Thr308)",
+      "IL-1\u00df",
+      "IL6",
+      "NF-kappaB p65 subunit",
+      "phosphorylated FoxO3a/total FoxO3a"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "no stretch",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "2-day cyclic stretch",
+      "dose": null,
+      "duration": "60 min day^-1"
+    },
+    {
+      "agent": "5-day cyclic stretch",
+      "dose": null,
+      "duration": "60 min day^-1"
+    },
+    {
+      "agent": "2-day cyclic stretch followed by 3-day cessation of stretch",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "mean myotube diameter",
+      "effect": "increased",
+      "magnitude": "51% (2dHY) and 94% (5dHY)"
+    },
+    {
+      "target": "talin and Akt phosphorylation (Thr308)",
+      "effect": "elevated with 2dHY but not in 3dAT myotubes",
+      "magnitude": null
+    },
+    {
+      "target": "IL-1\u00df, IL6, and NF-kappaB p65 subunit",
+      "effect": "significantly higher in the 3dAT group vs. all other groups",
+      "magnitude": null
+    },
+    {
+      "target": "phosphorylated FoxO3a/total FoxO3a",
+      "effect": "significantly lower in 3dAT than in 2dHY group",
+      "magnitude": null
+    }
+  ]
+}

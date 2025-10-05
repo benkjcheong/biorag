@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC4427280",
+    "title": "Recellularization of Decellularized Lung Scaffolds Is Enhanced by Dynamic Suspension Culture",
+    "year": "2015",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Crabb\u00e9 A",
+    "Liu Y",
+    "Sarker S F",
+    "Bonenfant N R",
+    "Barrila J",
+    "Borg Z D",
+    "Lee J J",
+    "Weiss D J",
+    "Nickerson C A",
+    "Soncini M"
+  ],
+  "subjects": {
+    "species": [
+      "mouse",
+      "rat"
+    ],
+    "tissues": [
+      "lung",
+      "alveoli",
+      "airways"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "rotating wall vessel (RWV)"
+    ],
+    "assays": [
+      "cell proliferation",
+      "apoptosis",
+      "RNA quantification",
+      "immunohistochemistry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "cell count",
+      "effect": "increased",
+      "magnitude": "higher"
+    },
+    {
+      "target": "apoptosis rate",
+      "effect": "decreased",
+      "magnitude": "lower"
+    },
+    {
+      "target": "proliferation rate",
+      "effect": "increased",
+      "magnitude": "higher"
+    },
+    {
+      "target": "total RNA levels",
+      "effect": "increased",
+      "magnitude": "higher"
+    }
+  ]
+}

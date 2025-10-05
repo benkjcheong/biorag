@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC3044105",
+    "title": "The role of FGF-2 and BMP-2 in regulation of gene induction, cell proliferation and mineralization",
+    "year": "2011",
+    "journal": "J Orthop Surg Res"
+  },
+  "authors": [
+    "Hughes-Fulford, Millie",
+    "Li, Chai-Fei"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "osteoblast",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "real-time RTPCR (qRTPCR)",
+      "photomicroscopy",
+      "fluorescence"
+    ],
+    "assays": [
+      "thymidine incorporation",
+      "DNA content analysis",
+      "mineralization quantification"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "FGF-2",
+      "dose": "Not specified",
+      "duration": "24 hours"
+    },
+    {
+      "agent": "BMP-2",
+      "dose": "Not specified",
+      "duration": "Not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "induction of proliferation",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "mineralization",
+      "effect": "down-regulation of mineralization genes",
+      "magnitude": "not specified"
+    }
+  ]
+}

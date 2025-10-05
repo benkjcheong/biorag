@@ -1,0 +1,72 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166952",
+    "title": "Single-cell multi-ome and immune profiles of the Inspiration4 crew reveal conserved, cell-type, and sex-specific responses to spaceflight",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "JangKeun Kim",
+    "Braden T Tierney",
+    "Eliah G Overbey",
+    "Ezequiel Dantas",
+    "Matias Fuentealba",
+    "Jiwoon Park",
+    "S Anand Narayanan",
+    "Fei Wu",
+    "Deena Najjar",
+    "Christopher R Chin",
+    "Cem Meydan",
+    "Conor Loy",
+    "Begum Mathyk",
+    "Remi Klotz",
+    "Veronica Ortiz",
+    "Khiem Nguyen",
+    "Krista A Ryon",
+    "Namita Damle",
+    "Nadia Houerbi",
+    "Laura I Patras",
+    "Nathan Schanzer",
+    "Gwyneth A Hutchinson",
+    "Jonathan Foox",
+    "Chandrima Bhattacharya",
+    "Matthew Mackay",
+    "Evan E Afshin",
+    "Jeremy Wain Hirschberg",
+    "Ashley S Kleinman",
+    "Julian C Schmidt",
+    "Caleb M Schmidt",
+    "Michael A Schmidt"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "immune"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "single-cell sequencing",
+      "multi-ome analysis",
+      "flow cytometry"
+    ],
+    "assays": [
+      "immunofluorescence",
+      "qPCR"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "immune cell profiles",
+      "effect": "observed changes in immune cell populations and function",
+      "magnitude": "significant alterations"
+    }
+  ]
+}

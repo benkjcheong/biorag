@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC6081456",
+    "title": "Acceleration profiles and processing methods for parabolic flight",
+    "year": "2018",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Christopher E Carr",
+    "Noelle C Bryan",
+    "Kendall N Saboda",
+    "Srinivasa A Bhattaru",
+    "Gary Ruvkun",
+    "Maria T Zuber"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Boeing 727-200F aircraft (G-Force One\u00ae, Zero Gravity Corporation)",
+      "Slam Stick X\u2122 (Mide Technology Corp.)",
+      "accelerometer"
+    ],
+    "assays": [
+      "acceleration data collection",
+      "change point detection",
+      "filtering"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_acceleration",
+      "effect": "change in mean g level",
+      "magnitude": "g level change"
+    }
+  ]
+}

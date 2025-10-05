@@ -1,0 +1,39 @@
+{
+  "publication": {
+    "pmc_id": "PMC11339457",
+    "title": "Discoveries from human stem cell research in space that are relevant to advancing cellular therapies on Earth",
+    "year": "2024",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Fay Ghani",
+    "Abba C Zubair"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "stem cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "microgravity"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "stem cell properties and behavior in microgravity",
+      "effect": "changes to stem cell proliferation rates, differentiation, and lineage phenotypes",
+      "magnitude": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC6188462",
+    "title": "Human Spaceflight and Life Science",
+    "year": "2011",
+    "journal": "FASEB Journal"
+  },
+  "authors": [
+    "Hughes-Fulford, Millie"
+  ],
+  "subjects": {
+    "species": [
+      "dog"
+    ],
+    "tissues": [
+      "bone",
+      "blood cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "orbital flight",
+      "suborbital flight"
+    ],
+    "assays": [
+      "PHA-stimulated growth",
+      "immunological assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "red blood cell mass (RBCM)",
+      "effect": "decreased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "osteoporosis",
+      "effect": "observed",
+      "magnitude": "apparent on longer missions"
+    },
+    {
+      "target": "immune function",
+      "effect": "altered",
+      "magnitude": "significant loss of T cell response"
+    }
+  ]
+}

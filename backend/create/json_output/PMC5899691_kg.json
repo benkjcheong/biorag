@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC5899691",
+    "title": "Morphology of the Utricular Otolith Organ in the Toadfish, Opsanus tau",
+    "year": "2018",
+    "journal": "Journal of Comparative Neurology"
+  },
+  "authors": [
+    "Boyle, Richard",
+    "Ehsanian, Reza",
+    "Mofrad, Alireza",
+    "Popova, Yekaterina",
+    "Varelas, Joseph"
+  ],
+  "subjects": {
+    "species": [
+      "Opsanus tau"
+    ],
+    "tissues": [
+      "sensory epithelium",
+      "hair cells",
+      "otolith membrane"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "light microscopy",
+      "scanning electron microscopy",
+      "transmission electron microscopy"
+    ],
+    "assays": [
+      "biocytin labeling",
+      "3-D reconstruction"
+    ]
+  },
+  "treatments": [],
+  "results": [
+    {
+      "target": "hair cell density",
+      "effect": "dependent on macular location",
+      "magnitude": "variable"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC11271499",
+    "title": "Spaceflight increases sarcoplasmic reticulum Ca2+ leak and this cannot be counteracted with BuOE treatment",
+    "year": "2024",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Jessica L Braun",
+    "Val A Fajardo"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "soleus"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "spaceflight",
+      "ground control"
+    ],
+    "assays": [
+      "Soleus weight measurement",
+      "SERCA activity assay",
+      "SR Ca2+ permeability and leak assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "saline",
+      "dose": null,
+      "duration": "35 days"
+    },
+    {
+      "agent": "MnTnBuOE-2-PyP5+",
+      "dose": "null",
+      "duration": "35 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "soleus weight",
+      "effect": "reduced",
+      "magnitude": null
+    },
+    {
+      "target": "SERCA ionophore ratio",
+      "effect": "increased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "SR Ca2+ permeability and leak",
+      "effect": "increased",
+      "magnitude": "significant"
+    }
+  ]
+}

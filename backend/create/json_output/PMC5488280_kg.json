@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC5488280",
+    "title": "Osteocyte Apoptosis Caused by Hindlimb Unloading is Required to Trigger Osteocyte RANKL Production and Subsequent Resorption of Cortical and Trabecular Bone in Mice Femurs",
+    "year": "2016",
+    "journal": "J Bone Miner Res"
+  },
+  "authors": [
+    "Cabahug-Zuckerman, Pamela",
+    "Frikha-Benayed, Dorra",
+    "Majeska, Robert J",
+    "Tuthill, Alyssa",
+    "Yakar, Shoshana",
+    "Judex, Stefan",
+    "Schaffler, Mitchell B"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J mouse"
+    ],
+    "tissues": [
+      "osteocyte",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "tail suspension",
+      "\u03bcCT"
+    ],
+    "assays": [
+      "immunohistochemistry",
+      "RANKL expression",
+      "bone resorption measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading (HLU)",
+      "dose": null,
+      "duration": "5 days"
+    },
+    {
+      "agent": "QVD",
+      "dose": "null",
+      "duration": "5 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "osteocyte apoptosis",
+      "effect": "increased",
+      "magnitude": "3-4 fold"
+    },
+    {
+      "target": "RANKL expression",
+      "effect": "increased",
+      "magnitude": ">1.5-fold"
+    },
+    {
+      "target": "bone resorption",
+      "effect": "activated",
+      "magnitude": null
+    }
+  ]
+}

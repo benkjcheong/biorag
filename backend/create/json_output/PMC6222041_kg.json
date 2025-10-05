@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC6222041",
+    "title": "High-precision method for cyclic loading of small-animal vertebrae to assess bone quality",
+    "year": "2018",
+    "journal": "Bone Research"
+  },
+  "authors": [
+    "Megan M Pendleton",
+    "Saghi Sadoughi",
+    "Alfred Li",
+    "Grace D O'Connell",
+    "Joshua S Alwood",
+    "Tony M Keaveny"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J mouse"
+    ],
+    "tissues": [
+      "vertebrae"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "3D-printed support jigs",
+      "pivotable loading platens",
+      "micro-CT-based finite element analysis"
+    ],
+    "assays": [
+      "cyclic compressive loading",
+      "fatigue life measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured fatigue life",
+      "effect": "reduced scatter of mechanical behavior",
+      "magnitude": "5-fold lower"
+    }
+  ]
+}

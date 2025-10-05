@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC10261121",
+    "title": "Space experiments are a technically challenging but a scientifically important part of astrobiology and astrochemistry research.",
+    "year": "2023",
+    "journal": null
+  },
+  "authors": [
+    "Andreas Elsaesser",
+    "David J Burr",
+    "Paul Mabey",
+    "Riccardo Giovanni Urso",
+    "Daniela Billi",
+    "Charles Cockell",
+    "Herv\u00e9 Cottin",
+    "Adrienne Kish",
+    "Natalie Leys",
+    "Jack J W A van Loon",
+    "Eva Mateo-Marti",
+    "Christine Moissl-Eichinger",
+    "Silvano Onofri",
+    "Richard C Quinn",
+    "Elke Rabbow",
+    "Petra Rettberg",
+    "Rosa de la Torre Noetzel",
+    "Klaus Slenzka",
+    "Antonio J Ricco",
+    "Jean-Pierre de Vera",
+    "Frances Westall"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "future space platforms"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": null,
+      "effect": null,
+      "magnitude": null
+    }
+  ]
+}

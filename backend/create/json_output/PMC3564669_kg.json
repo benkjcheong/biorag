@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC3564669",
+    "title": "Failure to Generate Bone Marrow Adipocytes Does Not Protect Mice from Ovariectomy-Induced Osteopenia",
+    "year": "2013",
+    "journal": "Bone"
+  },
+  "authors": [
+    "Iwaniec, Urszula T.",
+    "Turner, Russell T."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone marrow",
+      "adipocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microcomputed tomography (\u03bcCT)",
+      "dual-energy X-ray absorptiometry (DXA)"
+    ],
+    "assays": [
+      "calcein labeling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "ovariectomy",
+      "dose": null,
+      "duration": "4 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "body fat mass",
+      "effect": "increased",
+      "magnitude": null
+    },
+    {
+      "target": "bone mass",
+      "effect": "statistically indistinguishable",
+      "magnitude": null
+    },
+    {
+      "target": "bone formation rate",
+      "effect": "statistically indistinguishable",
+      "magnitude": null
+    }
+  ]
+}

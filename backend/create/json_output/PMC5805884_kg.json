@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC5805884",
+    "title": "Draft genome sequences of Acinetobacter and Bacillus strains isolated from spacecraft-associated surfaces",
+    "year": "2018",
+    "journal": "Genome Announcements"
+  },
+  "authors": [
+    "Seuylemezian A",
+    "Vaishampayan P",
+    "Cooper K",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Bacillus horneckiae",
+      "Bacillus nealsonii",
+      "Acinetobacter radioresistens",
+      "Acinetobacter proteolyticus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina HiSeq paired-end sequencing"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequences",
+      "effect": "deposited in DDBL/EMBL/GenBank",
+      "magnitude": "N/A"
+    }
+  ]
+}

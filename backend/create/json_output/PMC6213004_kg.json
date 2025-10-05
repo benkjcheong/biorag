@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC6213004",
+    "title": "Reactivation of Latent Epstein-Barr Virus: A Comparison after Exposure to Gamma, Proton, Carbon, and Iron Radiation",
+    "year": "2018",
+    "journal": "International Journal of Molecular Sciences"
+  },
+  "authors": [
+    "Satish K Mehta",
+    "David C Bloom",
+    "Ianik Plante",
+    "Raymond Stowe",
+    "Alan H Feiveson",
+    "Ashlie Renner",
+    "Adit Dhummakupt",
+    "Dhruv Markan",
+    "Ye Zhang",
+    "Honglu Wu",
+    "Brian Crucian",
+    "Duane L Pierson",
+    "Jeffrey I Cohen"
+  ],
+  "subjects": {
+    "species": [
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "lymphocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro",
+      "Akata cell line"
+    ],
+    "assays": [
+      "lytic gene transcription",
+      "viral load measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "radiation",
+      "dose": "0.1, 0.5, 1.0, 2.0 Gy",
+      "duration": "4 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "lytic gene transcription",
+      "effect": "increased",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "viral load",
+      "effect": "increased",
+      "magnitude": "significantly higher"
+    }
+  ]
+}

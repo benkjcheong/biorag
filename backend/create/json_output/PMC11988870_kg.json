@@ -1,0 +1,76 @@
+{
+  "publication": {
+    "pmc_id": "PMC11988870",
+    "title": "Microgravity and Cellular Biology: Insights into Cellular Responses and Implications for Human Health",
+    "year": "2025",
+    "journal": "International Journal of Molecular Sciences"
+  },
+  "authors": [
+    "L\u00f3pez Garz\u00f3n, Nelson Adolfo",
+    "Pinz\u00f3n-Fern\u00e1ndez, Mar\u00eda Virginia",
+    "Saavedra T, Jhan S",
+    "Nati-Castillo, Humberto A",
+    "Arias-Intriago, Marlon",
+    "Salazar-Santoliva, Camila",
+    "Izquierdo-Condoy, Juan S"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "stem cells",
+      "T cells",
+      "endothelial cells",
+      "cancer cells",
+      "kidney cells",
+      "bone cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "rotating bioreactors",
+      "space stations",
+      "suborbital platforms"
+    ],
+    "assays": [
+      "cell proliferation",
+      "tissue regeneration",
+      "cellular metabolism",
+      "organ homeostasis",
+      "immune health"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "cell proliferation",
+      "effect": "altered",
+      "magnitude": "significant"
+    },
+    {
+      "target": "tissue regeneration",
+      "effect": "enhanced",
+      "magnitude": "modulated"
+    },
+    {
+      "target": "cellular metabolism",
+      "effect": "modified",
+      "magnitude": "observed"
+    },
+    {
+      "target": "organ homeostasis",
+      "effect": "altered",
+      "magnitude": "significant"
+    },
+    {
+      "target": "immune health",
+      "effect": "disrupted",
+      "magnitude": "increased susceptibility to infections"
+    }
+  ]
+}

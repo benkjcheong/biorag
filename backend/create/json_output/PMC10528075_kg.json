@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC10528075",
+    "title": "Metabolomics Profile of the Secretome of Space-Flown Oligodendrocyte Progenitors",
+    "year": "2023",
+    "journal": "Cells"
+  },
+  "authors": [
+    "Laurent Vergnes",
+    "Bernard Foucaud",
+    "Carlos Cepeda",
+    "Araceli Espinosa-Jeffrey"
+  ],
+  "subjects": {
+    "species": [
+      "Oligodendrocyte Progenitor"
+    ],
+    "tissues": [
+      "Central Nervous System"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "Global metabolomics",
+      "Mitochondrial respiration",
+      "Glycolysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Space-Flown",
+      "dose": null,
+      "duration": "26 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "secretome",
+      "effect": "Increased glutamate and energy metabolism",
+      "magnitude": "Enhanced metabolic activity"
+    },
+    {
+      "target": "OLPs",
+      "effect": "Increased mitochondrial respiration and glycolysis",
+      "magnitude": "Elevated metabolic rates"
+    }
+  ]
+}

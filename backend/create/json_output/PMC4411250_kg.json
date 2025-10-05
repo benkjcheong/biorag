@@ -1,0 +1,38 @@
+{
+  "publication": {
+    "pmc_id": "PMC4411250",
+    "title": "The response to osmotic challenge in land plants",
+    "year": "2015",
+    "journal": "Journal of General Physiology"
+  },
+  "authors": [
+    "Elizabeth S Haswell",
+    "Paul E Verslues"
+  ],
+  "subjects": {
+    "species": [
+      "Land plants"
+    ],
+    "tissues": [
+      "Plant cells"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Water potential",
+      "effect": "Changes in water potential due to osmotic challenge",
+      "magnitude": "Negative or positive changes in water potential"
+    }
+  ]
+}

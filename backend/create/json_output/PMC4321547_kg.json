@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC4321547",
+    "title": "Natural variation in the expression of ORGANIC CATION TRANSPORTER 1 affects root length responses to cadaverine in Arabidopsis",
+    "year": "2014",
+    "journal": "Journal of Experimental Botany"
+  },
+  "authors": [
+    "Allison K Strohm",
+    "Laura M Vaughn",
+    "Patrick H Masson"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "recombinant inbred lines",
+      "near isogenic lines",
+      "microarray"
+    ],
+    "assays": [
+      "root length sensitivity to cadaverine"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "cadaverine",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "root length",
+      "effect": "sensitivity to cadaverine",
+      "magnitude": "variation in root length response"
+    }
+  ]
+}

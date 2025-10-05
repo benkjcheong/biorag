@@ -1,0 +1,84 @@
+{
+  "publication": {
+    "pmc_id": "PMC11833055",
+    "title": "Behavioral and multiomics analysis of 3D clinostat simulated microgravity effect in mice focusing on the central nervous system",
+    "year": "2025",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Li Zhou",
+    "Chenchen Song",
+    "Hu Yang",
+    "Lianlian Zhao",
+    "Xianglei Li",
+    "Xiuping Sun",
+    "Kai Gao",
+    "Jianguo Guo"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "brain",
+      "bone",
+      "gut"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "3D clinostat"
+    ],
+    "assays": [
+      "behavioral tests",
+      "femur micro-CT",
+      "brain transcriptomics",
+      "serum metabolomics",
+      "fecal microbiomics"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "3D clinostat simulated microgravity",
+      "dose": null,
+      "duration": "21 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "activity",
+      "effect": "decreased",
+      "magnitude": null
+    },
+    {
+      "target": "gait",
+      "effect": "altered",
+      "magnitude": null
+    },
+    {
+      "target": "fear memory",
+      "effect": "enhanced",
+      "magnitude": null
+    },
+    {
+      "target": "bone density",
+      "effect": "loss",
+      "magnitude": null
+    },
+    {
+      "target": "brain transcriptome",
+      "effect": "immune/endocrine changes",
+      "magnitude": null
+    },
+    {
+      "target": "serum metabolites",
+      "effect": "altered metabolic pathways",
+      "magnitude": null
+    },
+    {
+      "target": "gut microbiota",
+      "effect": "altered",
+      "magnitude": null
+    }
+  ]
+}

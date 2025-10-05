@@ -1,0 +1,45 @@
+{
+  "publication": {
+    "pmc_id": "PMC5761896",
+    "title": "Characterization of the naive murine antibody repertoire using unamplified high-throughput sequencing",
+    "year": "2018",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Rettig Trisha A",
+    "Ward Claire",
+    "Bye Bailey A",
+    "Pecaut Michael J",
+    "Chapes Stephen K",
+    "Melcher Ulrich"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J"
+    ],
+    "tissues": [
+      "spleen"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "high-throughput sequencing (HTS)"
+    ],
+    "assays": [
+      "immunoglobulin sequence analysis"
+    ]
+  },
+  "treatments": [],
+  "results": [
+    {
+      "target": "heavy-chain immunoglobulin sequences",
+      "effect": "over 90,000 sequences recovered",
+      "magnitude": null
+    },
+    {
+      "target": "light-chain immunoglobulin sequences",
+      "effect": "over 135,000 sequences recovered",
+      "magnitude": null
+    }
+  ]
+}

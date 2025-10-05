@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC4095884",
+    "title": "p70S6K is an important component of \u03b3-sarcoglycan-dependent mechanotransduction in skeletal muscle.",
+    "year": "2014",
+    "journal": "Skelet Muscle"
+  },
+  "authors": [
+    "Moorwood C",
+    "Philippou A",
+    "Spinazzola J",
+    "Keyser B",
+    "Macarak EJ",
+    "Barton ER"
+  ],
+  "subjects": {
+    "species": [
+      "C57Bl/6 (C57) mouse",
+      "\u03b3-sarcoglycan-null (\u03b3-SG-/-) mouse"
+    ],
+    "tissues": [
+      "skeletal muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "C2C12 myotubes",
+      "primary cultures",
+      "isolated muscles"
+    ],
+    "assays": [
+      "immunoblotting",
+      "calcium dependence assessment",
+      "mTOR dependency assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "stretch",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "p70S6K phosphorylation",
+      "effect": "increased",
+      "magnitude": "robust"
+    },
+    {
+      "target": "ERK1/2 phosphorylation",
+      "effect": "decreased",
+      "magnitude": "non-significant"
+    },
+    {
+      "target": "FAK phosphorylation",
+      "effect": "decreased",
+      "magnitude": "non-significant"
+    }
+  ]
+}

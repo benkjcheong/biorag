@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC7943786",
+    "title": "Spaceflight uniquely alters the physiology of both human cells and microbial pathogens, stimulating cellular and molecular changes directly relevant to infectious disease. However, the influence of this environment on host\u2013pathogen interactions remains poorly understood.",
+    "year": "2021",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Jennifer Barrila",
+    "Shameema F Sarker",
+    "Nicole Hansmeier",
+    "Shanshan Yang",
+    "Kristina Buss",
+    "Natalia Briones",
+    "Jin Park",
+    "Richard R Davis",
+    "Rebecca J Forsyth",
+    "C Mark Ott",
+    "Kevin Sato",
+    "Cristine Kosnik",
+    "Anthony Yang",
+    "Cheryl Shimoda",
+    "Nicole Rayl",
+    "Diana Ly",
+    "Aaron Landenberger",
+    "Stephanie D Wilson",
+    "Naoko Yamazaki",
+    "Jason Steel",
+    "Camila Montano",
+    "Rolf U Halden",
+    "Tom Cannon",
+    "Sarah L Castro-Wallace",
+    "Cheryl A Nickerson"
+  ],
+  "subjects": {
+    "species": [
+      "Salmonella Typhimurium",
+      "human"
+    ],
+    "tissues": [
+      "intestinal epithelial cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNA-seq"
+    ],
+    "assays": [
+      "infection"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "multi-omic responses of human intestinal epithelial cells to infection with Salmonella Typhimurium",
+      "effect": "altered physiology",
+      "magnitude": "unknown"
+    }
+  ]
+}

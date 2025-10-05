@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC7561690",
+    "title": "Draft genome sequences of Klebsiella species isolated from the International Space Station",
+    "year": "2020",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Solomon SA",
+    "Bharadwaj AR",
+    "Singh NK",
+    "Wood JM",
+    "Debieu M",
+    "O'Hara NB",
+    "Mason CE",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Klebsiella aerogenes",
+      "Klebsiella pneumoniae",
+      "Klebsiella quasipneumoniae"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Reasoner's 2A (R2A) agar",
+      "blood agar"
+    ],
+    "assays": [
+      "DNA extraction using the ZymoBIOMICS DNA Magbead kit"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "ANI (%)",
+      "effect": "Phylogenetic identification of Klebsiella species",
+      "magnitude": "98.66 to 96.54"
+    },
+    {
+      "target": "GenBank accession no.",
+      "effect": "Genome sequencing and analysis",
+      "magnitude": "Available"
+    }
+  ]
+}

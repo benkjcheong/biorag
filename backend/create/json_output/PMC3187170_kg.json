@@ -1,0 +1,87 @@
+{
+  "publication": {
+    "pmc_id": "PMC3187170",
+    "title": "Induction of Attachment-Independent Biofilm Formation and Repression of hfq Expression by Low-Fluid-Shear Culture of Staphylococcus aureus",
+    "year": "2011",
+    "journal": "Applied and Environmental Microbiology"
+  },
+  "authors": [
+    "Castro, Sarah L.",
+    "Nelman-Gonzalez, Mayra",
+    "Nickerson, Cheryl A.",
+    "Ott, C Mark"
+  ],
+  "subjects": {
+    "species": [
+      "Staphylococcus aureus"
+    ],
+    "tissues": [
+      "intestinal"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "rotating-wall vessel bioreactor",
+      "RWV"
+    ],
+    "assays": [
+      "biofilm formation",
+      "growth rate",
+      "virulence characteristics",
+      "carotenoid production",
+      "oxidative stress susceptibility",
+      "survival in whole blood",
+      "transcriptional profiling",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "low-fluid-shear culture",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "biofilm formation",
+      "effect": "attachment-independent biofilm phenotype",
+      "magnitude": null
+    },
+    {
+      "target": "growth rate",
+      "effect": "slower growth",
+      "magnitude": null
+    },
+    {
+      "target": "virulence characteristics",
+      "effect": "decreased virulence",
+      "magnitude": null
+    },
+    {
+      "target": "carotenoid production",
+      "effect": "decreased",
+      "magnitude": null
+    },
+    {
+      "target": "oxidative stress susceptibility",
+      "effect": "increased",
+      "magnitude": null
+    },
+    {
+      "target": "survival in whole blood",
+      "effect": "reduced",
+      "magnitude": null
+    },
+    {
+      "target": "transcriptional profiling",
+      "effect": "alterations in metabolic pathways",
+      "magnitude": null
+    },
+    {
+      "target": "gene expression analysis",
+      "effect": "downregulation of Hfq",
+      "magnitude": null
+    }
+  ]
+}

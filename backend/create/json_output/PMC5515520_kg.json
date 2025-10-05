@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC5515520",
+    "title": "The effect of spaceflight on the gravity-sensing auxin gradient of roots: GFP reporter gene microscopy on orbit",
+    "year": "2016",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Robert J Ferl",
+    "Anna-Lisa Paul"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "ground"
+    ],
+    "assays": [
+      "GFP reporter gene microscopy",
+      "confocal microscopy",
+      "live imaging with standard fluorescence optics"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "auxin distribution in primary root",
+      "effect": "typically \u2018vertical\u2019 distribution of auxin",
+      "magnitude": null
+    },
+    {
+      "target": "cytokinin distribution in root tip",
+      "effect": "differences between spaceflight and ground controls",
+      "magnitude": null
+    }
+  ]
+}

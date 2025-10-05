@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC8879990",
+    "title": "Effect of Simulated Space Radiation on Dry and Hydrated Seeds of Arabidopsis thaliana and Mizuna Mustard",
+    "year": "2022",
+    "journal": "Life (Basel)"
+  },
+  "authors": [
+    "Ye Zhang",
+    "Jeffrey T Richards",
+    "Alan H Feiveson",
+    "Stephanie E Richards",
+    "Srujana Neelam",
+    "Thomas W Dreschel",
+    "Ianik Plante",
+    "Megumi Hada",
+    "Honglu Wu",
+    "Gioia D Massa",
+    "Howard G Levine",
+    "Giorgio Russo",
+    "Walter Tinganelli",
+    "Marco Calvaruso"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana",
+      "Mizuna mustard"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "NASA Space Radiation Laboratory (NSRL)",
+      "Brookhaven National Lab (BNL)"
+    ],
+    "assays": [
+      "morphological parameters",
+      "seed germination"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "charged particles",
+      "dose": "up to 80 cGy",
+      "duration": "acute or low dose rate"
+    },
+    {
+      "agent": "simulated GCR",
+      "dose": "up to 80 cGy",
+      "duration": "acute or low dose rate"
+    },
+    {
+      "agent": "SPE protons",
+      "dose": "up to 200 cGy",
+      "duration": "acute or low dose rate"
+    }
+  ],
+  "results": [
+    {
+      "target": "morphological parameters",
+      "effect": "damage",
+      "magnitude": "dose- and quality-dependent responses"
+    }
+  ]
+}

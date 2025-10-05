@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC9695374",
+    "title": "Microgravity-induced neuroinflammation in mice: The role of mitochondria-targeted human catalase and CD68 marker",
+    "year": "2022",
+    "journal": "Life (Basel)"
+  },
+  "authors": [
+    "Rubinstein, Linda",
+    "Kiffer, Frederico",
+    "Puukila, Stephanie",
+    "Lowe, Moniece G",
+    "Goo, Brie",
+    "Luthens, Amalia",
+    "Schreurs, Ann-Sofie",
+    "Torres, Samantha M",
+    "Steczina, Sonette",
+    "Tahimic, Candice G T",
+    "Allen, Anti\u00f1o R",
+    "Pacelli, Claudia",
+    "Ferranti, Francesca",
+    "del Bianco, Marta"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "hippocampus",
+      "brain"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "head-tilt bedrest model",
+      "hindlimb unloading (HU)"
+    ],
+    "assays": [
+      "CD68 marker measurement",
+      "behavioral analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "MCAT mouse model overexpressing human catalase in the mitochondria",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "CD68 marker expression",
+      "effect": "increased",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "exploratory behavior",
+      "effect": "decreased",
+      "magnitude": "significant decrease"
+    }
+  ]
+}

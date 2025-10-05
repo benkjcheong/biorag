@@ -1,0 +1,42 @@
+{
+  "publication": {
+    "pmc_id": "PMC4453782",
+    "title": "Vesicles versus Tubes: Is Endoplasmic Reticulum-Golgi Transport in Plants Fundamentally Different from Other Eukaryotes?",
+    "year": "2015",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Robinson, David G.",
+    "Brandizzi, Federica",
+    "Hawes, Chris",
+    "Nakano, Akihiko"
+  ],
+  "subjects": {
+    "species": [
+      "Higher plants"
+    ],
+    "tissues": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Cell wall"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Microscopy",
+      "Light microscopy"
+    ],
+    "assays": [
+      "Immunofluorescence",
+      "Protein purification"
+    ]
+  },
+  "treatments": [],
+  "results": [
+    {
+      "target": "ER-Golgi transport",
+      "effect": "Controversy over transport mechanism",
+      "magnitude": "Disagreement among authors"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC5515519",
+    "title": "Evaluation of rodent spaceflight in the NASA animal enclosure module for an extended operational period (up to 35 days)",
+    "year": "2016",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Moyer EL",
+    "Dumars PM",
+    "Sun G-S",
+    "Martin KJ",
+    "Heathcote DG",
+    "Boyle RD",
+    "Skidmore MG",
+    "Boileau R"
+  ],
+  "subjects": {
+    "species": [
+      "Sprague-Dawley rat",
+      "C57BL/6 female mouse"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "Space Shuttle"
+    ],
+    "assays": [
+      "animal health evaluations",
+      "animal growth and body masses",
+      "organ masses",
+      "rodent food bar consumption",
+      "water consumption",
+      "blood contents analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": "35 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "animal health and well-being",
+      "effect": "successful support of animals for up to 35 days",
+      "magnitude": "confirmed by comparison with vivarium housed and normal biological ranges"
+    }
+  ]
+}

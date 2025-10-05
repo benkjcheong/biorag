@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC4136787",
+    "title": "Mice in Bion-M 1 Space Mission: Training and Selection",
+    "year": "2014",
+    "journal": null
+  },
+  "authors": [
+    "Andreev-Andrievskiy, Alexander",
+    "Popova, Anfisa",
+    "Boyle, Richard",
+    "Alberts, Jeffrey",
+    "Shenkman, Boris",
+    "Vinogradova, Olga",
+    "Dolgov, Oleg",
+    "Anokhin, Konstantin",
+    "Tsvirkun, Darya",
+    "Soldatov, Pavel",
+    "Nemirovskaya, Tatyana",
+    "Ilyin, Eugeniy",
+    "Sychev, Vladimir",
+    "Goswami, Nandu"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Bion-M 1 biosatellite",
+      "ground control experiment"
+    ],
+    "assays": [
+      "blood pressure measurement",
+      "in vivo measurements",
+      "in vitro studies",
+      "behavioral/functional tests",
+      "continuous behavioral measurements"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "blood pressure",
+      "effect": "adadaptation to Earth's gravity",
+      "magnitude": "pronounced"
+    }
+  ]
+}

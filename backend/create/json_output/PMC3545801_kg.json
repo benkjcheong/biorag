@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC3545801",
+    "title": "Growth of Carnobacterium spp. from permafrost under low pressure, temperature, and anoxic atmosphere has implications for Earth microbes on Mars",
+    "year": "2012",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "authors": [
+    "Nicholson WL",
+    "Krivushin K",
+    "Gilichinsky D",
+    "Schuerger AC"
+  ],
+  "subjects": {
+    "species": [
+      "Carnobacterium"
+    ],
+    "tissues": [
+      "permafrost"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "simulated Mars conditions",
+      "permafrost samples"
+    ],
+    "assays": [
+      "growth assays",
+      "colony morphology analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "low-PTA conditions",
+      "dose": "7 mbar pressure, 0 \u00b0C temperature, anoxic atmosphere",
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "growth of Carnobacterium spp.",
+      "effect": "observed growth under low-PTA conditions",
+      "magnitude": "colony development and morphology"
+    },
+    {
+      "target": "strain WN1359",
+      "effect": "isolated from permafrost samples, grew under low-PTA conditions",
+      "magnitude": "colony number 43"
+    }
+  ]
+}

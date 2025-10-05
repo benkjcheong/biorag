@@ -1,0 +1,73 @@
+{
+  "publication": {
+    "pmc_id": "PMC8513672",
+    "title": "Dichotomous effects on lymphatic transport with loss of caveolae in mice",
+    "year": "2021",
+    "journal": "Acta Physiologica (Oxf)"
+  },
+  "authors": [
+    "Baranwal G",
+    "Creed HA",
+    "Cromer WE",
+    "Wang W",
+    "Upchurch BD",
+    "Smithhart MC",
+    "Vadlamani SS",
+    "Clark MC",
+    "Busbuso NC",
+    "Blais SN",
+    "Reyna AJ",
+    "Dongaonkar RM",
+    "Zawieja DC",
+    "Rutkowski JM"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "lymphatic endothelium",
+      "LECs"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "ex vivo",
+      "in vitro"
+    ],
+    "assays": [
+      "microlymphangiography",
+      "70kDa dextran permeability assay",
+      "collecting vessel studies"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Cav-1 knockout",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "lymphatic conductance",
+      "effect": "increased",
+      "magnitude": "significantly higher"
+    },
+    {
+      "target": "70kDa dextran permeability",
+      "effect": "increased",
+      "magnitude": "significantly increased"
+    },
+    {
+      "target": "lymphatic transport to sentinel node",
+      "effect": "reduced",
+      "magnitude": "significantly reduced"
+    },
+    {
+      "target": "lymphatic vessel contractility",
+      "effect": "reduced",
+      "magnitude": "significantly reduced"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166648",
+    "title": "Long-read RNA sequencing reveals spaceflight-associated m6A increases and hematopoietic transcriptional responses",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Grigorev Kirill",
+    "Nelson Theodore M",
+    "Overbey Eliah G",
+    "Houerbi Nadia",
+    "Kim JangKeun",
+    "Najjar Deena",
+    "Damle Namita",
+    "Afshin Evan E",
+    "Ryon Krista A",
+    "Thierry-Mieg Jean",
+    "Thierry-Mieg Danielle",
+    "Melnick Ari M",
+    "Mateus Jaime",
+    "Mason Christopher E",
+    "Mason Christopher E"
+  ],
+  "subjects": {
+    "species": [
+      "Human"
+    ],
+    "tissues": [
+      "Blood"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Nanopore sequencing",
+      "Ultima high-coverage RNA-sequencing"
+    ],
+    "assays": [
+      "Long-read RNA sequencing",
+      "RNA modification mapping"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "7 timepoints"
+    }
+  ],
+  "results": [
+    {
+      "target": "m6A methylation profiles",
+      "effect": "Increased m6A levels post-flight",
+      "magnitude": "Significant spike"
+    },
+    {
+      "target": "Gene expression",
+      "effect": "Changes in erythrocyte regulation, stress induction, and immune changes",
+      "magnitude": "Observed alterations"
+    }
+  ]
+}

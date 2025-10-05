@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC6057834",
+    "title": "NemaFlex: A microfluidics-based technology for standardized measurement of muscular strength of C. elegans",
+    "year": "2018",
+    "journal": "Lab Chip"
+  },
+  "authors": [
+    "Mizanur Rahman",
+    "Jennifer E Hewitt",
+    "Frank Van-Bussel",
+    "Hunter Edwards",
+    "Jerzy Blawzdziewicz",
+    "Nathaniel J Szewczyk",
+    "Monica Driscoll",
+    "Siva A Vanapalli"
+  ],
+  "subjects": {
+    "species": [
+      "C. elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "pillar deflection"
+    ],
+    "assays": [
+      "strength measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "muscle contracting agent",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "muscular strength",
+      "effect": "measured",
+      "magnitude": "not specified"
+    }
+  ]
+}

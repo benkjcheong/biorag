@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC11096397",
+    "title": "Microbial adaptation to spaceflight is correlated with bacteriophage-encoded functions",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Irby, Iris",
+    "Broddrick, Jared T."
+  ],
+  "subjects": {
+    "species": [
+      "Acinetobacter pittii",
+      "Bacillus amyloliquifaecins",
+      "Bacillus thuringiensis",
+      "Enterobacter bugandensis",
+      "Klebsiella quasipneumoniae",
+      "Micrococcus luteus",
+      "Paenibacillus polymyxa",
+      "Pseudomonas fulva",
+      "Staphylococcus epidermidis",
+      "Staphylococcus saprophyticus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Crew Resupply Vehicle"
+    ],
+    "assays": [
+      "Genome sequencing",
+      "Sampling campaigns"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "prophage prevalence",
+      "effect": "significantly different between spaceflight strains and terrestrial counterparts",
+      "magnitude": "283 complete prophages identified"
+    },
+    {
+      "target": "host adaptation to spaceflight",
+      "effect": "increased persistence in extreme environments, such as spaceflight",
+      "magnitude": "correlation with microbial adaptation"
+    }
+  ]
+}

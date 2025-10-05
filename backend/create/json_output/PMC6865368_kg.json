@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC6865368",
+    "title": "Thermoneutral housing attenuates premature cancellous bone loss in male C57BL/6J mice",
+    "year": "2019",
+    "journal": "Endocr Connect"
+  },
+  "authors": [
+    "Martin, Stephen A.",
+    "Philbrick, Kenneth A.",
+    "Wong, Carmen P.",
+    "Olson, Dawn A.",
+    "Branscum, Adam J.",
+    "Jump, Donald B.",
+    "Marik, Charles K.",
+    "DenHerder, Jonathan M.",
+    "Sargent, Jennifer L.",
+    "Turner, Russell T.",
+    "Iwaniec, Urszula T."
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J",
+      "male"
+    ],
+    "tissues": [
+      "bone",
+      "cancellous bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "standard room temperature",
+      "thermoneutral"
+    ],
+    "assays": [
+      "histomorphometry",
+      "serum osteocalcin",
+      "serum C-terminal telopeptide of type I collagen"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "housing temperature",
+      "dose": "22\u00b0C (standard room temperature)",
+      "duration": "16 weeks"
+    },
+    {
+      "agent": "housing temperature",
+      "dose": "32\u00b0C (thermoneutral)",
+      "duration": "16 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "cancellous bone volume fraction",
+      "effect": "reduced",
+      "magnitude": "significant difference"
+    },
+    {
+      "target": "bone formation",
+      "effect": "increased",
+      "magnitude": "significant difference"
+    },
+    {
+      "target": "bone resorption",
+      "effect": "decreased",
+      "magnitude": "significant difference"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC9108708",
+    "title": "A comprehensive SARS-CoV-2 and COVID-19 review, Part 1: Intracellular overdrive for SARS-CoV-2 infection",
+    "year": "2022",
+    "journal": "Eur J Hum Genet"
+  },
+  "authors": [
+    "Jamison Jr David A",
+    "Narayanan S Anand",
+    "Trov\u00e3o N\u00eddia S",
+    "Guarnieri Joseph W",
+    "Topper Michael J",
+    "Moraes-Vieira Pedro M",
+    "Zaksas Viktorija",
+    "Singh Keshav K",
+    "Syrkin Wurtele Eve",
+    "Beheshti Afshin",
+    "Wurtele Eve Syrkin"
+  ],
+  "subjects": {
+    "species": [
+      "SARS-CoV-2",
+      "COVID-19",
+      "human Betacoronavirus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "None",
+      "effect": "Intracellular overdrive for SARS-CoV-2 infection",
+      "magnitude": "None"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC5821596",
+    "title": "Comparative transcriptomics indicate changes in cell wall organization and stress response in seedlings during spaceflight",
+    "year": "2017",
+    "journal": "American Journal of Botany"
+  },
+  "authors": [
+    "Johnson, Christina M.",
+    "Subramanian, Aswati",
+    "Pattathil, Sivakumar",
+    "Correll, Melanie J.",
+    "Kiss, John Z."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "cell wall"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Biological Research in Canisters (BRIC)",
+      "European Modular Cultivation System (EMCS)",
+      "Advanced Biological Research System (ABRS)",
+      "Science in Microgravity box (SIMbox)"
+    ],
+    "assays": [
+      "Transcriptomics",
+      "Glycome profiling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "STS-131 mission duration"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "downregulation of water stress response genes",
+      "magnitude": "significant downregulation"
+    },
+    {
+      "target": "cell wall composition",
+      "effect": "differences in cell wall components between spaceflight and ground controls",
+      "magnitude": "observed differences"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "publication": {
+    "pmc_id": "PMC5578834",
+    "title": "Draft genome sequence of Solibacillus kalamii, isolated from an air filter aboard the International Space Station",
+    "year": "2017",
+    "journal": "Genome Announcements"
+  },
+  "authors": [
+    "Seuylemezian A",
+    "Singh NK",
+    "Vaishampayan P",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Solibacillus kalamii"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina MiSeq platform",
+      "shotgun sequencing method"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequence",
+      "effect": "draft genome sequence obtained",
+      "magnitude": "3,809,180\u00a0bp"
+    }
+  ]
+}

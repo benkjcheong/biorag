@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC9743659",
+    "title": "Multidrug-resistant Acinetobacter pittii is adapting to and exhibiting potential succession aboard the International Space Station",
+    "year": "2022",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Braden T Tierney",
+    "Nitin K Singh",
+    "Anna C Simpson",
+    "Andrea M Hujer",
+    "Robert A Bonomo",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "subjects": {
+    "species": [
+      "Acinetobacter pittii"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "metagenomic sequencing"
+    ],
+    "assays": [
+      "antimicrobial susceptibility testing",
+      "genome-wide association study"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "resistance to expanded-spectrum cephalosporins",
+      "effect": "increased resistance",
+      "magnitude": "significant increase in resistance"
+    },
+    {
+      "target": "relative abundance of A. pittii",
+      "effect": "increase",
+      "magnitude": ">2X"
+    },
+    {
+      "target": "functionality of LexA",
+      "effect": "increased survival in harsh environments",
+      "magnitude": null
+    }
+  ]
+}

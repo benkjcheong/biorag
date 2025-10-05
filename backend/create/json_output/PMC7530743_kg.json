@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC7530743",
+    "title": "NemaLife chip: a micropillar-based microfluidic culture device optimized for aging studies in crawling C. elegans",
+    "year": "2020",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Mizanur Rahman",
+    "Hunter Edwards",
+    "Nikolajs Birze",
+    "Rebecca Gabrilska",
+    "Kendra P Rumbaugh",
+    "Jerzy Blawzdziewicz",
+    "Nathaniel J Szewczyk",
+    "Monica Driscoll",
+    "Siva A Vanapalli"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "microfluidic",
+      "micropillar arena"
+    ],
+    "assays": [
+      "lifespan analysis",
+      "pharyngeal pumping",
+      "tap-induced stimulated reversals"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "2\u2032-deoxy-5-fluorouridine (FDUR)",
+      "dose": "Not specified",
+      "duration": "Not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "lifespan",
+      "effect": "increased lifespan",
+      "magnitude": "Not specified"
+    },
+    {
+      "target": "pharyngeal pumping",
+      "effect": "scored across the lifespan",
+      "magnitude": "Not specified"
+    },
+    {
+      "target": "tap-induced stimulated reversals",
+      "effect": "scored across the lifespan",
+      "magnitude": "Not specified"
+    }
+  ]
+}

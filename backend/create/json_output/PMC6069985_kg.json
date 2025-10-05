@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC6069985",
+    "title": "Effects of liquid cultivation on gene expression and phenotype of C. elegans",
+    "year": "2018",
+    "journal": "BMC Genomics"
+  },
+  "authors": [
+    "\u00c7elen, \u0130rem",
+    "Doh, Jung H",
+    "Sabanayagam, Chandran R"
+  ],
+  "subjects": {
+    "species": [
+      "C. elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "RNA-seq"
+    ],
+    "assays": [
+      "gene expression analysis",
+      "phenotypic analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "liquid axenic media",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "altered gene expression profiles",
+      "magnitude": "substantial variances"
+    },
+    {
+      "target": "phenotype",
+      "effect": "observed phenotypic alterations",
+      "magnitude": "consistent with predicted phenotype"
+    }
+  ]
+}

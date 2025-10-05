@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC6204554",
+    "title": "Influence of Magnitude and Duration of Altered Gravity and Readaptation to 1 g on the Structure and Function of the Utricle in Toadfish, Opsanus tau",
+    "year": "2018",
+    "journal": "Frontiers in Physiology"
+  },
+  "authors": [
+    "Boyle, Richard",
+    "Popova, Yekaterina",
+    "Varelas, Joseph"
+  ],
+  "subjects": {
+    "species": [
+      "Opsanus tau"
+    ],
+    "tissues": [
+      "utricle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "centrifugation"
+    ],
+    "assays": [
+      "electrophysiology",
+      "serial electron microscopy reconstruction"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "centrifugation",
+      "dose": "2.24 g",
+      "duration": "variable"
+    }
+  ],
+  "results": [
+    {
+      "target": "utricular afferent responses to yaw rotation",
+      "effect": "sensitivity adjustment",
+      "magnitude": "increase followed by decrease"
+    },
+    {
+      "target": "hair cell structure and synaptic body counts",
+      "effect": "no significant changes",
+      "magnitude": "equivalent inter-animal variability and averages"
+    }
+  ]
+}

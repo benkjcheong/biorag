@@ -1,0 +1,91 @@
+{
+  "publication": {
+    "pmc_id": "PMC6124165",
+    "title": "Treatment With a Soluble Bone Morphogenetic Protein Type 1A Receptor (BMPR1A) Fusion Protein Increases Bone Mass and Bone Formation in Mice Subjected to Hindlimb Unloading",
+    "year": "2017",
+    "journal": "JBMR Plus"
+  },
+  "authors": [
+    "Frank C Ko",
+    "Miranda Van Vliet",
+    "Rachel Ellman",
+    "Daniel Grasso",
+    "Jordan M Spatz",
+    "Chrissy Conlon",
+    "J Ignacio Aguirre",
+    "Thomas J Wronski",
+    "Mary L Bouxsein"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J"
+    ],
+    "tissues": [
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "tail suspension",
+      "cage controls"
+    ],
+    "assays": [
+      "BMD",
+      "microarchitecture analysis",
+      "failure load",
+      "dynamic histomorphometry",
+      "mineralizing surface",
+      "mineral apposition rate",
+      "bone formation rate"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "mBMPR1A\u2010mFc",
+      "dose": "4.5\u2009mg/kg",
+      "duration": "3 weeks"
+    },
+    {
+      "agent": "VEH",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "leg BMD",
+      "effect": "decreased",
+      "magnitude": "-5.3% \u00b1 1.3%"
+    },
+    {
+      "target": "leg BMD",
+      "effect": "unchanged",
+      "magnitude": "0.3% \u00b1 0.9%"
+    },
+    {
+      "target": "femur, trabecular, and cortical bone microarchitecture",
+      "effect": "worse in HLU-VEH compared to CON-VEH mice",
+      "magnitude": null
+    },
+    {
+      "target": "bone formation rate",
+      "effect": "greater in CON-mBMPR1A-mFc than CON-VEH",
+      "magnitude": "3.5-fold and fivefold higher bone formation rate in mBMPR1A-mFc-treated CON and HLU animals versus VEH groups, respectively"
+    },
+    {
+      "target": "osteoblast surface",
+      "effect": "similar",
+      "magnitude": null
+    },
+    {
+      "target": "osteoclast surface",
+      "effect": "lower in mBMPR1A-mFc-treated animals",
+      "magnitude": null
+    },
+    {
+      "target": "failure load",
+      "effect": "21% greater",
+      "magnitude": "p\u2009<\u20090.05"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC9023564",
+    "title": "Emergence of novel cephalopod gene regulation and expression through large-scale genome reorganization",
+    "year": "2022",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Hannah Schmidbaur",
+    "Akane Kawaguchi",
+    "Tereza Clarence",
+    "Xiao Fu",
+    "Oi Pui Hoang",
+    "Bob Zimmermann",
+    "Elena A Ritschard",
+    "Anton Weissenbacher",
+    "Jamie S Foster",
+    "Spencer V Nyholm",
+    "Paul A Bates",
+    "Caroline B Albertin",
+    "Elly Tanaka",
+    "Oleg Simakov"
+  ],
+  "subjects": {
+    "species": [
+      "squid",
+      "cuttlefish",
+      "octopus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression patterns",
+      "effect": "novel gene clusters and regulatory organization",
+      "magnitude": "extensive genomic reorganization"
+    }
+  ]
+}

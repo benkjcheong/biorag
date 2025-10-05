@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC8816950",
+    "title": "Production of reactive oxygen species and involvement of bioprotectants during anhydrobiosis in the tardigrade Paramacrobiotus spatialis",
+    "year": "2022",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Giovannini I.",
+    "Boothby T.C.",
+    "Cesari M.",
+    "Goldstein B.",
+    "Guidetti R.",
+    "Rebecchi L."
+  ],
+  "subjects": {
+    "species": [
+      "Paramacrobiotus spatialis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "RNA interference"
+    ],
+    "assays": [
+      "survival assessment",
+      "recovery of animals after desiccation/rehydration"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "RNA interference targeting glutathione peroxidase gene",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "survival during desiccation and rehydration",
+      "effect": "compromised survival",
+      "magnitude": null
+    },
+    {
+      "target": "gene function of glutathione reductase and catalase",
+      "effect": "implicated in rehydration",
+      "magnitude": null
+    },
+    {
+      "target": "aquaporin 3 and 10",
+      "effect": "involved during rehydration",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "publication": {
+    "pmc_id": "PMC6280456",
+    "title": "Succession and persistence of microbial communities and antimicrobial resistance genes associated with International Space Station environmental surfaces",
+    "year": "2018",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Singh NK",
+    "Wood JM",
+    "Karouia F",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "PMA"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "reads associated with microorganisms",
+      "effect": "generated after high quality trimming",
+      "magnitude": "7.3\u00a0\u00d7\u00a0108 reads"
+    }
+  ]
+}

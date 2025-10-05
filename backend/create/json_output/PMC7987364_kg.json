@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC7987364",
+    "title": "Relevance of the Unfolded Protein Response to Spaceflight-Induced Transcriptional Reprogramming in Arabidopsis",
+    "year": "2021",
+    "journal": "Astrobiology"
+  },
+  "authors": [
+    "Angelos, Evan",
+    "Ko, Dae Kwan",
+    "Zemelis-Durfee, Starla",
+    "Brandizzi, Federica"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "ground control"
+    ],
+    "assays": [
+      "comparative transcriptome profiling",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "reprogramming",
+      "magnitude": "substantial"
+    }
+  ]
+}

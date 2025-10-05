@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC5491145",
+    "title": "Genetic dissection of the Arabidopsis spaceflight transcriptome: Are some responses dispensable for the physiological adaptation of plants to spaceflight?",
+    "year": "2017",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Paul, Anna-Lisa",
+    "Sng, Natasha J",
+    "Zupanska, Agata K",
+    "Krishnamurthy, Aparna",
+    "Schultz, Eric R",
+    "Ferl, Robert J"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root tip"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station"
+    ],
+    "assays": [
+      "Transcriptome analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "spaceflight transcriptome response",
+      "effect": "differential gene expression",
+      "magnitude": "reduced transcriptome cost of adaptation"
+    }
+  ]
+}

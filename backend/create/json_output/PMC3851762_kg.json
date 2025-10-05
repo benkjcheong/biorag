@@ -1,0 +1,77 @@
+{
+  "publication": {
+    "pmc_id": "PMC3851762",
+    "title": "Spaceflight Enhances Cell Aggregation and Random Budding in Candida albicans",
+    "year": "2013",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Crabb\u00e9 A",
+    "Nielsen-Preiss S M",
+    "Woolley CM",
+    "Barrila J",
+    "Buchanan K",
+    "McCracken J",
+    "Inglis DO",
+    "Searles SC",
+    "Nelman-Gonzalez MA",
+    "Ott C Mark",
+    "Wilson JW",
+    "Pierson DL",
+    "Stefanyshyn-Piper HM",
+    "Hyman LE",
+    "Nickerson CA",
+    "Coste A T"
+  ],
+  "subjects": {
+    "species": [
+      "Candida albicans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "spaceflight",
+      "ground controls"
+    ],
+    "assays": [
+      "microarray analysis",
+      "microscopic analysis",
+      "flow cytometry analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "short-term"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "differentially regulated genes",
+      "magnitude": "452 genes"
+    },
+    {
+      "target": "cell aggregation",
+      "effect": "enhanced cell aggregation",
+      "magnitude": null
+    },
+    {
+      "target": "random budding",
+      "effect": "increased random budding",
+      "magnitude": null
+    },
+    {
+      "target": "antifungal resistance",
+      "effect": "upregulation of ABC transporters and major facilitator family genes, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance",
+      "magnitude": null
+    },
+    {
+      "target": "actin cytoskeleton",
+      "effect": "downregulation of actin cytoskeleton genes",
+      "magnitude": null
+    }
+  ]
+}

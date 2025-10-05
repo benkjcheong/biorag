@@ -1,0 +1,69 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166944",
+    "title": "Space radiation damage rescued by inhibition of key spaceflight associated miRNAs",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "J Tyson McDonald",
+    "JangKeun Kim",
+    "Lily Farmerie",
+    "Meghan L Johnson",
+    "Nidia S Trovao",
+    "Shehbeel Arif",
+    "Keith Siew",
+    "Sergey Tsoy",
+    "Yaron Bram",
+    "Jiwoon Park",
+    "Eliah Overbey",
+    "Krista Ryon",
+    "Jeffrey Haltom",
+    "Urminder Singh",
+    "Francisco J Enguita",
+    "Victoria Zaksas",
+    "Joseph W Guarnieri",
+    "Michael Topper",
+    "Douglas C Wallace",
+    "Cem Meydan",
+    "Stephen Baylin",
+    "Robert Meller",
+    "Masafumi Muratani",
+    "D Marshall Porterfield",
+    "Brett Kaufman",
+    "Marcelo A Mori",
+    "Stephen B Walsh",
+    "Dominique Sigaudo-Roussel",
+    "Saida Mebarek",
+    "Massimo Bottini",
+    "Christophe A Marquette",
+    "Eve Syrkin Wurtele",
+    "Robert E Schwartz",
+    "Diego Galeano",
+    "Christopher E Mason",
+    "Peter Grabham",
+    "Afshin Beheshti"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "miRNAs",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "space radiation damage",
+      "effect": "rescued",
+      "magnitude": "not specified"
+    }
+  ]
+}

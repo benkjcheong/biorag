@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC4631774",
+    "title": "Focal enhancement of the skeleton to exercise correlates with responsivity of bone marrow mesenchymal stem cells rather than peak external forces",
+    "year": "2015",
+    "journal": "J Exp Biol."
+  },
+  "authors": [
+    "Ian J Wallace",
+    "Gabriel M Pagnotti",
+    "Jasper Rubin-Sigler",
+    "Matthew Naeher",
+    "Lynn E Copes",
+    "Stefan Judex",
+    "Clinton T Rubin",
+    "Brigitte Demes"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone marrow mesenchymal stem cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "force plate",
+      "treadmill"
+    ],
+    "assays": [
+      "\u03bcCT imaging",
+      "flow cytometry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "treadmill running",
+      "dose": null,
+      "duration": "variable duration"
+    }
+  ],
+  "results": [
+    {
+      "target": "bone structure",
+      "effect": "enhancement",
+      "magnitude": "increased bone area and moment of area"
+    },
+    {
+      "target": "MSC population",
+      "effect": "lowered",
+      "magnitude": "decreased MSC populations in the femur"
+    }
+  ]
+}

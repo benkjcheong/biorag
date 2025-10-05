@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC2897429",
+    "title": "New Device for High-Throughput Viability Screening of Flow Biofilms",
+    "year": "2010",
+    "journal": "Applied and Environmental Microbiology"
+  },
+  "authors": [
+    "Michael R Benoit",
+    "Carolyn G Conant",
+    "Cristian Ionescu-Zanetti",
+    "Michael Schwartz",
+    "A Matin"
+  ],
+  "subjects": {
+    "species": [
+      "Pseudomonas aeruginosa",
+      "Pseudomonas fluorescens"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "BioFlux",
+      "microfluidic channels"
+    ],
+    "assays": [
+      "plate reader",
+      "fluorescence measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "saline bleach solution",
+      "dose": "specified concentrations",
+      "duration": "1 h"
+    }
+  ],
+  "results": [
+    {
+      "target": "biofilm viability",
+      "effect": "determined using plate counts and fluorescence measurement",
+      "magnitude": "agreement with results from colony counting and fluorescence microscopy"
+    }
+  ]
+}

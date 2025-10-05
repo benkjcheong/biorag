@@ -1,0 +1,70 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166946",
+    "title": "Aging and putative frailty biomarkers are altered by spaceflight",
+    "year": "2024",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Camera, Andrea",
+    "Tabetah, Marshall",
+    "Casta\u00f1eda, Veronica",
+    "Kim, JangKeun",
+    "Singh Galsinh, Aman",
+    "Haro-Vinueza, Alissen",
+    "Salinas, Ivonne",
+    "Seylani, Allen",
+    "Arif, Shehbeel",
+    "Das, Saswati",
+    "Mori, Marcelo A",
+    "Carano, Anthony",
+    "de Oliveira, Lorraine Christine",
+    "Muratani, Masafumi",
+    "Barker, Richard",
+    "Zaksas, Victoria",
+    "Goel, Chirag",
+    "Dimokidis, Eleni",
+    "Taylor, Deanne M",
+    "Jeong, Jisu",
+    "Overbey, Eliah",
+    "Meydan, Cem",
+    "Porterfield, D Marshall",
+    "Diaz, Juan Esteban",
+    "Caicedo, Andr\u00e9s",
+    "Schisler, Jonathan C",
+    "Laiakis, Evagelia C",
+    "Mason, Christopher E",
+    "Kim, Man S",
+    "Karouia, Fathi",
+    "Szewczyk, Nathaniel J",
+    "Beheshti, Afshin"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "PMC",
+      "PubMed"
+    ],
+    "assays": [
+      "Search in PMC",
+      "Search in PubMed"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "aging biomarkers",
+      "effect": "altered",
+      "magnitude": "unknown"
+    }
+  ]
+}

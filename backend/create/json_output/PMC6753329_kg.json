@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC6753329",
+    "title": "Influence of Social Isolation During Prolonged Simulated Weightlessness by Hindlimb Unloading",
+    "year": "2019",
+    "journal": "Frontiers in Physiology"
+  },
+  "authors": [
+    "Tahimic, Candice G. T.",
+    "Paul, Amber M.",
+    "Schreurs, Ann-Sofie",
+    "Torres, Samantha M.",
+    "Rubinstein, Linda",
+    "Steczina, Sonette",
+    "Lowe, Moniece",
+    "Bhattacharya, Sharmila",
+    "Alwood, Joshua S.",
+    "Ronca, April E.",
+    "Globus, Ruth K."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "adrenal gland"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading",
+      "social housing"
+    ],
+    "assays": [
+      "immunology",
+      "hypothalamic-pituitary-adrenal (HPA) axis response",
+      "plasma corticosterone levels"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading",
+      "dose": null,
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "% CD4+ T cells",
+      "effect": "reduced in singly housed mice",
+      "magnitude": null
+    },
+    {
+      "target": "adrenal gland mass",
+      "effect": {
+        "socially housed": "increased",
+        "singly housed": "no effect"
+      },
+      "magnitude": null
+    },
+    {
+      "target": "plasma corticosterone levels",
+      "effect": "elevated in both singly and socially housed mice",
+      "magnitude": null
+    }
+  ]
+}

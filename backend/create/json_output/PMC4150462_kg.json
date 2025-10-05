@@ -1,0 +1,38 @@
+{
+  "publication": {
+    "pmc_id": "PMC4150462",
+    "title": "Endoplasmic reticulum dynamics and architecture in stress adaptation",
+    "year": "2014",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Brandizzi F.",
+    "Frigerio L.",
+    "Howell S.H.",
+    "Sch\u00e4fer P."
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "endoplasmic reticulum"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "ER dynamics and architecture",
+      "effect": "described",
+      "magnitude": "detailed description of ER dynamics and architecture in stress adaptation"
+    }
+  ]
+}

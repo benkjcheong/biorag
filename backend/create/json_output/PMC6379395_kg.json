@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC6379395",
+    "title": "Articular cartilage and sternal fibrocartilage respond differently to extended microgravity",
+    "year": "2019",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Fitzgerald, Jamie",
+    "Endicott, Jamie",
+    "Hansen, Uwe",
+    "Janowitz, Cathleen"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "articular cartilage",
+      "sternal cartilage"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "BION-M1"
+    ],
+    "assays": [
+      "proteoglycan staining",
+      "mRNA expression analysis",
+      "collagen II staining",
+      "histological scoring",
+      "electron microscopy analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "proteoglycan levels",
+      "effect": "degradation",
+      "magnitude": "reduced proteoglycan staining"
+    },
+    {
+      "target": "collagen II levels",
+      "effect": "no significant change",
+      "magnitude": null
+    },
+    {
+      "target": "osteophytes",
+      "effect": "formation",
+      "magnitude": null
+    },
+    {
+      "target": "gene expression",
+      "effect": "changes",
+      "magnitude": "upregulated and downregulated genes"
+    }
+  ]
+}

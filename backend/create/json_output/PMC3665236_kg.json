@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC3665236",
+    "title": "Multi-analyte biochip (MAB) based on all-solid-state ion-selective electrodes (ASSISE) for physiological research",
+    "year": "2013",
+    "journal": "Journal of Visualized Experiments"
+  },
+  "authors": [
+    "Wan W Amani Wan Salim",
+    "Michael A Zeitchek",
+    "Andrew C Hermann",
+    "Antonio J Ricco",
+    "Ming Tan",
+    "Florian Selch",
+    "Erich Fleming",
+    "Brad M Bebout",
+    "Mamoun M Bader",
+    "Aeraj ul Haque",
+    "D Marshall Porterfield"
+  ],
+  "subjects": {
+    "species": [
+      "Chlorella vulgaris"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "lab-on-a-chip",
+      "microfluidic flow-cell chamber"
+    ],
+    "assays": [
+      "Cyclic voltammetry (CV)",
+      "galvanostatic deposition",
+      "electropolymerization",
+      "spin-coating",
+      "electrochemical techniques"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "PEDOT/PSS",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "pH",
+      "effect": "near-Nernstian slope response after almost one month storage in algal medium",
+      "magnitude": "near-Nernstian slope"
+    },
+    {
+      "target": "CO32-",
+      "effect": "potentiometric profile similar to that of a conventional ion-selective electrode",
+      "magnitude": null
+    },
+    {
+      "target": "Ca2+",
+      "effect": "log-linear range 0.01 mM to 1 mM",
+      "magnitude": "log-linear range"
+    }
+  ]
+}

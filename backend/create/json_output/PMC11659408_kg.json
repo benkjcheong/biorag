@@ -1,0 +1,74 @@
+{
+  "publication": {
+    "pmc_id": "PMC11659408",
+    "title": "Sex-specific cardiovascular adaptations to simulated microgravity in Sprague-Dawley rats",
+    "year": "2024",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Elsangeedy E",
+    "Yamaleyeva DN",
+    "Edenhoffer NP",
+    "Deak A",
+    "Soloshenko A",
+    "Ray J",
+    "Sun X",
+    "Shaltout OH",
+    "Cruz-Diaz N",
+    "Westwood B",
+    "Kim-Shapiro D",
+    "Diz I",
+    "Soker S",
+    "Pulgar VM",
+    "Ronca A",
+    "Willey JS",
+    "Yamaleyeva LM"
+  ],
+  "subjects": {
+    "species": [
+      "Sprague Dawley (SD) rats"
+    ],
+    "tissues": [
+      "aorta"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading (HLU)"
+    ],
+    "assays": [
+      "pulse wave velocity (PWV)",
+      "GPER agonist G1",
+      "8-hydroxy-2\u2019-deoxyguanosine"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading (HLU)",
+      "dose": null,
+      "duration": "14 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "pulse wave velocity (PWV)",
+      "effect": "increased",
+      "magnitude": "greater in females after HLU compared to control females"
+    },
+    {
+      "target": "G protein-coupled estrogen receptor (GPER)",
+      "effect": "lowered",
+      "magnitude": "in female rats exposed to HLU"
+    },
+    {
+      "target": "oxidative stress markers",
+      "effect": "increased",
+      "magnitude": null
+    },
+    {
+      "target": "diastolic dysfunction",
+      "effect": "present in females after HLU",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC7414185",
+    "title": "Tonoplast-localized Ca2+ pumps regulate Ca2+ signals during pattern-triggered immunity in Arabidopsis thaliana",
+    "year": "2020",
+    "journal": "Proceedings of the National Academy of Sciences U.S.A."
+  },
+  "authors": [
+    "Richard Hilleary",
+    "Julio Paez-Valencia",
+    "Cullen Vens",
+    "Masatsugu Toyota",
+    "Michael Palmgren",
+    "Simon Gilroy"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "tonoplast"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "plasma membrane",
+      "tonoplast"
+    ],
+    "assays": [
+      "Ca2+ influx measurement",
+      "immune response phenotype analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Ca2+ influx",
+      "effect": "increased amplitude",
+      "magnitude": "higher than wild-type plants"
+    },
+    {
+      "target": "immune response phenotype",
+      "effect": "suppressed",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "publication": {
+    "pmc_id": "PMC6547757",
+    "title": "Characterization of mouse ocular response to a 35-day spaceflight mission: Evidence of blood-retinal barrier disruption and ocular adaptations",
+    "year": "2019",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Xiao W Mao",
+    "Nina C Nishiyama",
+    "Stephanie D Byrum",
+    "Seta Stanbouly",
+    "Tamako Jones",
+    "Alyson Drew",
+    "Vijayalakshmi Sridharan",
+    "Marjan Boerma",
+    "Alan J Tackett",
+    "David Zawieja",
+    "Jeffrey S Willey",
+    "Michael Delp",
+    "Michael J Pecaut"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "retina",
+      "blood-retinal barrier",
+      "ocular tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Kennedy Space Center (KSC)"
+    ],
+    "assays": [
+      "immunohistochemical analysis",
+      "proteomic analysis",
+      "repeated intraocular pressure (IOP) measurements"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "35 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "apoptosis in retina and retinal vascular endothelial cells",
+      "effect": "increased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "blood-retinal barrier (BRB) integrity",
+      "effect": "disturbed",
+      "magnitude": "evidence of disruption"
+    },
+    {
+      "target": "AQP-4 expression",
+      "effect": "increased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "PECAM-1 expression",
+      "effect": "increased",
+      "magnitude": "significant"
+    },
+    {
+      "target": "ZO-1 expression",
+      "effect": "decreased",
+      "magnitude": "significant"
+    }
+  ]
+}

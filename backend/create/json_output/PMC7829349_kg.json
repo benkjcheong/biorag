@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC7829349",
+    "title": "Genomic and Functional Characterization of Enterococcus faecalis Isolates Recovered From the International Space Station and Their Potential for Pathogenicity",
+    "year": "2021",
+    "journal": "Front. Microbiol."
+  },
+  "authors": [
+    "Bryan, Noelle C.",
+    "Lebreton, Francois",
+    "Gilmore, Michael",
+    "Ruvkun, Gary",
+    "Zuber, Maria T.",
+    "Carr, Christopher E."
+  ],
+  "subjects": {
+    "species": [
+      "Enterococcus faecalis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "Genomic analysis",
+      "Antibiotic resistance testing",
+      "Desiccation tolerance assay",
+      "Pathogenicity evaluation in C. elegans"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Genomic characterization",
+      "effect": "Identification of core and unique genes, antibiotic resistance genes, phage, plasmid content, and virulence traits.",
+      "magnitude": "No significant differences were observed between pathogenic and commensal isolates."
+    }
+  ]
+}

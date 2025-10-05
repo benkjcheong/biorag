@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC11403809",
+    "title": "Celebrating 30 years of access to NASA Space Life Sciences data",
+    "year": "2024",
+    "journal": "Gigascience"
+  },
+  "authors": [
+    "Lauren M Sanders",
+    "Danielle K Lopez",
+    "Alan E Wood",
+    "Ryan T Scott",
+    "Samrawit G Gebre",
+    "Amanda M Saravia-Butler",
+    "Sylvain V Costes"
+  ],
+  "subjects": {
+    "species": [
+      "human",
+      "plant"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "ALSDA",
+      "GeneLab"
+    ],
+    "assays": [
+      "data collection",
+      "biospecimen storage"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "data",
+      "effect": "increased knowledge",
+      "magnitude": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC4398884",
+    "title": "Effects of skeletal unloading on the vasomotor properties of the rat femur principal nutrient artery",
+    "year": "2015",
+    "journal": "Journal of Applied Physiology"
+  },
+  "authors": [
+    "Prisby, Rhonda D.",
+    "Behnke, Bradley J.",
+    "Allen, Matthew R.",
+    "Delp, Michael D."
+  ],
+  "subjects": {
+    "species": [
+      "Rattus norvegicus"
+    ],
+    "tissues": [
+      "femur",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro",
+      "isolated artery"
+    ],
+    "assays": [
+      "vasoconstriction",
+      "vasodilation",
+      "norepinephrine",
+      "phenylephrine",
+      "clonidine",
+      "KCl",
+      "endothelin-1",
+      "arginine vasopressin",
+      "myogenic responsiveness",
+      "acetylcholine",
+      "bradykinin",
+      "flow-mediated dilation (FMD)",
+      "sodium nitroprusside (SNP)",
+      "adenosine"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading",
+      "dose": "2 weeks",
+      "duration": "2 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "vasomotor properties of the femoral PNA",
+      "effect": "attenuated vasodilation",
+      "magnitude": "reduced FMD and acetylcholine-induced vasodilation"
+    }
+  ]
+}

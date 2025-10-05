@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC5114340",
+    "title": "Genetic and tissue level muscle-bone interactions during unloading and reambulation",
+    "year": "2016",
+    "journal": "Journal of Musculoskeletal and Neuronal Interactions"
+  },
+  "authors": [
+    "Judex, S.",
+    "Zhang, W.",
+    "Donahue, LR.",
+    "Ozcivici, E."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "muscle",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading",
+      "reambulation"
+    ],
+    "assays": [
+      "morphology analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading",
+      "dose": null,
+      "duration": "3 weeks"
+    },
+    {
+      "agent": "reambulation",
+      "dose": null,
+      "duration": "3 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "muscle area",
+      "effect": "loss of muscle mass",
+      "magnitude": "variability across mice"
+    },
+    {
+      "target": "cortical bone",
+      "effect": "loss of cortical bone",
+      "magnitude": "variability across mice"
+    }
+  ]
+}

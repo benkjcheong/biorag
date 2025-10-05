@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166943",
+    "title": "A parallel Human Cell Space Atlas for space life science research",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Rutter, Lindsay A.",
+    "Cope, Henry",
+    "MacKay, Matthew J.",
+    "Herranz, Ra\u00fal",
+    "Das, Saswati",
+    "Ponomarev, Sergey A.",
+    "Costes, Sylvain V.",
+    "Paul, Amber M.",
+    "Barker, Richard",
+    "Taylor, Deanne M.",
+    "Bezdan, Daniela",
+    "Szewczyk, Nathaniel J.",
+    "Muratani, Masafumi",
+    "Giacomello, Stefania",
+    "Mason, Christopher E."
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "Human body"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "High-resolution omics"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "Human Cell Atlas data",
+      "effect": "High-resolution omics on orbit",
+      "magnitude": "Precision spaceflight healthcare"
+    }
+  ]
+}

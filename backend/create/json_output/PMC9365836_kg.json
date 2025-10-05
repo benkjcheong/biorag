@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC9365836",
+    "title": "Characterization of gene expression profiles in the mouse brain after 35 days of spaceflight mission",
+    "year": "2022",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Jacob M Holley",
+    "Seta Stanbouly",
+    "Michael J Pecaut",
+    "Jeffrey S Willey",
+    "Michael Delp",
+    "Xiao Wen Mao"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6"
+    ],
+    "tissues": [
+      "brain"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "NanoStringTM"
+    ],
+    "assays": [
+      "gene expression profiling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "35 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression profiles",
+      "effect": "altered gene expression",
+      "magnitude": "significantly different gene expression levels"
+    }
+  ]
+}

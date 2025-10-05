@@ -1,0 +1,77 @@
+{
+  "publication": {
+    "pmc_id": "PMC8890767",
+    "title": "Safety and Pharmacokinetics of Intranasally Administered Heparin",
+    "year": "2022",
+    "journal": "Pharma Res."
+  },
+  "authors": [
+    "Harris, Hannah M.",
+    "Boyet, Katherine L.",
+    "Liu, Hao",
+    "Dwivedi, Rohini",
+    "Ashpole, Nicole M.",
+    "Tandon, Ritesh",
+    "Bidwell III, Gene L.",
+    "Cheng, Zhi",
+    "Fassero, Lauren A.",
+    "Yu, Christian S.",
+    "Pomin, Vitor H.",
+    "Mitra, Dipanwita",
+    "Harrison, Kerri A.",
+    "Dahl, Eric",
+    "Gurley, Bill J.",
+    "Kotha, Arun Kumar",
+    "Chougule, Mahavir Bhupal",
+    "Sharp, Joshua S."
+  ],
+  "subjects": {
+    "species": [
+      "C57Bl6 mouse",
+      "human subject"
+    ],
+    "tissues": [
+      "nasal cavity",
+      "lung",
+      "intestinal"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo imaging",
+      "blood coagulation measurements"
+    ],
+    "assays": [
+      "activated partial thromboplastin time (aPTT)",
+      "platelet count",
+      "international normalized ratio (INR)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "UFH",
+      "dose": {
+        "amount": "60\u00a0ng to 60\u00a0\u03bcg",
+        "unit": "ng to \u03bcg"
+      },
+      "duration": "14 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "aPTT",
+      "effect": "no significant changes",
+      "magnitude": null
+    },
+    {
+      "target": "INR",
+      "effect": "no significant changes",
+      "magnitude": null
+    },
+    {
+      "target": "platelet count",
+      "effect": "no significant changes",
+      "magnitude": null
+    }
+  ]
+}

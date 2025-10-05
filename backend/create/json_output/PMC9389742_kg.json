@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC9389742",
+    "title": "Modeled microgravity alters apoptotic gene expression and caspase activity in the squid-vibrio symbiosis",
+    "year": "2022",
+    "journal": "BMC Microbiology"
+  },
+  "authors": [
+    "Vroom, Madeline M.",
+    "Troncoso-Garcia, Angel",
+    "Duscher, Alexandrea A.",
+    "Foster, Jamie S."
+  ],
+  "subjects": {
+    "species": [
+      "Euprymna scolopes",
+      "Vibrio fischeri"
+    ],
+    "tissues": [
+      "light organ",
+      "intestinal mucosal barrier"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "modeled microgravity conditions",
+      "gravity controls"
+    ],
+    "assays": [
+      "gene expression analysis",
+      "transcriptome analysis",
+      "caspase activity assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "modeled microgravity conditions",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "apoptosis gene expression",
+      "effect": "increased expression",
+      "magnitude": "higher levels compared to gravity controls"
+    },
+    {
+      "target": "caspase activity",
+      "effect": "increased activity",
+      "magnitude": null
+    }
+  ]
+}

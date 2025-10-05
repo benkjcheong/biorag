@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC8412175",
+    "title": "Human Neural Stem Cells Flown into Space Proliferate and Generate Young Neurons",
+    "year": "2019",
+    "journal": "Appl Sci (Basel)"
+  },
+  "authors": [
+    "Carlos Cepeda",
+    "Laurent Vergnes",
+    "Nicholas Carpo",
+    "Matthew J Schibler",
+    "Laurent A Bentolila",
+    "Fathi Karouia",
+    "Araceli Espinosa-Jeffrey"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "neural stem cells",
+      "neurons"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Airbus-Kiwi 8-well Petri dish"
+    ],
+    "assays": [
+      "BrdU incorporation",
+      "electrophysiology",
+      "energetics assays",
+      "immunocytochemistry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "space environment",
+      "dose": null,
+      "duration": "39.3 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "proliferation of NSCs",
+      "effect": "observed proliferation",
+      "magnitude": "increased cell number"
+    },
+    {
+      "target": "NSC marker expression",
+      "effect": "expression of specific markers",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "oxygen consumption and glycolysis",
+      "effect": "higher levels than ground controls",
+      "magnitude": "increased metabolic activity"
+    },
+    {
+      "target": "neuronal differentiation",
+      "effect": "generation of young neurons",
+      "magnitude": "unknown"
+    }
+  ]
+}

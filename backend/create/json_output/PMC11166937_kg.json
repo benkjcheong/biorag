@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166937",
+    "title": "Single-cell analysis identifies conserved features of immune dysfunction in simulated microgravity and spaceflight",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Wu, Fei",
+    "Du, Huixun",
+    "Overbey, Eliah",
+    "Kim, JangKeun",
+    "Makhijani, Priya",
+    "Martin, Nicolas",
+    "Lerner, Chad A",
+    "Nguyen, Khiem",
+    "Baechle, Jordan",
+    "Valentino, Taylor R",
+    "Fuentealba, Matias",
+    "Bartleson, Juliet M",
+    "Halaweh, Heather",
+    "Winer, Shawn",
+    "Meydan, Cem",
+    "Garrett-Bakelman, Francine",
+    "Sayed, Nazish",
+    "Melov, Simon",
+    "Muratani, Masafumi",
+    "Gerencser, Akos A",
+    "Kasler, Herbert G",
+    "Beheshti, Afshin",
+    "Mason, Christopher E",
+    "Furman, David",
+    "Winer, Daniel A"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "single-cell analysis"
+    ],
+    "assays": [
+      "immune dysfunction"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": "none",
+      "duration": "none"
+    }
+  ],
+  "results": [
+    {
+      "target": "immune dysfunction",
+      "effect": "identified",
+      "magnitude": "conserved features"
+    }
+  ]
+}

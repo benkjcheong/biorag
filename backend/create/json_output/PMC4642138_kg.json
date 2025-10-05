@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC4642138",
+    "title": "Gravitropism and Lateral Root Emergence are Dependent on the Trans-Golgi Network Protein TNO1",
+    "year": "2015",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Roy, Rahul",
+    "Bassham, Diane C"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "TGN"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "tno1 mutant",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "auxin transport",
+      "effect": "delayed lateral root emergence",
+      "magnitude": null
+    },
+    {
+      "target": "lateral root emergence",
+      "effect": "delayed",
+      "magnitude": null
+    },
+    {
+      "target": "gravitropism",
+      "effect": "decreased",
+      "magnitude": null
+    },
+    {
+      "target": "auxin transport",
+      "effect": "reduced",
+      "magnitude": null
+    }
+  ]
+}

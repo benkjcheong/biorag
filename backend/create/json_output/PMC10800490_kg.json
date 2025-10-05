@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC10800490",
+    "title": "Conserved plant transcriptional responses to microgravity from two consecutive spaceflight experiments",
+    "year": "2024",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Land, Eric S.",
+    "Sheppard, James",
+    "Doherty, Colleen J.",
+    "Perera, Imara Y."
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "shoot"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "European Modular Cultivation System (EMCS)",
+      "Biological Research In Canisters (BRICs)"
+    ],
+    "assays": [
+      "RNA-Seq analysis",
+      "microarray analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "upregulation or downregulation of genes",
+      "magnitude": "significant overlap in differentially expressed genes between the two experiments"
+    }
+  ]
+}

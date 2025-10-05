@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC3002170",
+    "title": "Nutritional supplements, COX-2 and IGF-1 expression in men on active surveillance for prostate cancer",
+    "year": "2011",
+    "journal": "Cancer Causes Control"
+  },
+  "authors": [
+    "Chan, June M.",
+    "Weinberg, Vivian",
+    "Magbanua, Mark J.",
+    "Sosa, Eduardo",
+    "Simko, Jeffry",
+    "Shinohara, Katsuto",
+    "Federman, Scot",
+    "Mattie, Mike",
+    "Hughes-Fulford, Millie",
+    "Haqq, Christopher",
+    "Carroll, Peter R."
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "prostate"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "qRT\u2013PCR"
+    ],
+    "assays": [
+      "gene expression profiling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "lycopene",
+      "dose": "30 mg/day",
+      "duration": "3 months"
+    },
+    {
+      "agent": "fish oil",
+      "dose": "3 g/day",
+      "duration": "3 months"
+    },
+    {
+      "agent": "placebo",
+      "dose": null,
+      "duration": "3 months"
+    }
+  ],
+  "results": [
+    {
+      "target": "IGF-1 expression level",
+      "effect": "no significant change from baseline to 3 months",
+      "magnitude": "null"
+    },
+    {
+      "target": "COX-2 expression",
+      "effect": "no significant change from baseline to 3 months",
+      "magnitude": "null"
+    }
+  ]
+}

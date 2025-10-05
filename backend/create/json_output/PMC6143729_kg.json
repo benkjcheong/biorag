@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC6143729",
+    "title": "Characterization of Aspergillus niger isolated from the International Space Station",
+    "year": "2018",
+    "journal": "mSystems"
+  },
+  "authors": [
+    "Romsdahl J",
+    "Blachowicz A",
+    "Chiang AJ",
+    "Singh N",
+    "Stajich JE",
+    "Kalkum M",
+    "Venkateswaran K",
+    "Wang CCC"
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus niger",
+      "A. niger"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "Whole-genome sequencing",
+      "Phylogenetic analysis",
+      "Proteomics"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "growth rate",
+      "effect": "increased",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "pigment distribution",
+      "effect": "altered",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "proteome",
+      "effect": "significant differences",
+      "magnitude": "increased abundance of proteins involved in A. niger starvation response, oxidative stress resistance, cell wall modulation, and nutrient acquisition"
+    }
+  ]
+}

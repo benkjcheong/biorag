@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC7555395",
+    "title": "Simultaneous Exposure of Cultured Human Lymphoblastic Cells to Simulated Microgravity and Radiation Increases Chromosome Aberrations",
+    "year": "2020",
+    "journal": "Life (Basel)"
+  },
+  "authors": [
+    "Sakuya Yamanouchi",
+    "Jordan Rhone",
+    "Jian-Hua Mao",
+    "Keigi Fujiwara",
+    "Premkumar B Saganti",
+    "Akihisa Takahashi",
+    "Megumi Hada"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "lymphoblasts"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "clinostat",
+      "3D clinostat"
+    ],
+    "assays": [
+      "chromosome aberration analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "X-ray or carbon ion",
+      "dose": "not specified",
+      "duration": "0.2 s"
+    }
+  ],
+  "results": [
+    {
+      "target": "chromosome aberration frequency",
+      "effect": "increased",
+      "magnitude": "not specified"
+    }
+  ]
+}

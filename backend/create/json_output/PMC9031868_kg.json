@@ -1,0 +1,41 @@
+{
+  "publication": {
+    "pmc_id": "PMC9031868",
+    "title": "Understanding the Complexities and Changes of the Astronaut Microbiome for Successful Long-Duration Space Missions",
+    "year": "2022",
+    "journal": "Life"
+  },
+  "authors": [
+    "Tesei, Donatella",
+    "Jewczynko, Anna",
+    "Lynch, Anne M.",
+    "Urbaniak, Camilla"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "Gastrointestinal tract",
+      "Skin",
+      "Vagina",
+      "Breast tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "null",
+      "effect": "null",
+      "magnitude": "null"
+    }
+  ]
+}

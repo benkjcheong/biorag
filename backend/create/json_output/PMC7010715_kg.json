@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC7010715",
+    "title": "Brassinosteroids Inhibit Autotropic Root Straightening by Modifying Filamentous-Actin Organization and Dynamics",
+    "year": "2020",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "de Bang, Louise",
+    "Paez-Garcia, Ana",
+    "Cannon, Ashley E.",
+    "Chin, Sabrina",
+    "Kolape, Jaydeep",
+    "Liao, Fuqi",
+    "Sparks, J Alan",
+    "Jiang, Qingzhen",
+    "Blancaflor, Elison B."
+  ],
+  "subjects": {
+    "species": [
+      "Zea mays",
+      "Medicago truncatula"
+    ],
+    "tissues": [
+      "root",
+      "filamentous-actin (F-actin)",
+      "hypocotyl"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "clinostat"
+    ],
+    "assays": [
+      "treatments"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "epi-brassinolide (eBL)",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "latrunculin B (LatB)",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "autotropic root straightening",
+      "effect": "inhibited",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "F-actin organization and dynamics",
+      "effect": "modified",
+      "magnitude": "modest"
+    }
+  ]
+}

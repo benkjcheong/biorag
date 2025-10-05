@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC9502502",
+    "title": "Simulated Micro-, Lunar, and Martian Gravities on Earth\u2014Effects on Escherichia coli Growth, Phenotype, and Sensitivity to Antibiotics",
+    "year": "2022",
+    "journal": "Life"
+  },
+  "authors": [
+    "Lily A Allen",
+    "Amir H Kalani",
+    "Frederico Estante",
+    "Aaron J Rosengren",
+    "Louis Stodieck",
+    "David Klaus",
+    "Luis Zea"
+  ],
+  "subjects": {
+    "species": [
+      "Escherichia coli"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "clinostat",
+      "inclined clinostats"
+    ],
+    "assays": [
+      "growth dynamics",
+      "phenotypic changes",
+      "sensitivity to antibiotics (MIC)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "growth dynamics",
+      "effect": "increased growth under simulated micro- and lunar gravities for some strains",
+      "magnitude": null
+    },
+    {
+      "target": "phenotypic changes",
+      "effect": "cell diameter and length and aggregation",
+      "magnitude": null
+    },
+    {
+      "target": "sensitivity to antibiotics (MIC)",
+      "effect": "higher concentrations of antibiotics needed under simulated lunar gravity with respect to simulated micro- and Martian gravities",
+      "magnitude": null
+    }
+  ]
+}

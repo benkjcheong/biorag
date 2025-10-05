@@ -1,0 +1,106 @@
+{
+  "publication": {
+    "pmc_id": "PMC5045078",
+    "title": "Changes in the distribution and function of leukocytes after whole-body iron ion irradiation",
+    "year": "2016",
+    "journal": "J Radiat Res"
+  },
+  "authors": [
+    "Daila S Gridley",
+    "Michael J Pecaut"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6",
+      "mouse"
+    ],
+    "tissues": [
+      "thymus",
+      "spleen",
+      "liver",
+      "lung",
+      "blood",
+      "bone marrow"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Alternating Gradient Synchrotron (AGS)"
+    ],
+    "assays": [
+      "white blood cell count",
+      "major leukocyte types",
+      "red blood cell count",
+      "hemoglobin",
+      "hematocrit",
+      "CD8+ T cytotoxic (Tc) cell count and percentage",
+      "CD4:CD8 ratio",
+      "spontaneous blastogenesis",
+      "mitogen-induced blastogenesis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "56Fe26+ irradiation",
+      "dose": "1, 2 and 3 Gy",
+      "duration": "single fraction"
+    },
+    {
+      "agent": "0 Gy control",
+      "dose": "no irradiation",
+      "duration": "single fraction"
+    }
+  ],
+  "results": [
+    {
+      "target": "leukocyte distribution and function",
+      "effect": "abnormalities",
+      "magnitude": "significant changes"
+    },
+    {
+      "target": "white blood cell count",
+      "effect": "no effect",
+      "magnitude": "no significant change"
+    },
+    {
+      "target": "major leukocyte types",
+      "effect": "abnormalities",
+      "magnitude": "significant changes"
+    },
+    {
+      "target": "red blood cell count",
+      "effect": "decrease",
+      "magnitude": "significant decrease"
+    },
+    {
+      "target": "hemoglobin",
+      "effect": "decrease",
+      "magnitude": "significant decrease"
+    },
+    {
+      "target": "hematocrit",
+      "effect": "decrease",
+      "magnitude": "significant decrease"
+    },
+    {
+      "target": "CD8+ T cytotoxic (Tc) cell count and percentage",
+      "effect": "decrease",
+      "magnitude": "significant decrease"
+    },
+    {
+      "target": "CD4:CD8 ratio",
+      "effect": "increase",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "spontaneous blastogenesis",
+      "effect": "increase",
+      "magnitude": "significant increase"
+    },
+    {
+      "target": "mitogen-induced blastogenesis",
+      "effect": "increase",
+      "magnitude": "significant increase"
+    }
+  ]
+}

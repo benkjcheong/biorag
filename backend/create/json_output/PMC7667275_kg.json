@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC7667275",
+    "title": "Neutrophil-to-Lymphocyte Ratio: A Biomarker to Monitor the Immune Status of Astronauts",
+    "year": "2020",
+    "journal": "Frontiers in Immunology"
+  },
+  "authors": [
+    "Paul, Amber M",
+    "Mhatre, Siddhita D",
+    "Cekanaviciute, Egle",
+    "Schreurs, Ann-Sofie",
+    "Tahimic, Candice G T",
+    "Globus, Ruth K",
+    "Anand, Sulekha",
+    "Crucian, Brian E",
+    "Bhattacharya, Sharmila"
+  ],
+  "subjects": {
+    "species": [
+      "human",
+      "rodent"
+    ],
+    "tissues": [
+      "blood",
+      "lymphocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "high-aspect rotating wall vessels (HARV-RWV)",
+      "hindlimb unloaded (HU)"
+    ],
+    "assays": [
+      "NLR measurement",
+      "immunophenotyping"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "NLR",
+      "effect": "elevated",
+      "magnitude": "comparable to spaceflight exposed samples"
+    }
+  ]
+}

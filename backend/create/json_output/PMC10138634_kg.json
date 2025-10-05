@@ -1,0 +1,63 @@
+{
+  "publication": {
+    "pmc_id": "PMC10138634",
+    "title": "Evidence of Spaceflight-Induced Adverse Effects on Photoreceptors and Retinal Function in the Mouse Eye",
+    "year": "2023",
+    "journal": "International Journal of Molecular Sciences"
+  },
+  "authors": [
+    "Xiaowen Mao",
+    "Seta Stanbouly",
+    "Jacob Holley",
+    "Michael Pecaut",
+    "James Crapo"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6"
+    ],
+    "tissues": [
+      "retina"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Earth"
+    ],
+    "assays": [
+      "intraocular pressure (IOP) measurement",
+      "electroretinogram (ERG)",
+      "immunofluorescence evaluation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "MnTnBuOE-2-PyP5+",
+      "dose": "not specified",
+      "duration": "weekly injection"
+    },
+    {
+      "agent": "saline",
+      "dose": "not specified",
+      "duration": "weekly injection"
+    }
+  ],
+  "results": [
+    {
+      "target": "IOP",
+      "effect": "increased",
+      "magnitude": null
+    },
+    {
+      "target": "ERG",
+      "effect": "decreased",
+      "magnitude": "significant decrease in a- and b-wave amplitudes"
+    },
+    {
+      "target": "immunofluorescence evaluation",
+      "effect": "increased oxidative stress and apoptotic cell death",
+      "magnitude": null
+    }
+  ]
+}

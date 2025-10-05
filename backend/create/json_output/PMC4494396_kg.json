@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC4494396",
+    "title": "Nature of Pre-Earthquake Phenomena and their Effects on Living Organisms",
+    "year": "2013",
+    "journal": "Animals"
+  },
+  "authors": [
+    "Friedemann Freund",
+    "Viktor Stolc"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "animal behavior",
+      "effect": "unusual behavior",
+      "magnitude": "observed changes in stress hormone levels"
+    },
+    {
+      "target": "air ionization",
+      "effect": "positive airborne ions",
+      "magnitude": "ion concentration"
+    },
+    {
+      "target": "water oxidation",
+      "effect": "hydrogen peroxide formation",
+      "magnitude": "concentration of hydrogen peroxide"
+    }
+  ]
+}

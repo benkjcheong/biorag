@@ -1,0 +1,45 @@
+{
+  "publication": {
+    "pmc_id": "PMC10813126",
+    "title": "Metabolomic Profiling of the Secretome from Human Neural Stem Cells Flown into Space",
+    "year": "2023",
+    "journal": "Bioengineering (Basel)"
+  },
+  "authors": [
+    "Biancotti, Juan Carlos",
+    "Espinosa-Jeffrey, Araceli"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "neural stem cells"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Type IV cell culture chamber",
+      "Automated Type IV chamber"
+    ],
+    "assays": [
+      "BrdU incorporation",
+      "secretome analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "3 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "secretome",
+      "effect": "increased glycolysis and activation of catabolism",
+      "magnitude": "altered metabolic profiles"
+    }
+  ]
+}

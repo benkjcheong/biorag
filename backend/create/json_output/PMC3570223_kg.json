@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC3570223",
+    "title": "Evaluation of in vitro macrophage differentiation during space flight",
+    "year": "2012",
+    "journal": "Advances in Space Research"
+  },
+  "authors": [
+    "M Teresa Ortega",
+    "Nanyan Lu",
+    "Stephen K Chapes"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6 mouse"
+    ],
+    "tissues": [
+      "bone marrow"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro",
+      "flow cytometry",
+      "RNA preservation",
+      "gene microarray"
+    ],
+    "assays": [
+      "differentiation",
+      "cell proliferation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "recombinant macrophage colony stimulating factor (rM-CSF)",
+      "dose": "not specified",
+      "duration": "14 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "number of macrophages developed",
+      "effect": "significant differences",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "expression of CD11b, CD31, F4/80, Mac2, Ly6C and c-Fos",
+      "effect": "significant changes",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "c-Fms expression",
+      "effect": "no changes",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "gene expression",
+      "effect": "increased proliferation by bone marrow macrophages",
+      "magnitude": "not specified"
+    }
+  ]
+}

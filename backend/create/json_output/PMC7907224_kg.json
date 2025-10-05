@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC7907224",
+    "title": "Effects of spaceflight on cancellous and cortical bone in proximal femur in growing rats",
+    "year": "2021",
+    "journal": "Bone Research"
+  },
+  "authors": [
+    "Gamboa, Amanda",
+    "Branscum, Adam J.",
+    "Olson, Dawn A.",
+    "Sattgast, Lara H.",
+    "Iwaniec, Urszula T.",
+    "Turner, Russell T."
+  ],
+  "subjects": {
+    "species": [
+      "Sprague Dawley",
+      "Fisher 344",
+      "male"
+    ],
+    "tissues": [
+      "cancellous bone",
+      "cortical bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "STS-41",
+      "STS-57",
+      "STS-62"
+    ],
+    "assays": [
+      "x-ray microtomography/microcomputed tomography"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "10 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "cancellous bone volume fraction",
+      "effect": "osteopenia",
+      "magnitude": "lower than baseline"
+    },
+    {
+      "target": "cancellous bone volume fraction",
+      "effect": "net bone loss",
+      "magnitude": "lower than baseline"
+    }
+  ]
+}

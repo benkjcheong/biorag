@@ -1,0 +1,38 @@
+{
+  "publication": {
+    "pmc_id": "PMC4187166",
+    "title": "Host-Microbe Interactions in Microgravity: Assessment and Implications",
+    "year": "2014",
+    "journal": "Life (Basel)"
+  },
+  "authors": [
+    "Jamie S Foster",
+    "Raymond M Wheeler",
+    "Regine Pamphile"
+  ],
+  "subjects": {
+    "species": [
+      "plants",
+      "animals"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "publication": {
+    "pmc_id": "PMC4161659",
+    "title": "Morbid Obesity Attenuates the Skeletal Abnormalities Associated with Leptin Deficiency in Mice",
+    "year": "2014",
+    "journal": "Journal of Endocrinology"
+  },
+  "authors": [
+    "Russell T Turner",
+    "Kenneth A Philbrick",
+    "Carmen P Wong",
+    "Dawn A Olson",
+    "Adam J Branscum",
+    "Urszula T Iwaniec"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "thermoneutral temperature (32\u00b0C)",
+      "pair-feeding"
+    ],
+    "assays": [
+      "microcomputed tomography",
+      "dual energy absorptiometry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "ob/ob",
+      "dose": null,
+      "duration": "12 weeks"
+    },
+    {
+      "agent": "pair-fed ob/ob",
+      "dose": null,
+      "duration": "12 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "femur length",
+      "effect": "lower",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "bone mineral content (BMC)",
+      "effect": "lower",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "bone mineral density",
+      "effect": "lower",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "midshaft femur cortical thickness",
+      "effect": "lower",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "cancellous bone volume fraction",
+      "effect": "higher",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "bone formation and resorption indices",
+      "effect": "lower",
+      "magnitude": "not specified"
+    }
+  ]
+}

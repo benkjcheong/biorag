@@ -1,0 +1,68 @@
+{
+  "publication": {
+    "pmc_id": "PMC3509447",
+    "title": "Hypergravity disruption of homeorhetic adaptations to lactation in rat dams",
+    "year": "2012",
+    "journal": "Biology Open"
+  },
+  "authors": [
+    "Theresa Casey",
+    "Elzbieta I Zakrzewska",
+    "Rhonda L Maple",
+    "Laura Lintault",
+    "Charles E Wade",
+    "Lisa A Baer",
+    "April E Ronca",
+    "Karen Plaut"
+  ],
+  "subjects": {
+    "species": [
+      "rat"
+    ],
+    "tissues": [
+      "mammary",
+      "liver",
+      "adipose"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo"
+    ],
+    "assays": [
+      "plasma hormone analysis",
+      "glucose oxidation to CO2",
+      "lipid incorporation",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hypergravity",
+      "dose": "2-g",
+      "duration": "throughout pregnancy and lactation"
+    }
+  ],
+  "results": [
+    {
+      "target": "body mass",
+      "effect": "reduced",
+      "magnitude": "significant"
+    },
+    {
+      "target": "pup mortality",
+      "effect": "increased",
+      "magnitude": "greater rate"
+    },
+    {
+      "target": "PRL, corticosterone, and insulin levels",
+      "effect": "altered",
+      "magnitude": "significant changes"
+    },
+    {
+      "target": "gene expression",
+      "effect": "altered",
+      "magnitude": "changes in lipid metabolism genes"
+    }
+  ]
+}

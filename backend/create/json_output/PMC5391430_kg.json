@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC5391430",
+    "title": "Draft Genome Sequences of Several Fungal Strains Selected for Exposure to Microgravity at the International Space Station",
+    "year": "2017",
+    "journal": "Genome Announcements"
+  },
+  "authors": [
+    "Singh, Nitin K.",
+    "Blachowicz, Adriana",
+    "Romsdal, Jillian",
+    "Wang, Clay",
+    "Torok, Tamas",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus niger",
+      "Aspergillus terreus",
+      "Aureobasidium pullulans",
+      "Beauveria bassiana",
+      "Cladosporium cladosporioides",
+      "Cladosporium sphaerospermum",
+      "Fusarium solani",
+      "Trichoderma virens"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina HiSeq2500 platform",
+      "MaSuRCA genome assembler"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "microgravity exposure",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequences",
+      "effect": "obtained",
+      "magnitude": "draft genome sequences"
+    }
+  ]
+}

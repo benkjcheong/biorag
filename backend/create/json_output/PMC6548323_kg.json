@@ -1,0 +1,70 @@
+{
+  "publication": {
+    "pmc_id": "PMC6548323",
+    "title": "Maintenance of Near Normal Bone Mass and Architecture in Lethally Irradiated Female Mice following Adoptive Transfer with as few as 750 Purified Hematopoietic Stem Cells",
+    "year": "2019",
+    "journal": "Radiat Res"
+  },
+  "authors": [
+    "Richard T Deyhle Jr",
+    "Carmen P Wong",
+    "Stephen A Martin",
+    "Melissa Q McDougall",
+    "Dawn A Olson",
+    "Adam J Branscum",
+    "Scott A Menn",
+    "Urszula T Iwaniec",
+    "David M Hamby",
+    "Russell T Turner"
+  ],
+  "subjects": {
+    "species": [
+      "WBB6F1",
+      "C57Bl/6",
+      "KitW/W-v"
+    ],
+    "tissues": [
+      "bone marrow",
+      "skeletal"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo analysis",
+      "in vitro differentiation assays"
+    ],
+    "assays": [
+      "engraftment",
+      "differentiation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "gamma-irradiation",
+      "dose": "9 Gy",
+      "duration": "unknown"
+    },
+    {
+      "agent": "purified HSCs",
+      "dose": "3,000 cells",
+      "duration": "unknown"
+    },
+    {
+      "agent": "purified HSCs",
+      "dose": "750 cells",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "bone marrow reconstitution",
+      "effect": "successful engraftment",
+      "magnitude": "donor-derived cell presence"
+    },
+    {
+      "target": "osteopenia",
+      "effect": "minimal osteopenia observed in Kitw/wv mice after 2 \u00d7 5 Gy irradiation",
+      "magnitude": "negligible osteopenia after 5 Gy irradiation"
+    }
+  ]
+}

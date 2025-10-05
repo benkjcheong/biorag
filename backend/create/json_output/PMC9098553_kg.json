@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC9098553",
+    "title": "Plants grown in Apollo lunar regolith present stress-associated transcriptomes that inform prospects for lunar exploration",
+    "year": "2022",
+    "journal": "Communications Biology"
+  },
+  "authors": [
+    "Anna-Lisa Paul",
+    "Stephen M Elardo",
+    "Robert Ferl"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "lunar regolith"
+    ],
+    "assays": [
+      "seed germination",
+      "growth analysis",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "stress-associated transcriptomes",
+      "magnitude": "differential expression"
+    }
+  ]
+}

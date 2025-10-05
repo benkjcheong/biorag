@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC8005752",
+    "title": "Methylobacterium ajmalii sp. nov., Isolated From the International Space Station",
+    "year": "2021",
+    "journal": "Frontiers in Microbiology"
+  },
+  "authors": [
+    "Bijlani, Swati",
+    "Singh, Nitin K",
+    "Eedara, V V Ramprasad",
+    "Podile, Appa Rao",
+    "Mason, Christopher E",
+    "Wang, Clay C C",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Methylobacterium ajmalii",
+      "Methylorubrum rhodesianum",
+      "M. indicum",
+      "M. aquaticum",
+      "M. terrae"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "culture media"
+    ],
+    "assays": [
+      "16S rRNA gene sequencing",
+      "multi-locus sequence analysis (MLSA)",
+      "ANI analysis",
+      "dDDH analysis",
+      "phenotypic characterization"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "16S rRNA gene sequence similarity",
+      "effect": "Novel species identification",
+      "magnitude": "ANI values < 93%"
+    },
+    {
+      "target": "gyrB gene sequence similarity",
+      "effect": "Novel species identification",
+      "magnitude": "dDDH values < 46.4%"
+    },
+    {
+      "target": "growth conditions",
+      "effect": "Optimal growth at temperatures from 25 to 30\u00b0C, pH 6.0 to 8.0, and NaCl 0 to 1%",
+      "magnitude": null
+    }
+  ]
+}

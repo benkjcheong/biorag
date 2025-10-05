@@ -1,0 +1,37 @@
+{
+  "publication": {
+    "pmc_id": "PMC11831363",
+    "title": "The Evolution of Temperature and Desiccation-Related Protein Families in Tardigrada Reveals a Complex Acquisition of Extremotolerance",
+    "year": "2025",
+    "journal": "Genome Biology and Evolution"
+  },
+  "authors": [
+    "James F Fleming",
+    "Davide Pisani",
+    "Kazuharu Arakawa"
+  ],
+  "subjects": {
+    "species": [
+      "Tardigrada"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "",
+      "dose": "",
+      "duration": ""
+    }
+  ],
+  "results": [
+    {
+      "target": "Figure\u00a07",
+      "effect": "caption correction",
+      "magnitude": ""
+    }
+  ]
+}

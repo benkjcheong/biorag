@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC5460236",
+    "title": "From the bench to exploration medicine: NASA life sciences translational research for human exploration and habitation missions",
+    "year": "2017",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Alwood, Joshua S.",
+    "Ronca, April E.",
+    "Mains, Richard C.",
+    "Shelhamer, Mark J.",
+    "Smith, Jeffrey D.",
+    "Goodwin, Thomas J."
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "ISS",
+      "Earth-based research facilities"
+    ],
+    "assays": [
+      "preclinical studies",
+      "countermeasure development"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None specified",
+      "dose": "None specified",
+      "duration": "None specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "None specified",
+      "effect": "None specified",
+      "magnitude": "None specified"
+    }
+  ]
+}

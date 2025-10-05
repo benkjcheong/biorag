@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC10027818",
+    "title": "Meta-analysis of the space flight and microgravity response of the Arabidopsis plant transcriptome",
+    "year": "2023",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Richard Barker",
+    "Colin P S Kruse",
+    "Christina Johnson",
+    "Amanda Saravia-Butler",
+    "Homer Fogle",
+    "Hyun-Seok Chang",
+    "Ralph M\u00f8ller Trane",
+    "Noah Kinscherf",
+    "Alicia Villacampa",
+    "Ar\u00e1nzazu Manzano",
+    "Ra\u00fal Herranz",
+    "Laurence B Davin",
+    "Norman G Lewis",
+    "Imara Perera",
+    "Chris Wolverton",
+    "Parul Gupta",
+    "Pankaj Jaiswal",
+    "Sigrid S Reinsch",
+    "Sarah Wyatt",
+    "Simon Gilroy"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "microarray",
+      "RNA-seq"
+    ],
+    "assays": [
+      "differential expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "differential expression",
+      "magnitude": "significant changes in gene expression"
+    }
+  ]
+}

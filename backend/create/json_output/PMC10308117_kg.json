@@ -1,0 +1,62 @@
+{
+  "publication": {
+    "pmc_id": "PMC10308117",
+    "title": "Cohnella hashimotonis sp. nov., isolated from the International Space Station",
+    "year": "2023",
+    "journal": "Frontiers in Microbiology"
+  },
+  "authors": [
+    "Simpson, A. C.",
+    "Eedara, V. V.",
+    "Singh, N. K.",
+    "Damle, N.",
+    "Parker, C. W.",
+    "Karouia, F.",
+    "Mason, C. E.",
+    "Venkateswaran, K."
+  ],
+  "subjects": {
+    "species": [
+      "Cohnella hashimotonis",
+      "C. rhizosphaerae",
+      "C. ginsengisoli",
+      "C. nanjingensis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "blood agar",
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "16S rRNA sequence analysis",
+      "whole-genome sequencing (WGS)",
+      "pangenomic analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "16S rRNA sequence analysis",
+      "effect": "Identified as a novel species of Cohnella",
+      "magnitude": "Novel species designation"
+    },
+    {
+      "target": "whole-genome sequencing (WGS)",
+      "effect": "Generated whole-genome sequences for the type strains of C. rhizosphaerae and C. ginsengisoli",
+      "magnitude": "Genomic data generated"
+    },
+    {
+      "target": "pangenomic analysis",
+      "effect": "Revealed a shared set of 332 gene clusters among F6_2S_P_1T, C. rhizosphaerae, and C. ginsengisoli, forming a distinct clade",
+      "magnitude": "Clade formation identified"
+    }
+  ]
+}

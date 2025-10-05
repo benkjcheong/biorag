@@ -1,0 +1,73 @@
+{
+  "publication": {
+    "pmc_id": "PMC11929063",
+    "title": "Preclinical development of TAK-754, a high-performance AAV8-based vector expressing coagulation factor VIII",
+    "year": "2025",
+    "journal": "Mol Ther Methods Clin Dev"
+  },
+  "authors": [
+    "Lengler Johannes",
+    "Weiller Markus",
+    "Horling Franziska",
+    "Mayrhofer Josef",
+    "Schuster Maria",
+    "Falkner Falko G",
+    "Gil-Farina Irene",
+    "Klugmann Matthias",
+    "Scheiflinger Friedrich",
+    "Hoellriegl Werner",
+    "Rottensteiner Hanspeter"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus",
+      "C57BL/6J"
+    ],
+    "tissues": [
+      "liver"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "immunological tolerance assay",
+      "hemostatic efficacy assay",
+      "biodistribution assessment",
+      "toxicity assessment"
+    ],
+    "assays": [
+      "plasma FVIII activity assay",
+      "blood loss assay",
+      "FVIII expression assay",
+      "vector DNA quantification"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "TAK-754",
+      "dose": "1.0\u00a0\u00d7\u00a01012 - 5.0\u00a0\u00d7\u00a01013 CP/kg",
+      "duration": "single administration"
+    }
+  ],
+  "results": [
+    {
+      "target": "plasma FVIII activity",
+      "effect": "increase",
+      "magnitude": "dose-dependent"
+    },
+    {
+      "target": "blood loss",
+      "effect": "decrease",
+      "magnitude": "dose-dependent"
+    },
+    {
+      "target": "FVIII expression",
+      "effect": "long-term and stable",
+      "magnitude": "high levels"
+    },
+    {
+      "target": "vector DNA in other tissues",
+      "effect": "low occurrence",
+      "magnitude": "minimal"
+    }
+  ]
+}

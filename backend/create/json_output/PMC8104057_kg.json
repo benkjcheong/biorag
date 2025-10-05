@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC8104057",
+    "title": "Draft genome sequences of Aspergillus and Penicillium species isolated from the International Space Station and crew resupply vehicle capsule",
+    "year": "2021",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Blachowicz A",
+    "Singh NK",
+    "Wood JM",
+    "Debieu M",
+    "O'Hara NB",
+    "Mason CE",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus",
+      "Penicillium"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Illumina NovaSeq 6000 S4 flow cell",
+      "FastQC"
+    ],
+    "assays": [
+      "DNA extraction with ZymoBIOMICS DNA MagBead kit",
+      "Shotgun library preparation using Illumina Nextera Flex protocol"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "assembled genomes",
+      "effect": "draft genome sequences generated",
+      "magnitude": "N50 values and genome size"
+    }
+  ]
+}

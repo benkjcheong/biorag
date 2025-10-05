@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166646",
+    "title": "Liquid biopsies reveal mitochondrial dysregulation and tissue-enriched RNA species in astronauts during spaceflight",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Husna, Nailil",
+    "Aiba, Tatsuya",
+    "Fujita, Shin-Ichiro",
+    "Saito, Yoshika",
+    "Shiba, Dai",
+    "Kudo, Takashi",
+    "Takahashi, Satoru",
+    "Furukawa, Satoshi",
+    "Muratani, Masafumi"
+  ],
+  "subjects": {
+    "species": [
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "Mitochondria",
+      "Plasma"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Next-generation sequencing (NGS)",
+      "Nanopore sequencing"
+    ],
+    "assays": [
+      "RNA sequencing",
+      "ELISA"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "120 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "Plasma cell-free RNA (cfRNA)",
+      "effect": "Mitochondrial dysregulation",
+      "magnitude": "Increased mitochondrial DNA and RNA levels"
+    },
+    {
+      "target": "CD36-associated extracellular vesicles (EVs)",
+      "effect": "Release of mitochondrial components into plasma",
+      "magnitude": "Increased abundance of CD36-marked EVs"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC8953707",
+    "title": "Detection of Target Genes for Drug Repurposing to Treat Skeletal Muscle Atrophy in Mice Flown in Spaceflight",
+    "year": "2022",
+    "journal": "Genes (Basel)"
+  },
+  "authors": [
+    "Vidya Manian",
+    "Jairo Orozco-Sandoval",
+    "Victor Diaz-Martinez",
+    "Heeralal Janwa",
+    "Carlos Agrinsoni"
+  ],
+  "subjects": {
+    "species": [
+      "mice"
+    ],
+    "tissues": [
+      "extensor digitorum longus muscle tissue",
+      "gastrocnemius",
+      "quadriceps",
+      "soleus muscles"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "GeneLab"
+    ],
+    "assays": [
+      "Transcriptomic datasets"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "muscle atrophy gene regulators",
+      "effect": "identified",
+      "magnitude": null
+    },
+    {
+      "target": "disease drug networks",
+      "effect": "constructed",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "publication": {
+    "pmc_id": "PMC3422896",
+    "title": "14-3-3 phosphoprotein interaction networks \u2013 does isoform diversity present functional interaction specification?",
+    "year": "2012",
+    "journal": "Front Plant Sci"
+  },
+  "authors": [
+    "Paul, Anna-Lisa",
+    "Denison, Fiona C",
+    "Schultz, Eric R",
+    "Zupanska, Agata K",
+    "Ferl, Robert J"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": null,
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

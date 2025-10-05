@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC12031868",
+    "title": "Disturbances in human position sense during alterations in gravity: a parabolic flight experiment",
+    "year": "2025",
+    "journal": "Exp Brain Res."
+  },
+  "authors": [
+    "Weber, Bernhard M.",
+    "Panzirsch, Michael P.",
+    "Pleintinger, Benedikt",
+    "Stelzer, Martin",
+    "Arand, Stella",
+    "Sch\u00f6ttler, Christian",
+    "Bayer, Ralph",
+    "Hagengruber, Annette",
+    "Proske, Uwe"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "muscle",
+      "joint"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "parabolic flight"
+    ],
+    "assays": [
+      "two-arm matching",
+      "one-arm pointing",
+      "one-arm repositioning"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "gravity",
+      "dose": "hypergravity (1.8G)",
+      "duration": "flight duration"
+    },
+    {
+      "agent": "gravity",
+      "dose": "microgravity (0G)",
+      "duration": "flight duration"
+    }
+  ],
+  "results": [
+    {
+      "target": "position sense errors",
+      "effect": "increased error magnitude",
+      "magnitude": "greater than 1 degree"
+    },
+    {
+      "target": "position sense errors",
+      "effect": "significant changes in position sense",
+      "magnitude": "greater than 1 degree"
+    }
+  ]
+}

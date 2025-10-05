@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC11386075",
+    "title": "Predicting how varying moisture conditions impact the microbiome of dust collected from the International Space Station",
+    "year": "2024",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Nastasi, Nicholas",
+    "Bope, Ashleigh",
+    "Meyer, Marit E.",
+    "Horack, John M.",
+    "Dannemiller, Karen C."
+  ],
+  "subjects": {
+    "species": [
+      "fungi"
+    ],
+    "tissues": [
+      "dust"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station",
+      "Dust collection"
+    ],
+    "assays": [
+      "Time-of-wetness framework",
+      "Fungal growth modeling",
+      "Alpha diversity analysis",
+      "Beta diversity analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "varying moisture conditions (relative humidity)",
+      "dose": "85% and 100%",
+      "duration": "2 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "Fungal growth",
+      "effect": "Rapid microbial growth and composition changes",
+      "magnitude": "Significant increase in fungal concentration"
+    },
+    {
+      "target": "Bacterial communities",
+      "effect": "Changes in bacterial diversity",
+      "magnitude": "Decreased alpha and beta diversity with increasing moisture"
+    }
+  ]
+}

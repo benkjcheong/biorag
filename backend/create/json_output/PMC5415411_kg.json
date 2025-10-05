@@ -1,0 +1,40 @@
+{
+  "publication": {
+    "pmc_id": "PMC5415411",
+    "title": "Maintaining the Factory: The Roles of the Unfolded Protein Response in Cellular Homeostasis in Plants",
+    "year": "2017",
+    "journal": "Plant Journal"
+  },
+  "authors": [
+    "Evan Angelos",
+    "Cristina Ruberti",
+    "Sang-Jin Kim",
+    "Federica Brandizzi"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "endoplasmic reticulum"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "None",
+      "effect": "None",
+      "magnitude": "None"
+    }
+  ]
+}

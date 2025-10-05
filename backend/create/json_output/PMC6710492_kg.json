@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC6710492",
+    "title": "Turbidity matters: differential effect of a 2,4-D formulation on the structure of microbial communities from clear and turbid freshwater systems",
+    "year": "2019",
+    "journal": "Heliyon"
+  },
+  "authors": [
+    "Lozano VL",
+    "Miranda CE",
+    "Vinocur AL",
+    "Gonz\u00e1lez C",
+    "Unrein F",
+    "Wolansky MJ",
+    "Pizarro HN",
+    "Unrein F",
+    "Wolansky MJ",
+    "Pizarro HN"
+  ],
+  "subjects": {
+    "species": [
+      "Ochromonas sp.",
+      "Chlamydomonas sp."
+    ],
+    "tissues": [
+      "micro + nano phytoplankton",
+      "cytometric populations",
+      "phycocyanin-rich picocyanobacteria (PC-Pcy)",
+      "phycoerythrin-rich picocyanobacteria (PE-Pcy)",
+      "eukaryotic phototrophs (PEuk)",
+      "bacterioplankton (HB)",
+      "heterotrophic bacteria"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microcosms",
+      "single 7-day exposure"
+    ],
+    "assays": [
+      "impact of AsiMax 50\u00ae on microbial communities",
+      "species richness and abundance",
+      "total abundance of living (live) micro + nano phytoplankton"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "AsiMax 50\u00ae",
+      "dose": "0 (control = no addition), 0.02, 0.2, 2, 20, 200 and 2,000 mg a.i.L\u22121",
+      "duration": "7 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "total abundance of living (live) micro + nano phytoplankton",
+      "effect": "increase at lower concentrations",
+      "magnitude": "humped-shaped curve"
+    },
+    {
+      "target": "species richness and abundance",
+      "effect": "decrease in both clear and organic turbid systems at higher herbicide concentrations",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC6137544",
+    "title": "Spaceflight impairs antigen-specific tolerance induction in vivo and increases inflammatory cytokines",
+    "year": "2015",
+    "journal": "Faseb Journal"
+  },
+  "authors": [
+    "Tammy T Chang",
+    "Sandra M Spurlock",
+    "Tara Lynne T Candelario",
+    "S Marlene Grenon",
+    "Millie Hughes-Fulford"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "T cell"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vivo",
+      "adoptive transfer"
+    ],
+    "assays": [
+      "OT-II T cell stimulation",
+      "cytokine measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "OVA peptide 323-339 plus monophosphoryl lipid A",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "OT-II T cell numbers",
+      "effect": "increased in flight mice compared to ground mice",
+      "magnitude": "2-fold increase"
+    },
+    {
+      "target": "proinflammatory cytokines",
+      "effect": "increased in flight mice compared to ground mice",
+      "magnitude": "significant increase"
+    }
+  ]
+}

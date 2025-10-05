@@ -1,0 +1,71 @@
+{
+  "publication": {
+    "pmc_id": "PMC10797188",
+    "title": "Spaceflight enhances immune gene expression and tumor development in fruit flies",
+    "year": "2023",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Chou, Jennifer",
+    "Ramroop, Johnny R",
+    "Saravia-Butler, Amanda M",
+    "Wey, Brian",
+    "Lera, Matthew P",
+    "Torres, Medaya L",
+    "Heavner, Mary Ellen",
+    "Iyer, Janani",
+    "Mhatre, Siddhita D",
+    "Bhattacharya, Sharmila",
+    "Govind, Shubha",
+    "Sgovind, Shubha"
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster",
+      "parasitoid wasps"
+    ],
+    "tissues": [
+      "blood cells",
+      "hemocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "SpaceX-14"
+    ],
+    "assays": [
+      "tumor burden measurement",
+      "inflammation gene activation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "34 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "inflammation-related genes",
+      "effect": "activation",
+      "magnitude": null
+    },
+    {
+      "target": "tumor burden",
+      "effect": "increase",
+      "magnitude": null
+    },
+    {
+      "target": "fly survival",
+      "effect": "no significant impact",
+      "magnitude": null
+    },
+    {
+      "target": "parasitoid virulence genes",
+      "effect": "no significant impact",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC5201052",
+    "title": "Draft Genome Sequences of Biosafety Level 2 Opportunistic Pathogens Isolated from the Environmental Surfaces of the International Space Station",
+    "year": "2016",
+    "journal": "Genome Announcement"
+  },
+  "authors": [
+    "Aleksandra Checinska Sielaff",
+    "Nitin K Singh",
+    "Jonathan E Allen",
+    "James Thissen",
+    "Crystal Jaing",
+    "Kasthuri Venkateswaran"
+  ],
+  "subjects": {
+    "species": [
+      "Acinetobacter pittii",
+      "Enterobacter sp.",
+      "Pantoea conspicua",
+      "Staphylococcus aureus",
+      "Staphylococcus haemolyticus",
+      "Staphylococcus hominis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Illumina NextSeq instrument",
+      "A5 assembly pipeline version 20150522"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

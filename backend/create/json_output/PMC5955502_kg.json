@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC5955502",
+    "title": "Cytoskeleton structure and total methylation of mouse cardiac and lung tissue during space flight",
+    "year": "2018",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Ogneva, Irina V.",
+    "Loktev, Sergey S.",
+    "Sychev, Vladimir N.",
+    "Mofrad, Mohammad R K"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "cardiac",
+      "lung"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Spaceflight",
+      "Earth-based control"
+    ],
+    "assays": [
+      "Protein expression analysis",
+      "mRNA expression analysis",
+      "DNA methylation analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "cytoskeletal protein content",
+      "effect": "No changes observed",
+      "magnitude": null
+    },
+    {
+      "target": "mRNA expression levels of associated genes",
+      "effect": "Significant changes observed",
+      "magnitude": null
+    }
+  ]
+}

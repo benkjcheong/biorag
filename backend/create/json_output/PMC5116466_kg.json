@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC5116466",
+    "title": "High atomic weight, high-energy radiation (HZE) induces transcriptional responses shared with conventional stresses in addition to a core \u201cDSB\u201d response specific to clastogenic treatments",
+    "year": "2016",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Missirian, Victor",
+    "Conklin, Phillip A",
+    "Culligan, Kevin M",
+    "Huefner, Neil D",
+    "Britt, Anne B"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "microarray"
+    ],
+    "assays": [
+      "transcriptional analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "HZE",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "transcriptional responses",
+      "effect": "shared with conventional stresses",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "double-strand breaks",
+      "effect": "specific to clastogenic treatments",
+      "magnitude": "not specified"
+    }
+  ]
+}

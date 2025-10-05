@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC3508904",
+    "title": "The dynamics of protein-protein interactions between domains of MscL at the cytoplasmic-lipid interface",
+    "year": "2012",
+    "journal": "Channels"
+  },
+  "authors": [
+    "Iscla, Irene",
+    "Wray, Robin",
+    "Blount, Paul"
+  ],
+  "subjects": {
+    "species": [
+      "E. coli"
+    ],
+    "tissues": [
+      "cytoplasmic membrane"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "patch clamp"
+    ],
+    "assays": [
+      "disulfide trapping assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "copper-phenanthroline",
+      "dose": "1.5 \u00b5M",
+      "duration": "incubation"
+    }
+  ],
+  "results": [
+    {
+      "target": "protein-protein interactions between S1 and TM2ci domains",
+      "effect": "efficient interaction detected",
+      "magnitude": "monomeric protein formation"
+    }
+  ]
+}

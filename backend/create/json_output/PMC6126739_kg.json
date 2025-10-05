@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC6126739",
+    "title": "Phosphoinositides control the localization of HOPS subunit VPS41, which together with VPS33 mediates vacuole fusion in plants",
+    "year": "2018",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "authors": [
+    "Brillada Carla",
+    "Zheng Jiameng",
+    "Kr\u00fcger Falco",
+    "Rovira-Diaz Eliezer",
+    "Askani Jana Christin",
+    "Schumacher Karin",
+    "Rojas-Pierce Marcela"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "vacuole"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "liposomes"
+    ],
+    "assays": [
+      "immunofluorescence",
+      "protein localization",
+      "genetic knockdown"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "wortmannin",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "VPS41 localization",
+      "effect": "accumulation in late endosomes and tonoplast",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "HOPS recruitment to liposomes",
+      "effect": "inhibited by PtdIns(3)P and PtdIns(3,5)P2",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "vacuole fusion",
+      "effect": "fragmented phenotype in VPS41 knockdown",
+      "magnitude": "dramatic"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC4096993",
+    "title": "Mimicking the host and its microenvironment in vitro for studying mucosal infections by Pseudomonas aeruginosa",
+    "year": "2014",
+    "journal": "Pathogens & Disease"
+  },
+  "authors": [
+    "Crabb\u00e9, A.",
+    "Ledesma, M.A.",
+    "Nickerson, C.A."
+  ],
+  "subjects": {
+    "species": [
+      "Pseudomonas aeruginosa"
+    ],
+    "tissues": [
+      "mucosal tissues",
+      "lung"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "cell culture",
+      "tissue culture"
+    ],
+    "assays": [
+      "adhesion",
+      "inflammation",
+      "virulence"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "P. aeruginosa phenotype",
+      "effect": "disease progression",
+      "magnitude": "null"
+    }
+  ]
+}

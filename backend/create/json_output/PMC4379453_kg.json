@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC4379453",
+    "title": "Endothelium-dependent vasodilation of the femoral principal nutrient artery is impaired in long-term diabetes in obese Zucker diabetic fatty rats",
+    "year": "2015",
+    "journal": "Journal of Endocrinology"
+  },
+  "authors": [
+    "Stabley, John N.",
+    "Prisby, Rhonda D.",
+    "Behnke, Bradley J.",
+    "Delp, Michael D."
+  ],
+  "subjects": {
+    "species": [
+      "Zucker diabetic fatty rat"
+    ],
+    "tissues": [
+      "bone",
+      "marrow"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "femoral PNA",
+      "radiolabeled microspheres"
+    ],
+    "assays": [
+      "acetylcholine-induced vasodilation",
+      "sodium nitroprusside-induced vasodilation",
+      "KCl-induced vasoconstriction",
+      "norepinephrine-induced vasoconstriction",
+      "myogenic vasoconstriction"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "diet",
+      "dose": "Purina 5008 diet",
+      "duration": "Longitudinal study"
+    }
+  ],
+  "results": [
+    {
+      "target": "endothelium-dependent vasodilation of the femoral PNA",
+      "effect": "reduced",
+      "magnitude": "lower"
+    },
+    {
+      "target": "bone and marrow blood flow",
+      "effect": "lower",
+      "magnitude": "decreased"
+    }
+  ]
+}

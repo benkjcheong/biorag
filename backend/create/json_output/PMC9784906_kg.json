@@ -1,0 +1,80 @@
+{
+  "publication": {
+    "pmc_id": "PMC9784906",
+    "title": "Mannose Receptor Deficiency Impacts Bone Marrow and Circulating Immune Cells during High Fat Diet Induced Obesity",
+    "year": "2022",
+    "journal": "Metabolites"
+  },
+  "authors": [
+    "Nour, Jasmine",
+    "Moregola, Annalisa",
+    "Svecla, Monika",
+    "Da Dalt, Lorenzo",
+    "Bellini, Rossella",
+    "Neyrolles, Olivier",
+    "Fadini, Gian Paolo",
+    "Rombouts, Yoann",
+    "Albiero, Mattia",
+    "Bonacina, Fabrizia",
+    "Norata, Giuseppe Danilo",
+    "Park, Julien H",
+    "Marquardt, Thorsten"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone marrow",
+      "sinusoidal endothelium",
+      "immune cells",
+      "liver",
+      "adipose tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "flow cytometry",
+      "histological analysis",
+      "proteomic analysis"
+    ],
+    "assays": [
+      "glucose tolerance test",
+      "insulin tolerance test"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "high-fat diet (HFD)",
+      "dose": "45% Kcal/diet",
+      "duration": "20 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "medullary hematopoiesis",
+      "effect": "impaired",
+      "magnitude": "reduced myeloid progenitors and mature cells"
+    },
+    {
+      "target": "circulating immune cell subsets",
+      "effect": "altered",
+      "magnitude": "decreased neutrophils, pro-inflammatory monocytes"
+    },
+    {
+      "target": "macrophage infiltration",
+      "effect": "reduced",
+      "magnitude": "visceral adipose tissue and liver"
+    },
+    {
+      "target": "liver steatosis",
+      "effect": "decreased",
+      "magnitude": "untargeted proteomic analysis"
+    },
+    {
+      "target": "glucose and insulin tolerance",
+      "effect": "improved",
+      "magnitude": "reduced weight gain during HFD feeding"
+    }
+  ]
+}

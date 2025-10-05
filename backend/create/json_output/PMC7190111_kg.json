@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC7190111",
+    "title": "Crewmember microbiome may influence microbial composition of ISS habitable surfaces",
+    "year": "2020",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Aram Avila-Herrera",
+    "James Thissen",
+    "Camilla Urbaniak",
+    "Nicholas A Be",
+    "David J Smith",
+    "Fathi Karouia",
+    "Satish Mehta",
+    "Kasthuri Venkateswaran",
+    "Crystal Jaing",
+    "Sakamuri V Reddy"
+  ],
+  "subjects": {
+    "species": [
+      "Microorganism"
+    ],
+    "tissues": [
+      "Skin",
+      "Nose",
+      "Ear",
+      "Saliva",
+      "Mouth"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Shotgun metagenomic sequencing"
+    ],
+    "assays": [
+      "Ordination of sample to sample distances"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "microbial composition",
+      "effect": "similarity between crewmember's skin and ISS surface samples",
+      "magnitude": "alpha diversity in saliva samples decreases during flight and rebounds after returning to Earth"
+    }
+  ]
+}

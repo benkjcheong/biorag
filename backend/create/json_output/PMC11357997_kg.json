@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC11357997",
+    "title": "Molecular and physiological changes in the SpaceX Inspiration4 civilian crew",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  "authors": [
+    "Christopher W Jones",
+    "Eliah G Overbey",
+    "Jerome Lacombe",
+    "Adrian J Ecker",
+    "Cem Meydan",
+    "Krista Ryon",
+    "Braden Tierney",
+    "Namita Damle",
+    "Matthew MacKay",
+    "Evan E Afshin",
+    "Jonathan Foox",
+    "Jiwoon Park",
+    "Theodore M Nelson",
+    "Mir Suhail Mohamad",
+    "Syed Gufran Ahmad Byhaqui",
+    "Burhan Aslam",
+    "Ummer Akbar Tali",
+    "Liaqun Nisa",
+    "Priya V Menon",
+    "Chintan O Patel",
+    "Sharib A Khan",
+    "Doug J Ebert",
+    "Aaron Everson",
+    "Michael C Schubert",
+    "Nabila N Ali",
+    "Mallika S Sarma",
+    "JangKeun Kim",
+    "Nadia Houerbi",
+    "Kirill Grigorev",
+    "J Sebastian Garcia Medina",
+    "Alexander J Summers",
+    "Jian Gu",
+    "John A Altin"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "unknown",
+      "dose": "unknown",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "unknown",
+      "effect": "unknown",
+      "magnitude": "unknown"
+    }
+  ]
+}

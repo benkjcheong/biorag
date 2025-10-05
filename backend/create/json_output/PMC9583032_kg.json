@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC9583032",
+    "title": "Widespread generation and analysis of omics data have revolutionized molecular medicine on Earth, yet its power to yield new mechanistic insights and improve occupational health during spaceflight is still to be fully realized in humans. Nevertheless, rapid technological advancements and ever-regular spaceflight programs mean that longitudinal, standardized, and cost-effective collection of human space omics data are firmly within reach.",
+    "year": "2022",
+    "journal": "PLOS ONE"
+  },
+  "authors": [
+    "Cope, Henry",
+    "Willis, Craig RG",
+    "MacKay, Matthew J",
+    "Rutter, Lindsay A",
+    "Toh, Li Shean",
+    "Williams, Philip M",
+    "Herranz, Ra\u00fal",
+    "Borg, Joseph",
+    "Bezdan, Daniela",
+    "Giacomello, Stefania",
+    "Muratani, Masafumi",
+    "Mason, Christopher E",
+    "Etheridge, Timothy",
+    "Szewczyk, Nathaniel J",
+    "Murray, Nathaniel J"
+  ],
+  "subjects": {
+    "species": [
+      "Human"
+    ],
+    "tissues": [
+      "Blood",
+      "Muscle",
+      "Brain"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Next-Generation Sequencing (NGS)"
+    ],
+    "assays": [
+      "Genomic sequencing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Human genome",
+      "effect": "Spaceflight-induced changes in gene expression",
+      "magnitude": "Significant alterations in gene expression profiles"
+    }
+  ]
+}

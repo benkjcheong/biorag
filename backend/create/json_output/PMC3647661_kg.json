@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC3647661",
+    "title": "Lack of Norovirus Replication and Histo-Blood Group Antigen Expression in 3-Dimensional Intestinal Epithelial Cells",
+    "year": "2013",
+    "journal": "Emerg Infect Dis"
+  },
+  "authors": [
+    "Melissa M Herbst-Kralovetz",
+    "Andrea L Radtke",
+    "Margarita K Lay",
+    "Robert L Atmar",
+    "Charles J Arntzen",
+    "Mary K Estes",
+    "Cheryl A Nickerson"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "intestinal epithelial cells"
+    ]
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "Norovirus replication",
+      "effect": "Lack of replication",
+      "magnitude": "None"
+    },
+    {
+      "target": "Histo-blood group antigen expression",
+      "effect": "No effect",
+      "magnitude": "None"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC7787258",
+    "title": "Prolonged Exposure to Microgravity Reduces Cardiac Contractility and Initiates Remodeling in Drosophila",
+    "year": "2020",
+    "journal": "Cell Reports"
+  },
+  "authors": [
+    "Stanley Walls",
+    "Karen Ocorr",
+    "Rolf Bodmer",
+    "S.D.",
+    "R. Birse",
+    "L.E.",
+    "S.K.",
+    "S.P.",
+    "E.T.",
+    "B.T.",
+    "G.V.",
+    "R.Z."
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster"
+    ],
+    "tissues": [
+      "heart"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "RNA sequencing (RNA-seq)",
+      "staining",
+      "imaging",
+      "analysis of cardiac parameters"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "microgravity",
+      "dose": null,
+      "duration": "prolonged"
+    }
+  ],
+  "results": [
+    {
+      "target": "cardiac contractility",
+      "effect": "reduced",
+      "magnitude": "less contractile"
+    },
+    {
+      "target": "heart structure and function",
+      "effect": "remodeling",
+      "magnitude": "changes in genes and proteins"
+    },
+    {
+      "target": "proteasomal gene expression",
+      "effect": "increased",
+      "magnitude": "higher than wild-type expression"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "publication": {
+    "pmc_id": "PMC11888247",
+    "title": "Candida albicans Colonization Modulates Murine Ethanol Consumption and Behavioral Responses Through Elevation of Serum Prostaglandin E2 and Impact on the Striatal Dopamine System",
+    "year": "2025",
+    "journal": "bioRxiv"
+  },
+  "authors": [
+    "Andrew W Day",
+    "Jeyra Perez-Lozada",
+    "Alyssa DiLeo",
+    "Katrina Blandino",
+    "Jamie Maguire",
+    "Carol A Kumamoto"
+  ],
+  "subjects": {
+    "species": [
+      "Candida albicans"
+    ],
+    "tissues": [
+      "GI tract"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "oral inoculation"
+    ],
+    "assays": [
+      "ethanol consumption",
+      "ethanol preference",
+      "serum PGE2 levels",
+      "conditioned taste aversion",
+      "motor coordination impairment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "C. albicans",
+      "dose": "oral inoculation",
+      "duration": "N/A"
+    },
+    {
+      "agent": "dimethyl-PGE2",
+      "dose": "injection",
+      "duration": "N/A"
+    },
+    {
+      "agent": "PGE2 receptor antagonist",
+      "dose": "injection",
+      "duration": "N/A"
+    }
+  ],
+  "results": [
+    {
+      "target": "ethanol consumption",
+      "effect": "reduced",
+      "magnitude": "N/A"
+    },
+    {
+      "target": "serum PGE2 levels",
+      "effect": "elevated",
+      "magnitude": "N/A"
+    },
+    {
+      "target": "ethanol preference",
+      "effect": "reduced",
+      "magnitude": "N/A"
+    },
+    {
+      "target": "dopamine receptor expression",
+      "effect": "altered",
+      "magnitude": "N/A"
+    },
+    {
+      "target": "conditioned taste aversion",
+      "effect": "faster acquisition",
+      "magnitude": "N/A"
+    },
+    {
+      "target": "motor coordination impairment",
+      "effect": "altered",
+      "magnitude": "N/A"
+    }
+  ]
+}

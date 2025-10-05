@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC6597714",
+    "title": "Effect of Leptin Deficiency on the Skeletal Response to Hindlimb Unloading in Adult Male Mice",
+    "year": "2019",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Jessica A Keune",
+    "Adam J Branscum",
+    "Carmen P Wong",
+    "Urszula T Iwaniec",
+    "Russell T Turner"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone",
+      "fat"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading (HU)"
+    ],
+    "assays": [
+      "microcomputed tomography (\u00b5CT)",
+      "histomorphometric analysis",
+      "dual energy x-ray absorptiometry (DXA)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "leptin deficiency",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "bone mineral content (BMC)",
+      "effect": "lowered",
+      "magnitude": "null"
+    },
+    {
+      "target": "bone mineral density (BMD)",
+      "effect": "lowered",
+      "magnitude": "null"
+    },
+    {
+      "target": "cancellous bone volume fraction (BV/TV)",
+      "effect": "lowered",
+      "magnitude": "null"
+    }
+  ]
+}

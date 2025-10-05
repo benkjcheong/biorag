@@ -1,0 +1,39 @@
+{
+  "publication": {
+    "pmc_id": "PMC6590338",
+    "title": "Advances in genome mining of secondary metabolites produced by Aspergillus species (2012-2018)",
+    "year": "2019",
+    "journal": "Medchemcomm"
+  },
+  "authors": [
+    "Romdahl, Jillian",
+    "Wang, Clay C.C."
+  ],
+  "subjects": {
+    "species": [
+      "Aspergillus nidulans",
+      "Aspergillus fumigatus",
+      "Aspergillus niger",
+      "Aspergillus terreus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "",
+      "dose": "",
+      "duration": ""
+    }
+  ],
+  "results": [
+    {
+      "target": "",
+      "effect": "",
+      "magnitude": ""
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "publication": {
+    "pmc_id": "PMC11357981",
+    "title": "The Space Omics and Medical Atlas (SOMA) and international astronaut biobank",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  "authors": [
+    "Overbey, Eliah G.",
+    "Kim, JangKeun",
+    "Tierney, Braden T.",
+    "Park, Jiwoon",
+    "Houerbi, Nadia",
+    "Lucaci, Alexander G.",
+    "Garcia Medina, Sebastian",
+    "Damle, Namita",
+    "Najjar, Deena",
+    "Grigorev, Kirill",
+    "Afshin, Evan E.",
+    "Ryon, Krista A.",
+    "Sienkiewicz, Karolina",
+    "Patras, Laura",
+    "Klotz, Remi",
+    "Ortiz, Veronica",
+    "MacKay, Matthew",
+    "Schweickart, Annalise",
+    "Chin, Christopher R.",
+    "Sierra, Maria A.",
+    "Valenzuela, Matias F.",
+    "Dantas, Ezequiel",
+    "Nelson, Theodore M.",
+    "Cekanaviciute, Egle",
+    "Deards, Gabriel",
+    "Foox, Jonathan",
+    "Narayanan, S Anand",
+    "Schmidt, Caleb M.",
+    "Schmidt, Michael A.",
+    "Schmidt, Julian C.",
+    "Mullane, Sean",
+    "Levitte, Steven",
+    "Westover, Craig",
+    "Bhattacharya, Chandrima"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "treatment_agent",
+      "dose": "dose_amount dose_unit",
+      "duration": "duration_amount duration_unit"
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

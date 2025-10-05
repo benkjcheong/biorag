@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC11088941",
+    "title": "3D Oral and Cervical Tissue Models to Study Papillomavirus Host-Pathogen Interactions",
+    "year": "2020",
+    "journal": "Curr Protoc Microbiol"
+  },
+  "authors": [
+    "Jackson Robert",
+    "Maarsingh Jason",
+    "Herbst-Kralovetz Melissa M",
+    "Van Doorslaer Koenraad"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "epithelial tissue",
+      "cervix",
+      "oral"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "dermal equivalent",
+      "rotating wall vessel (RWV) bioreactor"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

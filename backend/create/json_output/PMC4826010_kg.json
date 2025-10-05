@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC4826010",
+    "title": "HLB1 Is a Tetratricopeptide Repeat Domain-Containing Protein That Operates at the Intersection of the Exocytic and Endocytic Pathways at the TGN/EE in Arabidopsis",
+    "year": "2016",
+    "journal": "Plant Cell"
+  },
+  "authors": [
+    "J Alan Sparks",
+    "Taegun Kwon",
+    "Luciana Renna",
+    "Fuqi Liao",
+    "Federica Brandizzi",
+    "Elison B Blancaflor"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "TGN/EE"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "transmission electron tomography",
+      "live-cell spinning-disc confocal microscopy",
+      "live-cell super-resolution microscopy"
+    ],
+    "assays": [
+      "latrunculin B hypersensitivity assay",
+      "coimmunoprecipitation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "latrunculin B",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "root developmental defects",
+      "effect": "hypersensitivity to latrunculin B",
+      "magnitude": "increased sensitivity"
+    },
+    {
+      "target": "TGN/EE function",
+      "effect": "altered trafficking",
+      "magnitude": "not specified"
+    }
+  ]
+}

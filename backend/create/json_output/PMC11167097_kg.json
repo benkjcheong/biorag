@@ -1,0 +1,42 @@
+{
+  "publication": {
+    "pmc_id": "PMC11167097",
+    "title": "The Second Space Age: Omics, Platforms, and Medicine Across Orbits",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  "authors": [
+    "Costes SV",
+    "Gentemann CL",
+    "Platts SH",
+    "Carnell LA"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "OSDR"
+    ],
+    "assays": [
+      "Space biology",
+      "space health",
+      "mission telemetry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "Space biology data",
+      "effect": "Open Science implementation",
+      "magnitude": "Significant advancements in space biology research"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC4110898",
+    "title": "Fifteen Days Microgravity Causes Growth in Calvaria of Mice",
+    "year": "2013",
+    "journal": "Bone"
+  },
+  "authors": [
+    "Bing Zhang",
+    "Esther Cory",
+    "Roshmi Bhattacharya",
+    "Robert Sah",
+    "Alan R Hargens"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6"
+    ],
+    "tissues": [
+      "calvaria"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "STS-131 mission",
+      "ground control"
+    ],
+    "assays": [
+      "micro-computed tomography scanner",
+      "imaging",
+      "measuring bone volume (BV)",
+      "measuring cross-sectional thickness (CsTh)",
+      "measuring tissue mineral density (TMD)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "microgravity",
+      "dose": null,
+      "duration": "15 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "bone volume (BV)",
+      "effect": "increased",
+      "magnitude": "10.48% increase compared to ground control"
+    },
+    {
+      "target": "cross-sectional thickness (CsTh)",
+      "effect": "trend of increase",
+      "magnitude": "0.104 mm"
+    },
+    {
+      "target": "tissue mineral density (TMD)",
+      "effect": "similar",
+      "magnitude": "0.878 g/cc for ground control, 0.893 g/cc for spaceflight"
+    }
+  ]
+}

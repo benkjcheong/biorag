@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC9258157",
+    "title": "Metabolic modeling of the International Space Station microbiome reveals key microbial interactions",
+    "year": "2022",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Kumar, Rachita K.",
+    "Kumar, Nitin",
+    "Balakrishnan, Sanjaay",
+    "Parker, Ceth W.",
+    "Raman, Karthik",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Klebsiella pneumoniae",
+      "Pantoea",
+      "Enterobacteriaceae",
+      "Aspergillus fumigatus",
+      "Penicillium species"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Vacuum filter debris",
+      "HEPA filters",
+      "Environmental surfaces",
+      "Astronaut's microbiome"
+    ],
+    "assays": [
+      "Metagenomic sequencing",
+      "Electron microscopy"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Metabolic interactions",
+      "effect": "Key microbial interactions identified",
+      "magnitude": "Network analysis of microbial communities"
+    },
+    {
+      "target": "Microbial morphology",
+      "effect": "Compromised fungal conidia and biofilm-forming structures observed",
+      "magnitude": "Electron microscopy findings"
+    }
+  ]
+}

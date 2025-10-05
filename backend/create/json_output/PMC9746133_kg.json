@@ -1,0 +1,42 @@
+{
+  "publication": {
+    "pmc_id": "PMC9746133",
+    "title": "Spatial omics technologies",
+    "year": "2022",
+    "journal": "Genome Biology"
+  },
+  "authors": [
+    "Jiwoon Park",
+    "Junbum Kim",
+    "Tyler Lewy",
+    "Charles M Rice",
+    "Olivier Elemento",
+    "Andr\u00e9 F Rendeiro",
+    "Christopher E Mason"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microscopy",
+      "NGS"
+    ],
+    "assays": [
+      "barcoding with reporters",
+      "immunohistochemistry (IHC)",
+      "fluorescent in situ hybridization (FISH)"
+    ]
+  },
+  "treatments": [],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

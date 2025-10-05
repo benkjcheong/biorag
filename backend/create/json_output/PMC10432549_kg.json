@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC10432549",
+    "title": "Biofilm formation of Pseudomonas aeruginosa in spaceflight is minimized on lubricant impregnated surfaces",
+    "year": "2023",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Flores, Pamela",
+    "McBride, Samantha A.",
+    "Galazka, Jonathan M.",
+    "Varanasi, Kripa K.",
+    "Zea, Luis"
+  ],
+  "subjects": {
+    "species": [
+      "Pseudomonas aeruginosa"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "stainless steel 316 (SS316)",
+      "passivated SS316 (pSS316)",
+      "silicon wafer impregnated with silicone oil (LIS)",
+      "cellulose membrane",
+      "silicone",
+      "silicone with microtopography"
+    ],
+    "assays": [
+      "biofilm formation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "biofilm morphology and gene expression",
+      "effect": "less robust biofilms in microgravity",
+      "magnitude": "reduced biofilm formation on LIS compared to SS"
+    }
+  ]
+}

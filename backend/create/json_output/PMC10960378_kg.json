@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC10960378",
+    "title": "Genomic, functional, and metabolic enhancements in multidrug-resistant Enterobacter\u00a0bugandensis facilitating its persistence and succession in the International Space Station",
+    "year": "2024",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Sengupta, Pratyay",
+    "Karthick Muthamilselvi Sivabalan",
+    "Kumar Singh, Nitin",
+    "Raman, Karthik",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Enterobacter bugandensis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "Pangenome analysis",
+      "Metabolic modelling",
+      "Microbial Tracking 1 mission"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Genomic and functional adaptations of E.\u00a0bugandensis in the ISS",
+      "effect": "Increased antibiotic resistance and virulence",
+      "magnitude": "Significant increase in resistance rates and virulence factors"
+    },
+    {
+      "target": "Temporal analysis of E.\u00a0bugandensis distribution across the ISS",
+      "effect": "Persistence, succession, and potential colonization patterns identified",
+      "magnitude": "Clear temporal trends observed in E.\u00a0bugandensis population dynamics"
+    }
+  ]
+}

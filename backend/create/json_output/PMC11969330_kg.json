@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC11969330",
+    "title": "In situ monitoring of barrier function on-chip via automated, non-invasive luminescence sensing",
+    "year": "2025",
+    "journal": "Lab Chip"
+  },
+  "authors": [
+    "Bryan G Schellberg",
+    "Abigail N Koppes",
+    "Ryan A Koppes"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "epithelial",
+      "endothelial"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "fiber optic-based sensing platform",
+      "gut-on-a-chip"
+    ],
+    "assays": [
+      "luminescence sensing",
+      "barrier function monitoring"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null dose_unit",
+      "duration": "null duration_amount duration_unit"
+    }
+  ],
+  "results": [
+    {
+      "target": "paracellular transport",
+      "effect": "tracked in situ for 9 days of culture under perfusion on-chip",
+      "magnitude": "at least 1 \u03bcM resolution"
+    }
+  ]
+}

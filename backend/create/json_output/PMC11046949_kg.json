@@ -1,0 +1,70 @@
+{
+  "publication": {
+    "pmc_id": "PMC11046949",
+    "title": "Antiviral screening of natural, anti-inflammatory compound library against African swine fever virus",
+    "year": "2024",
+    "journal": "Virol J"
+  },
+  "authors": [
+    "Joshua A Jackman",
+    "Astghik Hakobyan",
+    "Rafayela Grigoryan",
+    "Roza Izmailyan",
+    "Charles C Elrod",
+    "Hovakim Zakaryan"
+  ],
+  "subjects": {
+    "species": [
+      "pig",
+      "wild boar"
+    ],
+    "tissues": [
+      "macrophages"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Vero cells",
+      "PAMs"
+    ],
+    "assays": [
+      "virus yield reduction",
+      "virucidal",
+      "cell cytotoxicity",
+      "time-of-addition",
+      "time-of-removal",
+      "virus entry",
+      "viral protein synthesis assays",
+      "enzyme-linked immunosorbent assay (ELISA)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Tetrandrine",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "Berbamine",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "ASFV-induced CPE",
+      "effect": "reduced",
+      "magnitude": "greater than 50%"
+    },
+    {
+      "target": "virus yield reduction",
+      "effect": "high levels of anti-ASFV activity",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "pro-inflammatory cytokine production",
+      "effect": "markedly reduced",
+      "magnitude": "greater than 50%"
+    }
+  ]
+}

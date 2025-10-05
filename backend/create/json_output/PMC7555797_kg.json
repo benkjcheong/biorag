@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC7555797",
+    "title": "Simulated Microgravity Elicits Changes in Nuclear Shape that Depend on the LINC Complex",
+    "year": "2020",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Srujana Neelam",
+    "Brian Richardson",
+    "Richard Barker",
+    "Ceasar Udave",
+    "Simon Gilroy",
+    "Mark J Cameron",
+    "Howard G Levine",
+    "Ye Zhang"
+  ],
+  "subjects": {
+    "species": [
+      "MCF 10A"
+    ],
+    "tissues": [
+      "nucleus"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "3-D clinostat (Gravite)"
+    ],
+    "assays": [
+      "nuclear shape analysis",
+      "gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "LINC complex interference construct",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "nuclear shape",
+      "effect": "altered by simulated microgravity",
+      "magnitude": "dependent on LINC complex integrity"
+    },
+    {
+      "target": "gene expression",
+      "effect": "differential gene expression changes",
+      "magnitude": "LINC-dependent"
+    }
+  ]
+}

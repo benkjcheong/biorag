@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC10628120",
+    "title": "Phylogenomics, phenotypic, and functional traits of five novel (Earth-derived) bacterial species isolated from the International Space Station and their prevalence in metagenomes",
+    "year": "2023",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Anna C Simpson",
+    "Pratyay Sengupta",
+    "Flora Zhang",
+    "Asif Hameed",
+    "Ceth W Parker",
+    "Nitin K Singh",
+    "Georgios Miliotis",
+    "Punchappady D Rekha",
+    "Karthik Raman",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "subjects": {
+    "species": [
+      "Arthrobacter burdickii IIF3SC-B10T",
+      "Leifsonia virtsii F6_8S_P_1AT",
+      "Leifsonia williamsii F6_8S_P_1BT",
+      "Paenibacillus vandeheii F6_3S_P_1CT",
+      "Sporosarcina highlanderae F6_3S_P_2T"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "16S rRNA gene sequencing",
+      "whole genome sequencing",
+      "shotgun metagenomic reads analysis"
+    ],
+    "assays": [
+      "biochemical tests",
+      "fatty acid profiling",
+      "polar lipid analysis",
+      "cell wall composition analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

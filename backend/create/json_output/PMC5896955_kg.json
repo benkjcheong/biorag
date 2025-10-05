@@ -1,0 +1,56 @@
+{
+  "publication": {
+    "pmc_id": "PMC5896955",
+    "title": "Sphingosine 1-phosphate regulates acute mechanonociception",
+    "year": "2018",
+    "journal": "eLife"
+  },
+  "authors": [
+    "Hill, Rose Z.",
+    "Hoffman, Benjamin U.",
+    "Morita, Takeshi",
+    "Campos, Stephanie M.",
+    "Lumpkin, Ellen A.",
+    "Brem, Rachel B.",
+    "Bautista, Diana M.",
+    "Duan, et al."
+  ],
+  "subjects": {
+    "species": [
+      "Mouse"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": [
+      "Behavioral testing",
+      "Pharmacological inhibition",
+      "Genetic ablation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "S1PR3 knockout",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "S1P receptor antagonist",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Mechanical pain response",
+      "effect": "Impaired",
+      "magnitude": "Significant reduction in behavioral responses to noxious mechanical stimuli"
+    },
+    {
+      "target": "Mechanosensitivity of A mechanonociceptors",
+      "effect": "Decreased",
+      "magnitude": "Reduced KCNQ2/3 channel activity"
+    }
+  ]
+}

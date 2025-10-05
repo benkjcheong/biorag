@@ -1,0 +1,63 @@
+{
+  "publication": {
+    "pmc_id": "PMC4902601",
+    "title": "Pectin Methylesterification Impacts the Relationship between Photosynthesis and Plant Growth",
+    "year": "2016",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Sarathi M Weraduwage",
+    "Sang-Jin Kim",
+    "Luciana Renna",
+    "Fransisca C Anozie",
+    "Thomas D Sharkey",
+    "Federica Brandizzi"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "leaf mesophyll"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "genetic manipulation"
+    ],
+    "assays": [
+      "cell wall analysis",
+      "anatomical studies",
+      "growth measurements"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "over-expression of CGR2 (CGR2OX)",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "lacking both CGR-genes 2 and 3 (cgr2/3)",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "leaf area",
+      "effect": "increased expansion",
+      "magnitude": "enhanced intercellular air spaces"
+    },
+    {
+      "target": "leaf mesophyll structure",
+      "effect": "reduced methylesterification",
+      "magnitude": "thin but dense leaf mesophyll"
+    },
+    {
+      "target": "plant growth",
+      "effect": "enhanced in CGR2OX, decreased in cgr2/3",
+      "magnitude": null
+    }
+  ]
+}

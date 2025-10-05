@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC11593819",
+    "title": "Artificial Gravity Attenuates the Transcriptomic Response to Spaceflight in the Optic Nerve and Retina",
+    "year": "2024",
+    "journal": "International Journal of Molecular Sciences"
+  },
+  "authors": [
+    "Isaac Kremsky",
+    "Reyna Pergerson",
+    "Stephen Justinen",
+    "Seta Stanbouly",
+    "Jeffrey Willey",
+    "Satoru Takahashi",
+    "Martha Hotz Vitaterna",
+    "Mary Bouxsein",
+    "Xiaowen Mao",
+    "Tsz Kin Ng"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "optic nerve",
+      "retina"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNA-seq"
+    ],
+    "assays": [
+      "RNA sequencing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "microgravity",
+      "dose": null,
+      "duration": "spaceflight duration"
+    },
+    {
+      "agent": "artificial gravity by centrifugation",
+      "dose": {
+        "0.33 G": "0.33 G",
+        "0.67 G": "0.67 G",
+        "1 G": "1 G"
+      },
+      "duration": "spaceflight duration"
+    }
+  ],
+  "results": [
+    {
+      "target": "transcriptomic changes",
+      "effect": "increased oxidative stress load, inflammation, apoptosis, and lipid metabolic stress",
+      "magnitude": null
+    },
+    {
+      "target": "response to microgravity",
+      "effect": "attenuated transcriptomic response",
+      "magnitude": "dose-dependent attenuation"
+    }
+  ]
+}

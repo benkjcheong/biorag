@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC9856674",
+    "title": "Transcriptomic Signature of the Simulated Microgravity Response in Caenorhabditis elegans and Comparison to Spaceflight Experiments",
+    "year": "2023",
+    "journal": "Cells"
+  },
+  "authors": [
+    "\u00c7elen \u0130rem",
+    "Jayasinghe Aroshan",
+    "Doh Jung H",
+    "Sabanayagam Chandran R"
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "clinostat"
+    ],
+    "assays": [
+      "RNA-seq",
+      "mass spectrometry"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Simulated microgravity",
+      "dose": null,
+      "duration": "4 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "downregulation of sphingolipid signaling pathway",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "transcriptome",
+      "effect": "maintained transcriptomic response after returning to ground conditions for four days, most changes reverted after twelve days",
+      "magnitude": "unknown"
+    }
+  ]
+}

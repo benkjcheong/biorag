@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC5421618",
+    "title": "Room Temperature Housing Results in Premature Cancellous Bone Loss in Growing Female Mice: Implications for the Mouse as a Preclinical Model for Age-Related Bone Loss",
+    "year": "2016",
+    "journal": "Osteoporosis International"
+  },
+  "authors": [
+    "Iwaniec, Urszula T.",
+    "Philbrick, Kenneth A.",
+    "Wong, Carmen P.",
+    "Gordon, Jody L.",
+    "Kahler-Quesada, Arianna M.",
+    "Olson, Dawn A.",
+    "Branscum, Adam J.",
+    "Sargent, Jennifer L.",
+    "DeMambro, Victoria E.",
+    "Rosen, Clifford J.",
+    "Turner, Russell T."
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J",
+      "C3H/HeJ"
+    ],
+    "tissues": [
+      "Cancellous bone",
+      "Cortical bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Room temperature (18\u201323\u00b0C)",
+      "Thermoneutral (temperature range where the basal rate of energy production is at equilibrium with heat loss)"
+    ],
+    "assays": [
+      "Bone mass measurement",
+      "Ucp1 gene expression analysis",
+      "Bone marrow adiposity assessment",
+      "Bone formation rate assessment",
+      "Osteogenic gene expression assessment",
+      "Bone resorption assessment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Housing temperature",
+      "dose": "22\u00b0C or 32\u00b0C",
+      "duration": "Up to 18 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "Cancellous bone loss",
+      "effect": "Premature cancellous bone loss",
+      "magnitude": "62% from the distal femur metaphysis"
+    },
+    {
+      "target": "Bone mass",
+      "effect": "Increased or unchanged",
+      "magnitude": "Not specified"
+    }
+  ]
+}

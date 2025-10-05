@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC7516158",
+    "title": "Draft Genome Sequences of Lactobacillales Isolated from the International Space Station",
+    "year": "2020",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Bharadwaj AR",
+    "Singh NK",
+    "Wood JM",
+    "Debieu M",
+    "O'Hara NB",
+    "Karouia F",
+    "Mason CE",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Enterococcus faecalis",
+      "Enterococcus faecium",
+      "Aerococcus urinaeequi"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Reasoner's 2A (R2A)",
+      "Trypticase soy agar (TSA)"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequences",
+      "effect": "characterization of potentially pathogenic bacteria",
+      "magnitude": "N/A"
+    }
+  ]
+}

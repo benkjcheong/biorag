@@ -1,0 +1,45 @@
+{
+  "publication": {
+    "pmc_id": "PMC7317102",
+    "title": "Draft genome sequences of Tremellomycetes strains isolated from the International Space Station",
+    "year": "2020",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Bijlani S",
+    "Singh NK",
+    "Mason CE",
+    "Wang CCC",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Naganishia adeliensis",
+      "Naganishia albida",
+      "Naganishia sp.",
+      "Papiliotrema laurentii"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "NovaSeq 6000 S4 flow cell",
+      "Illumina Nextera Flex protocol"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "genome sequences",
+      "effect": "assembled",
+      "magnitude": null
+    }
+  ]
+}

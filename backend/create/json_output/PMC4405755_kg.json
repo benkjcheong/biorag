@@ -1,0 +1,75 @@
+{
+  "publication": {
+    "pmc_id": "PMC4405755",
+    "title": "The role of alterations in mitochondrial dynamics and PGC-1\u03b1 over-expression in fast muscle atrophy following hindlimb unloading",
+    "year": "2015",
+    "journal": "J Physiol"
+  },
+  "authors": [
+    "Cannavino, Jessica",
+    "Brocca, Lorenza",
+    "Sandri, Marco",
+    "Grassi, Bruno",
+    "Bottinelli, Roberto",
+    "Pellegrino, Maria Antonietta"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "gastrocnemius"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading model",
+      "mouse model"
+    ],
+    "assays": [
+      "protein degradation analysis",
+      "AMPK pathway activation analysis",
+      "autophagy gene expression analysis",
+      "mitochondrial fusion and fission analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading",
+      "dose": null,
+      "duration": "3 days or 7 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "muscle mass loss",
+      "effect": "atrophy",
+      "magnitude": "significant decrease in muscle mass"
+    },
+    {
+      "target": "pro-fusion protein expression",
+      "effect": "downregulation",
+      "magnitude": "decreased levels of Mfn1, Mfn2 and OPA1"
+    },
+    {
+      "target": "AMPK pathway activation",
+      "effect": "activation",
+      "magnitude": "increased phosphorylation of AMPK"
+    },
+    {
+      "target": "MuRF1 and atrogin1 expression",
+      "effect": "upregulation",
+      "magnitude": "increased mRNA levels"
+    },
+    {
+      "target": "autophagy gene expression",
+      "effect": "activation",
+      "magnitude": "increased expression of autophagy-related genes"
+    },
+    {
+      "target": "PGC-1\u03b1 expression",
+      "effect": "overexpression",
+      "magnitude": "increased PGC-1\u03b1 protein levels"
+    }
+  ]
+}

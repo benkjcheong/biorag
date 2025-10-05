@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC9287483",
+    "title": "Discovering the adaptation mechanisms of plants to the space environment",
+    "year": "2022",
+    "journal": "iScience"
+  },
+  "authors": [
+    "Manzano, A.",
+    "Carnero-Diaz, E.",
+    "Herranz, R.",
+    "Medina, F. J."
+  ],
+  "subjects": {
+    "species": [
+      "plant"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "ground-based microgravity simulators"
+    ],
+    "assays": [
+      "Transcriptomic analyses",
+      "cell culture experiments"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "altered gene expression profiles",
+      "magnitude": "increased/decreased expression of specific genes"
+    }
+  ]
+}

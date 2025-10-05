@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC5677518",
+    "title": "Orchestrating rapid long-distance signaling in plants with Ca2+, ROS and electrical signals",
+    "year": "2017",
+    "journal": "Plant Journal"
+  },
+  "authors": [
+    "Won-Gyu Choi",
+    "Gad Miller",
+    "Ian Wallace",
+    "Jeffrey Harper",
+    "Ron Mittler",
+    "Simon Gilroy"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "symplastic",
+      "apoplastic"
+    ],
+    "assays": [
+      "grafting experiments"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "flowering",
+      "effect": "induced",
+      "magnitude": "increased biomass and seed production"
+    }
+  ]
+}

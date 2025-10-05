@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC5485990",
+    "title": "Transcriptomics studies identify NF-\u03baB as a responsive pathway to ground-based simulated microgravity or true spaceflight conditions.",
+    "year": "2017",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Ye Zhang",
+    "Maria Moreno-Villanueva",
+    "Stephanie Krieger",
+    "Govindarajan T Ramesh",
+    "Honglu Wu",
+    "Srujana Neelam"
+  ],
+  "subjects": {
+    "species": [
+      "human"
+    ],
+    "tissues": [
+      "cell",
+      "muscle",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "rotating wall vessel (RWV)",
+      "random positioning machine (RPM)",
+      "hindlimb unloading (HU)"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "NF-\u03baB pathway",
+      "effect": "activation",
+      "magnitude": "negative impact on health"
+    }
+  ]
+}

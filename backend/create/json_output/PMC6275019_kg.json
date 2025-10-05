@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC6275019",
+    "title": "Synergistic Effects of Weightlessness, Isoproterenol, and Radiation on DNA Damage Response and Cytokine Production in Immune Cells",
+    "year": "2018",
+    "journal": "Int J Mol Sci"
+  },
+  "authors": [
+    "Maria Moreno-Villanueva",
+    "Alan H Feiveson",
+    "Stephanie Krieger",
+    "AnneMarie Kay Brinda",
+    "Gudrun von Scheven",
+    "Alexander B\u00fcrkle",
+    "Brian Crucian",
+    "Honglu Wu"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "immune cells",
+      "lymphocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "rotating-wall vessels (RWVs)",
+      "suspension culture"
+    ],
+    "assays": [
+      "gene expression analysis",
+      "immunological assays",
+      "cytokine production assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "isoproterenol",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "\u03b3-radiation",
+      "dose": "0.8 Gy or 2 Gy",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "\u03b22-adrenergic receptor gene (ADRB2) expression",
+      "effect": "increased",
+      "magnitude": "synergistic effect"
+    },
+    {
+      "target": "DNA strand breaks",
+      "effect": "increased in microgravity",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "cytokine production",
+      "effect": "radiation-induced cytokine production only in microgravity",
+      "magnitude": "not specified"
+    }
+  ]
+}

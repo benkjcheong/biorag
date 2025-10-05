@@ -1,0 +1,55 @@
+{
+  "publication": {
+    "pmc_id": "PMC5771473",
+    "title": "Effects of hypothalamic leptin gene therapy on osteopetrosis in leptin-deficient mice",
+    "year": "2018",
+    "journal": "Journal of Endocrinology"
+  },
+  "authors": [
+    "Philbrick, Kenneth A.",
+    "Martin, Stephen A.",
+    "Colagiovanni, Amy R.",
+    "Branscum, Adam J.",
+    "Turner, Russell T.",
+    "Iwaniec, Urszula T."
+  ],
+  "subjects": {
+    "species": [
+      "ob/ob mice",
+      "wild type (WT) mice"
+    ],
+    "tissues": [
+      "cartilage",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "histology",
+      "biostatistics"
+    ],
+    "assays": [
+      "CTx measurement",
+      "fluorochrome label retention"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hypothalamic recombinant adeno-associated virus (rAAV) gene therapy",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "cartilage in metaphysis and epiphysis",
+      "effect": "reduced",
+      "magnitude": "significant reduction"
+    },
+    {
+      "target": "bone turnover",
+      "effect": "increased",
+      "magnitude": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC3502426",
+    "title": "Aging and Estrogen Status: A Possible Endothelium-Dependent Vascular Coupling Mechanism in Bone Remodeling",
+    "year": "2012",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Prisby, Rhonda D",
+    "Dominguez II, James M",
+    "Muller-Delp, Judy",
+    "Allen, Matthew R",
+    "Delp, Michael D"
+  ],
+  "subjects": {
+    "species": [
+      "Fischer-344 rat"
+    ],
+    "tissues": [
+      "femur",
+      "trabecular bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "in vitro",
+      "microCT"
+    ],
+    "assays": [
+      "ac acetylcholine",
+      "vasodilation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "OVX",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "E2",
+      "dose": "estrogen replacement",
+      "duration": "8 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "PNA endothelium-dependent vasodilation",
+      "effect": "diminished by OVX, restored with estrogen replacement",
+      "magnitude": null
+    },
+    {
+      "target": "trabecular bone volume (BV/TV)",
+      "effect": "similar modifications in BV/TV were observed for PNA endothelium-dependent vasodilation and trabecular bone volume",
+      "magnitude": null
+    }
+  ]
+}

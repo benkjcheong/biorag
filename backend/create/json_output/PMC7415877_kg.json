@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC7415877",
+    "title": "Molecular Muscle Experiment: Hardware and Operational Lessons for Future Astrobiology Space Experiments",
+    "year": "2020",
+    "journal": "Astrobiology"
+  },
+  "authors": [
+    "Pollard, Amelia K.",
+    "Gaffney, Christopher J.",
+    "Deane, Colleen S.",
+    "Balsamo, Michele",
+    "Cooke, Michael",
+    "Ellwood, Rebecca A.",
+    "Hewitt, Jennifer E.",
+    "Mierzwa, Beata E.",
+    "Mariani, Alessandro",
+    "Vanapalli, Siva A.",
+    "Etheridge, Timothy",
+    "Szewczyk, Nathaniel J."
+  ],
+  "subjects": {
+    "species": [
+      "C. elegans"
+    ],
+    "tissues": [
+      "muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)"
+    ],
+    "assays": [
+      "ground-based experiment scientific validation testing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "null",
+      "effect": "null",
+      "magnitude": "null"
+    }
+  ]
+}

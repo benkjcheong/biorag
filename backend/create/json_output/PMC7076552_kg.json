@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC7076552",
+    "title": "Test Of Arabidopsis Space Transcriptome: A Discovery Environment to Explore Multiple Plant Biology Spaceflight Experiments",
+    "year": "2020",
+    "journal": "Front Plant Sci."
+  },
+  "authors": [
+    "Barker Richard",
+    "Lombardino Jonathan",
+    "Rasmussen Kai",
+    "Gilroy Simon"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "modulation of oxidative stress-related responses",
+      "magnitude": "patterns of gene expression"
+    },
+    {
+      "target": "mitochondrial function",
+      "effect": "changes",
+      "magnitude": "shared responses"
+    }
+  ]
+}

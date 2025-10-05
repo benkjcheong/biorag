@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166662",
+    "title": "Collection of biospecimens from the inspiration4 mission establishes the standards for the space omics and medical atlas (SOMA)",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Eliah G Overbey",
+    "Krista Ryon",
+    "JangKeun Kim",
+    "Braden T Tierney",
+    "Remi Klotz",
+    "Veronica Ortiz",
+    "Sean Mullane",
+    "Julian C Schmidt",
+    "Matthew MacKay",
+    "Namita Damle",
+    "Deena Najjar",
+    "Irina Matei",
+    "Laura Patras",
+    "J Sebastian Garcia Medina",
+    "Ashley S Kleinman",
+    "Jeremy Wain Hirschberg",
+    "Jacqueline Proszynski",
+    "S Anand Narayanan",
+    "Caleb M Schmidt",
+    "Evan E Afshin",
+    "Lucinda Innes",
+    "Mateo Mejia Saldarriaga",
+    "Michael A Schmidt",
+    "Richard D Granstein",
+    "Bader Shirah",
+    "Min Yu",
+    "David Lyden",
+    "Jaime Mateus",
+    "Christopher E Mason"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "None",
+      "effect": "None",
+      "magnitude": "None"
+    }
+  ]
+}

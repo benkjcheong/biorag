@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC8875396",
+    "title": "Naganishia tulchinskyi, a novel yeast isolated from the International Space Station",
+    "year": "2022",
+    "journal": "J Fungi"
+  },
+  "authors": [
+    "Bijlani, Swati",
+    "Parker, Ceth",
+    "Singh, Nitin K.",
+    "Sierra, Maria A.",
+    "Foox, Jonathan",
+    "Wang, Clay C. C.",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Naganishia tulchinskyi",
+      "Titan-like cell"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Simulated microgravity"
+    ],
+    "assays": [
+      "Microscopy",
+      "Phylogenetic analyses",
+      "Genomic analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Simulated microgravity and 5% CO2 conditions",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "cell morphology",
+      "effect": "Titan-like cell morphology",
+      "magnitude": "larger cells and thicker cell walls"
+    },
+    {
+      "target": "gene expression",
+      "effect": "upregulation of genes related to cell morphogenesis, microtubule-based response, and UV light response",
+      "magnitude": null
+    }
+  ]
+}

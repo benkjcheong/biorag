@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC5748516",
+    "title": "A novel blue-light phototropic response is revealed in roots of Arabidopsis thaliana in microgravity",
+    "year": "2016",
+    "journal": "Planta"
+  },
+  "authors": [
+    "Joshua P Vandenbrink",
+    "Raul Herranz",
+    "F Javier Medina",
+    "Richard E Edelmann",
+    "John Z Kiss"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "roots"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "European Modular Cultivation System on board the International Space Station",
+      "centrifuges"
+    ],
+    "assays": [
+      "phototropic response measurement",
+      "red-light pretreatment"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "blue light",
+      "dose": "not specified",
+      "duration": "not specified"
+    },
+    {
+      "agent": "red light",
+      "dose": "not specified",
+      "duration": "not specified"
+    }
+  ],
+  "results": [
+    {
+      "target": "root phototropic curvature",
+      "effect": "positive response in microgravity",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "hypocotyl phototropic curvature",
+      "effect": "positive response to red light",
+      "magnitude": "not specified"
+    }
+  ]
+}

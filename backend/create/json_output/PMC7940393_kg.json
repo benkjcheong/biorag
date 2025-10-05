@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC7940393",
+    "title": "Modeled microgravity alters lipopolysaccharide and outer membrane vesicle production of the beneficial symbiont Vibrio fischeri",
+    "year": "2021",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Vroom, Madeline M.",
+    "Rodriguez-Ocasio, Yaneli",
+    "Lynch, Jonathan B.",
+    "Ruby, Edward G.",
+    "Foster, Jamie S."
+  ],
+  "subjects": {
+    "species": [
+      "Euprymna scolopes",
+      "Vibrio fischeri"
+    ],
+    "tissues": [
+      "light organ",
+      "ciliated epithelium"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "high-aspect ratio vessels"
+    ],
+    "assays": [
+      "LPS shedding assay",
+      "OMV production assay",
+      "flagellar motility assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "modeled microgravity",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "LPS shedding",
+      "effect": "increased",
+      "magnitude": "higher rates of shedding under modeled microgravity conditions"
+    },
+    {
+      "target": "OMV production",
+      "effect": "increased",
+      "magnitude": "higher levels of OMV production under modeled microgravity conditions"
+    },
+    {
+      "target": "flagellar motility",
+      "effect": "decreased",
+      "magnitude": "lower rates of flagellar rotation in mutants"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC3329368",
+    "title": "Release of extracellular purines from plant roots and effect on ion fluxes",
+    "year": "2011",
+    "journal": "Plant Signal Behavior"
+  },
+  "authors": [
+    "Adeeba Dark",
+    "Vadim Demidchik",
+    "Si\u00e2n L Richards",
+    "Sergey Shabala",
+    "Julia M Davies"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root epidermis"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "A. thaliana root epidermis protoplasts",
+      "luminescence assay"
+    ],
+    "assays": [
+      "ATP content determination",
+      "calcium measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "abscisic acid",
+      "dose": "1 \u03bcM",
+      "duration": "unknown"
+    },
+    {
+      "agent": "L-glutamate",
+      "dose": "10 \u03bcM",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "cytosolic free calcium ([Ca2+]cyt)",
+      "effect": "elevation",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "ATP content",
+      "effect": "increase",
+      "magnitude": "unknown"
+    }
+  ]
+}

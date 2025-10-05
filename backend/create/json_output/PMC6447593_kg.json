@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC6447593",
+    "title": "Spaceflight-induced alternative splicing during seedling development in Arabidopsis thaliana",
+    "year": "2019",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Nicole S Beisel",
+    "Jerald Noble",
+    "W Brad Barbazuk",
+    "Anna-Lisa Paul",
+    "Robert J Ferl"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Kennedy Space Center (KSC)"
+    ],
+    "assays": [
+      "RNA sequencing",
+      "Presence/absence variation (PAV) analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    },
+    {
+      "agent": "ground controls",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "alternative splicing isoforms",
+      "effect": "differential expression",
+      "magnitude": "presence/absence"
+    }
+  ]
+}

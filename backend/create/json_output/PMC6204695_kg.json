@@ -1,0 +1,54 @@
+{
+  "publication": {
+    "pmc_id": "PMC6204695",
+    "title": "Modeling host-pathogen interactions in the context of the microenvironment: three-dimensional cell culture comes of age",
+    "year": "2018",
+    "journal": "Infect Immun"
+  },
+  "authors": [
+    "Barrila J",
+    "Crabb\u00e9 A",
+    "Yang J",
+    "Franco K",
+    "Nydam SD",
+    "Forsyth RJ",
+    "Davis RR",
+    "Gangaraju S",
+    "Ott CM",
+    "Coyne CB",
+    "Bissell MJ",
+    "Nickerson CA"
+  ],
+  "subjects": {
+    "species": [
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "intestinal mucosa",
+      "gut"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "rotating wall vessel (RWV)",
+      "organotypic cultures"
+    ],
+    "assays": [
+      "host-pathogen interaction assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "host-pathogen interactions",
+      "effect": "improved understanding of host-pathogen interactions",
+      "magnitude": "more accurate modeling of infection mechanisms"
+    }
+  ]
+}

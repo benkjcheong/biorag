@@ -1,0 +1,39 @@
+{
+  "publication": {
+    "pmc_id": "PMC5580210",
+    "title": "Erratum to: Whole metagenome profiles of particulates collected from the International Space Station",
+    "year": "2017",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Be NA",
+    "Avila-Herrera A",
+    "Allen JE",
+    "Singh N",
+    "Sielaff AC",
+    "Jaing C",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Microbial gene pathways observed in the whole metagenomes of ISS and SAF samples",
+      "effect": "reads matching microbial gene targets above an identity threshold of 0.9 were assigned to KEGG orthologies",
+      "magnitude": null
+    }
+  ]
+}

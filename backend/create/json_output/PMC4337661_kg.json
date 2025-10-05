@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC4337661",
+    "title": "Bone shaft bending strength index is unaffected by exercise and unloading in mice",
+    "year": "2015",
+    "journal": "J Anat"
+  },
+  "authors": [
+    "Ian J Wallace",
+    "Shikha Gupta",
+    "Jeyantt Sankaran",
+    "Brigitte Demes",
+    "Stefan Judex"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "treadmill",
+      "\u03bcCT 40 scanner"
+    ],
+    "assays": [
+      "exercise",
+      "hindlimb unloading"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "exercise",
+      "dose": null,
+      "duration": "4 weeks"
+    },
+    {
+      "agent": "hindlimb unloading",
+      "dose": null,
+      "duration": "1 month"
+    }
+  ],
+  "results": [
+    {
+      "target": "Imax and Imin",
+      "effect": "increased",
+      "magnitude": "null"
+    },
+    {
+      "target": "Imax and Imin",
+      "effect": "decreased",
+      "magnitude": "null"
+    }
+  ]
+}

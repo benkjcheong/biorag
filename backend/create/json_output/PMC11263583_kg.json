@@ -1,0 +1,73 @@
+{
+  "publication": {
+    "pmc_id": "PMC11263583",
+    "title": "Protective alleles and precision healthcare in crewed spaceflight",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Rutter, Lindsay A.",
+    "MacKay, Matthew J.",
+    "Cope, Henry",
+    "Szewczyk, Nathaniel J.",
+    "Kim, JangKeun",
+    "Overbey, Eliah",
+    "Tierney, Braden T.",
+    "Muratani, Masafumi",
+    "Lamm, Ben",
+    "Bezdan, Daniela",
+    "Paul, Amber M.",
+    "Schmidt, Michael A.",
+    "Church, George M.",
+    "Giacomello, Stefania",
+    "Mason, Christopher E."
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": [
+      "bone",
+      "muscle",
+      "cardiovascular"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "genome sequencing",
+      "omics technologies"
+    ],
+    "assays": [
+      "cancer risk assessment",
+      "nutritional analysis",
+      "exercise recommendations"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "cancer risk",
+      "effect": "decreased",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "bone health",
+      "effect": "improved",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "muscular health",
+      "effect": "improved",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "cardiovascular health",
+      "effect": "improved",
+      "magnitude": "unknown"
+    }
+  ]
+}

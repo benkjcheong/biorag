@@ -1,0 +1,40 @@
+{
+  "publication": {
+    "pmc_id": "PMC6371294",
+    "title": "FAIRness of Omics Data",
+    "year": "2018",
+    "journal": "AMIA Annu Symp Proc"
+  },
+  "authors": [
+    "Daniel C Berrios",
+    "Afshin Beheshti",
+    "Sylvain V Costes"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "GeneLab Data Systems (GLDS)",
+      "GEO",
+      "EBI PRIDE",
+      "ANL MG-RAST"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

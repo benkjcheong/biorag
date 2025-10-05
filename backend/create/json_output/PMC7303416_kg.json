@@ -1,0 +1,50 @@
+{
+  "publication": {
+    "pmc_id": "PMC7303416",
+    "title": "Draft Genome Sequences of Sphingomonas Species Associated with the International Space Station",
+    "year": "2020",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Bijlani S",
+    "Singh NK",
+    "Mason CE",
+    "Wang CCC",
+    "Venkateswaran K"
+  ],
+  "subjects": {
+    "species": [
+      "Sphingomonas sanguinis",
+      "Sphingomonas paucimobilis"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Reasoner's 2A (R2A) agar",
+      "NovaSeq 6000 S4 flow cell"
+    ],
+    "assays": [
+      "16S rRNA gene sequencing",
+      "DNA extraction",
+      "library preparation",
+      "whole-genome shotgun sequencing",
+      "genome assembly",
+      "genome annotation"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "draft genome sequences",
+      "effect": "assembled into scaffolds",
+      "magnitude": "N50 (bp) 149,509"
+    }
+  ]
+}

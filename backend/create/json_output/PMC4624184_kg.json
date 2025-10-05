@@ -1,0 +1,58 @@
+{
+  "publication": {
+    "pmc_id": "PMC4624184",
+    "title": "Microbiomes of the dust particles collected from the International Space Station and Spacecraft Assembly Facilities",
+    "year": "2015",
+    "journal": null
+  },
+  "authors": [
+    "Aleksandra Checinska",
+    "Alexander J Probst",
+    "Parag Vaishampayan",
+    "James R White",
+    "Deepika Kumar",
+    "Victor G Stepanov",
+    "George E Fox",
+    "Henrik R Nilsson",
+    "Duane L Pierson",
+    "Jay Perry",
+    "Kasthuri Venkateswaran"
+  ],
+  "subjects": {
+    "species": [
+      "Actinobacteria",
+      "Firmicutes",
+      "Proteobacteria"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "traditional cultivation",
+      "adenosine triphosphate (ATP)",
+      "propidium monoazide\u2013quantitative polymerase chain reaction (PMA-qPCR)"
+    ],
+    "assays": [
+      "16S rRNA gene Illumina iTag sequencing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "viable microbial populations",
+      "effect": "dominant in ISS samples",
+      "magnitude": null
+    },
+    {
+      "target": "microbial diversity and composition",
+      "effect": "differences between ISS and cleanroom microbiomes",
+      "magnitude": null
+    }
+  ]
+}

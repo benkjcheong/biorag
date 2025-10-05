@@ -1,0 +1,52 @@
+{
+  "publication": {
+    "pmc_id": "PMC10719374",
+    "title": "Explainable machine learning identifies multi-omics signatures of muscle response to spaceflight in mice",
+    "year": "2023",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Li, Kevin",
+    "Desai, Riya",
+    "Scott, Ryan T.",
+    "Steele, Joel Ricky",
+    "Machado, Meera",
+    "Demharter, Samuel",
+    "Hoarfrost, Adrienne",
+    "Braun, Jessica L.",
+    "Fajardo, Val A.",
+    "Sanders, Lauren M.",
+    "Costes, Sylvain V."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "soleus",
+      "tibialis anterior"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "osdr.nasa.gov"
+    ],
+    "assays": [
+      "calcium reuptake measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "calcium reuptake",
+      "effect": "muscle atrophy",
+      "magnitude": "Acyp1 and Rps7 proteins"
+    }
+  ]
+}

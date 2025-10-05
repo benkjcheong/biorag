@@ -1,0 +1,49 @@
+{
+  "publication": {
+    "pmc_id": "PMC4012541",
+    "title": "Molecular mechanisms underlying the enhanced functions of three-dimensional hepatocyte aggregates",
+    "year": "2014",
+    "journal": "Biomaterials"
+  },
+  "authors": [
+    "Tammy T Chang",
+    "Millie Hughes-Fulford"
+  ],
+  "subjects": {
+    "species": [
+      "mouse"
+    ],
+    "tissues": [
+      "hepatocytes"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "tissue culture dishes (TCD)",
+      "rotating wall vessel (RWV)"
+    ],
+    "assays": [
+      "albumin ELISA",
+      "EROD assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "albumin concentration",
+      "effect": "increased",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "cytochrome P450 1a1 activity",
+      "effect": "increased",
+      "magnitude": "not specified"
+    }
+  ]
+}

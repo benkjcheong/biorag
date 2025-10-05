@@ -1,0 +1,83 @@
+{
+  "publication": {
+    "pmc_id": "PMC5443495",
+    "title": "Spaceflight-induced immune dysfunction linked to systemic changes in metabolism",
+    "year": "2017",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Pecaut, Michael J.",
+    "Mao, Xiao Wen",
+    "Bellinger, Denise L.",
+    "Jonscher, Karen R.",
+    "Stodieck, Louis S.",
+    "Ferguson, Virginia L.",
+    "Bateman, Ted A.",
+    "Mohney, Robert P.",
+    "Gridley, Daila S."
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6J mice",
+      "female C57BL/6J mice"
+    ],
+    "tissues": [
+      "spleen",
+      "adrenal glands",
+      "liver"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "KSC facility",
+      "Bio-specimen Sharing Program (BSP)"
+    ],
+    "assays": [
+      "cell phenotype distributions",
+      "phagocytic function",
+      "catecholamine levels",
+      "corticosterone levels",
+      "gene expression analysis",
+      "metabolomics"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "placebo",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "immune function",
+      "effect": "decreased immune populations",
+      "magnitude": null
+    },
+    {
+      "target": "ROS activity",
+      "effect": "increased ROS-related activity",
+      "magnitude": null
+    },
+    {
+      "target": "corticosterone levels",
+      "effect": "increases in corticosterone levels",
+      "magnitude": null
+    },
+    {
+      "target": "catecholamine levels",
+      "effect": "no significant changes in catecholamine levels",
+      "magnitude": null
+    },
+    {
+      "target": "gene expression",
+      "effect": "changes in gene expression related to phagocytosis",
+      "magnitude": null
+    },
+    {
+      "target": "metabolomics",
+      "effect": "changes in metabolomic profiles",
+      "magnitude": null
+    }
+  ]
+}

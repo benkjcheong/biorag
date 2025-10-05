@@ -1,0 +1,47 @@
+{
+  "publication": {
+    "pmc_id": "PMC8024390",
+    "title": "ARG1 Functions in the Physiological Adaptation of Undifferentiated Plant Cells to Spaceflight",
+    "year": "2017",
+    "journal": "Astrobiology"
+  },
+  "authors": [
+    "Agata K Zupanska",
+    "Eric R Schultz",
+    "JiQiang Yao",
+    "Natasha J Sng",
+    "Mingqi Zhou",
+    "Jordan B Callaham",
+    "Robert J Ferl",
+    "Anna-Lisa Paul"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Spaceflight",
+      "Ground"
+    ],
+    "assays": [
+      "Transcriptome profiling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "altered",
+      "magnitude": "significant"
+    }
+  ]
+}

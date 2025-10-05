@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC6452512",
+    "title": "Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces",
+    "year": "2019",
+    "journal": "Microbiome"
+  },
+  "authors": [
+    "Checinska Sielaff, Aleksandra",
+    "Urbaniak, Camilla",
+    "Mohan, Ganesh Babu Malli",
+    "Stepanov, Victor G",
+    "Tran, Quyen",
+    "Wood, Jason M",
+    "Minich, Jeremiah",
+    "McDonald, Daniel",
+    "Mayer, Teresa",
+    "Knight, Rob",
+    "Karouia, Fathi",
+    "Fox, George E",
+    "Venkateswaran, Kasthuri"
+  ],
+  "subjects": {
+    "species": [
+      "Bacteria",
+      "Fungi"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station surfaces",
+      "Earth-based samples"
+    ],
+    "assays": [
+      "Culture methods",
+      "Amplicon sequencing",
+      "qPCR"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Bacterial and fungal population",
+      "effect": "Ranging from 104 to 109 CFU/m2",
+      "magnitude": "Wide range of counts"
+    },
+    {
+      "target": "Community composition",
+      "effect": "Changes over time but remained similar between locations",
+      "magnitude": "Varied bacterial and fungal phyla"
+    }
+  ]
+}

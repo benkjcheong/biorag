@@ -1,0 +1,44 @@
+{
+  "publication": {
+    "pmc_id": "PMC9695138",
+    "title": "Lipid Rafts and Plant Gravisensitivity",
+    "year": "2022",
+    "journal": "Life (Basel)"
+  },
+  "authors": [
+    "Elizabeth L Kordyum",
+    "Olga A Artemenko",
+    "Karl H Hasenstein"
+  ],
+  "subjects": {
+    "species": [
+      "pea"
+    ],
+    "tissues": [
+      "cell membrane"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "clinorotation"
+    ],
+    "assays": [
+      "fluorescence polarization microscopy",
+      "lipid-sensitive stains"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "clinorotation",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "membrane permeability",
+      "effect": "increased rigidity and reduced membrane permeability",
+      "magnitude": "enhanced saturated fatty acid content"
+    }
+  ]
+}

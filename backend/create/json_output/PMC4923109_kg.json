@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC4923109",
+    "title": "Cultivation of Staphylococcus epidermidis in the Human Spaceflight Environment Leads to Alterations in the Frequency and Spectrum of Spontaneous Rifampicin-Resistance Mutations in the rpoB Gene",
+    "year": "2016",
+    "journal": "Frontiers in Microbiology"
+  },
+  "authors": [
+    "Fajardo-Cavazos, Patricia",
+    "Nicholson, Wayne L."
+  ],
+  "subjects": {
+    "species": [
+      "Staphylococcus epidermidis",
+      "S. aureus MRSA"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station (ISS)",
+      "Environmental Simulator at Kennedy Space Center"
+    ],
+    "assays": [
+      "rifampicin resistance assay",
+      "mutation frequency assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "none",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "rpoB gene mutations",
+      "effect": "increased mutation frequency and altered spectrum of resistance",
+      "magnitude": "significant difference in mutation frequency and spectrum"
+    }
+  ]
+}

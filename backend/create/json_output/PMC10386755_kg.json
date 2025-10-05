@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC10386755",
+    "title": "Sequencing the Genomes of the First Terrestrial Fungal Lineages: What Have We Learned?",
+    "year": "2023",
+    "journal": "Microorganisms"
+  },
+  "authors": [
+    "Andrii P Gryganskyi",
+    "Jacob Golan",
+    "Anna Muszewska",
+    "Alexander Idnurm",
+    "Somayeh Dolatabadi",
+    "Stephen J Mondo",
+    "Vira B Kutovenko",
+    "Volodymyr O Kutovenko",
+    "Michael T Gajdeczka",
+    "Iryna M Anishchenko",
+    "Julia Pawlowska",
+    "Ngoc Vinh Tran",
+    "Ingo Ebersberger",
+    "Kerstin Voigt",
+    "Yan Wang",
+    "Ying Chang",
+    "Teresa E Pawlowska",
+    "Joseph Heitman",
+    "Rytas Vilgalys",
+    "Gregory Bonito",
+    "Gerald L Benny",
+    "Matthew E Smith",
+    "Nicole Reynolds",
+    "Timothy Y James",
+    "Igor V Grigoriev",
+    "Joseph W Spatafora",
+    "Jason E Stajich"
+  ],
+  "subjects": {
+    "species": [
+      "Fungi"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": "None",
+      "duration": "None"
+    }
+  ],
+  "results": [
+    {
+      "target": "None",
+      "effect": "None",
+      "magnitude": "None"
+    }
+  ]
+}

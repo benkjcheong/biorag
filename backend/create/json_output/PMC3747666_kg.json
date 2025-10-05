@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC3747666",
+    "title": "Increasing the Number of Unloading/Reambulation Cycles does not Adversely Impact Body Composition and Lumbar Bone Mineral Density but Reduces Tissue Sensitivity",
+    "year": "2013",
+    "journal": "Acta Astronaut"
+  },
+  "authors": [
+    "Gupta, Shikha",
+    "Manske, Sarah L",
+    "Judex, Stefan"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6"
+    ],
+    "tissues": [
+      "adipose tissue",
+      "muscle",
+      "bone"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "hindlimb unloading (HLU)",
+      "reambulation (RA)"
+    ],
+    "assays": [
+      "\u00b5CT imaging"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "hindlimb unloading",
+      "dose": null,
+      "duration": "2 weeks"
+    },
+    {
+      "agent": "reambulation",
+      "dose": null,
+      "duration": "4 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "abdominal adipose tissue",
+      "effect": "decreased",
+      "magnitude": null
+    },
+    {
+      "target": "lumbar bone mineral density",
+      "effect": "no significant change",
+      "magnitude": null
+    },
+    {
+      "target": "upper hindlimb muscle cross-sectional area",
+      "effect": "decreased",
+      "magnitude": null
+    }
+  ]
+}

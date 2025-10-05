@@ -1,0 +1,65 @@
+{
+  "publication": {
+    "pmc_id": "PMC5477841",
+    "title": "Spaceflight-Induced Bone Loss Alters Failure Mode and Reduces Bending Strength in Murine Spinal Segments",
+    "year": "2016",
+    "journal": "Journal of Orthopaedic Research"
+  },
+  "authors": [
+    "Britta Berg-Johansen",
+    "Ellen C Liebenberg",
+    "Alfred Li",
+    "Brandon R Macias",
+    "Alan R Hargens",
+    "Jeffrey C Lotz"
+  ],
+  "subjects": {
+    "species": [
+      "C57BL/6 mouse"
+    ],
+    "tissues": [
+      "spinal discs",
+      "vertebrae"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "Bion M1 mission",
+      "ground control vivarium"
+    ],
+    "assays": [
+      "four-point bending",
+      "histology",
+      "micro-computed tomography (\u03bcCT)"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "30 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "force-displacement curve",
+      "effect": "shorter toe region",
+      "magnitude": "32%"
+    },
+    {
+      "target": "bending strength",
+      "effect": "reduction",
+      "magnitude": "17%"
+    },
+    {
+      "target": "failure location",
+      "effect": "epiphysis and growth plate",
+      "magnitude": null
+    },
+    {
+      "target": "vertebral bone properties",
+      "effect": "reduced volume fraction, density, and thickness",
+      "magnitude": null
+    }
+  ]
+}

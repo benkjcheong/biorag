@@ -1,0 +1,76 @@
+{
+  "publication": {
+    "pmc_id": "PMC11166909",
+    "title": "Spatial multi-omics of human skin reveals KRAS and inflammatory responses to spaceflight",
+    "year": "2024",
+    "journal": "Nature Communications"
+  },
+  "authors": [
+    "Park Jiwoon",
+    "Overbey Eliah G",
+    "Narayanan S Anand",
+    "Kim JangKeun",
+    "Tierney Braden T",
+    "Damle Namita",
+    "Najjar Deena",
+    "Ryon Krista A",
+    "Proszynski Jacqueline",
+    "Kleinman Ashley",
+    "Hirschberg Jeremy Wain",
+    "MacKay Matthew",
+    "Afshin E Afshin",
+    "Granstein Richard",
+    "Gurvitch Justin",
+    "Hudson Briana M",
+    "Rininger Aric",
+    "Mullane Sean",
+    "Church Sarah E",
+    "Meydan Cem",
+    "Church George",
+    "Beheshti Afshin",
+    "Mateus Jaime",
+    "Mason Christopher E"
+  ],
+  "subjects": {
+    "species": [
+      "Homo sapiens"
+    ],
+    "tissues": [
+      "skin"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "GeoMx\u2122 Digital Spatial Profiler",
+      "single-cell RNA/ATAC-seq",
+      "metagenomics/metatranscriptomics"
+    ],
+    "assays": [
+      "Gene expression analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": "short-duration"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "upregulation",
+      "magnitude": "significant"
+    },
+    {
+      "target": "inflammatory responses",
+      "effect": "increased",
+      "magnitude": "observed"
+    },
+    {
+      "target": "KRAS signaling",
+      "effect": "activated",
+      "magnitude": "upregulated"
+    }
+  ]
+}

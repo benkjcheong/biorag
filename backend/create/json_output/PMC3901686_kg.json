@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC3901686",
+    "title": "Toll Mediated Infection Response Is Altered by Gravity and Spaceflight in Drosophila",
+    "year": "2014",
+    "journal": "PLOS ONE"
+  },
+  "authors": [
+    "Taylor, Katherine",
+    "Kleinhesselink, Kurt",
+    "George, Michael D.",
+    "Morgan, Rachel",
+    "Smallwood, Tangi",
+    "Hammonds, Ann S.",
+    "Fuller, Patrick M.",
+    "Saelao, Perot",
+    "Alley, Jeff",
+    "Gibbs, Allen G.",
+    "Hoshizaki, Deborah K.",
+    "von Kalm, Laurence",
+    "Fuller, Charles A.",
+    "Beckingham, Kathleen M.",
+    "Kimbrell, Deborah A."
+  ],
+  "subjects": {
+    "species": [
+      "Drosophila melanogaster"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Earth",
+      "microgravity"
+    ],
+    "assays": [
+      "transcription profiling"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "null",
+      "dose": "null",
+      "duration": "null"
+    }
+  ],
+  "results": [
+    {
+      "target": "Toll pathway activation",
+      "effect": "altered response to fungal infection",
+      "magnitude": "null"
+    },
+    {
+      "target": "heat shock stress system",
+      "effect": "activation in spaceflight",
+      "magnitude": "null"
+    },
+    {
+      "target": "Imd pathway activation",
+      "effect": "normal response to bacterial infection",
+      "magnitude": "null"
+    }
+  ]
+}

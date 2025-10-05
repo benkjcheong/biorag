@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC7118179",
+    "title": "Identification of metagenome-assembled genomes containing antimicrobial resistance genes, isolated from an advanced water treatment facility",
+    "year": "2020",
+    "journal": "Microbiol Resour Announc"
+  },
+  "authors": [
+    "Stamps",
+    "Spear"
+  ],
+  "subjects": {
+    "species": [
+      "Mycobacterium",
+      "Polynucleobacter",
+      "Tolumonas",
+      "Cyclobacteriaceae",
+      "Novosphingobium",
+      "Pseudoxanthomonas",
+      "Nitrosomonas",
+      "Burkholderiaceae",
+      "Moranbacterales",
+      "Rhodocyclaceae",
+      "Ottowia"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "LVC dialysis filter cartridge system",
+      "BashingBead lysis tubes",
+      "Zymo Microbiomics DNA/RNA coextraction kit",
+      "Nextera XT library prep kit",
+      "Illumina HiSeq 3000 instrument",
+      "SE100 chemistry",
+      "Bowtie 2 v2.3.4.1",
+      "Anvi'o v v5 and CONCOCT",
+      "DeepARG",
+      "GTDB-Tk v0.3.0"
+    ],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "185 open reading frames putatively identified as antimicrobial resistance genes",
+      "effect": "identified",
+      "magnitude": "not specified"
+    }
+  ]
+}

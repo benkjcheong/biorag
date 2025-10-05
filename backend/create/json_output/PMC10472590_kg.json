@@ -1,0 +1,53 @@
+{
+  "publication": {
+    "pmc_id": "PMC10472590",
+    "title": "Revisiting the limits of plant life - plant adaptations to extreme terrestrial environments relating to astrobiology and space biology",
+    "year": "2023",
+    "journal": "Frontiers in Plant Science"
+  },
+  "authors": [
+    "Agata K Zupanska",
+    "Carmen Arena",
+    "Gustavo E Zu\u00f1iga",
+    "Angelica Casanova-Katny",
+    "Johanna D Turnbull",
+    "Le\u00f3n A Bravo",
+    "Patricio Ramos",
+    "Hang Sun",
+    "Vladimir V Shishov"
+  ],
+  "subjects": {
+    "species": [
+      "plants"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "simulated deep space environments"
+    ],
+    "assays": [
+      "co-culturing",
+      "CT scans"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "cosmic ionizing radiation",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "plant survival and growth",
+      "effect": "increased survival rate",
+      "magnitude": "improved biomass, antioxidant content, and nutritional quality"
+    },
+    {
+      "target": "seedling emergence",
+      "effect": "higher seedling emergence rates",
+      "magnitude": "greater porosity and lower compactness of the growth medium"
+    }
+  ]
+}

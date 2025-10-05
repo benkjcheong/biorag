@@ -1,0 +1,72 @@
+{
+  "publication": {
+    "pmc_id": "PMC5460263",
+    "title": "Modeling intestinal infection with NASA biotechnology: A new 3-D intestinal co-culture model with macrophages to study enteric infection",
+    "year": "2017",
+    "journal": "NPJ Microgravity"
+  },
+  "authors": [
+    "Jennifer Barrila",
+    "Jiseon Yang",
+    "Aur\u00e9lie Crabb\u00e9",
+    "Shameema F Sarker",
+    "Yulong Liu",
+    "C Mark Ott",
+    "Mayra A Nelman-Gonzalez",
+    "Simon J Clemett",
+    "Seth D Nydam",
+    "Rebecca J Forsyth",
+    "Richard R Davis",
+    "Brian E Crucian",
+    "Heather Quiriarte",
+    "Kenneth L Roland",
+    "Karen Brenneman",
+    "Clarence Sams",
+    "Christine Loscher",
+    "Cheryl A Nickerson",
+    "School of Life Sciences, Arizona State University, Tempe, AZ USA"
+  ],
+  "subjects": {
+    "species": [
+      "Salmonella enterica",
+      "HT-29"
+    ],
+    "tissues": [
+      "intestinal epithelial cells",
+      "macrophages"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "NASA Rotating Wall Vessel bioreactor"
+    ],
+    "assays": [
+      "immunohistochemical profiling",
+      "bead uptake assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "Salmonella colonization",
+      "effect": "decreased in co-culture (HT-29-U937) relative to epithelial (HT-29) models",
+      "magnitude": "reduced colonization rates"
+    },
+    {
+      "target": "macrophage phagocytic activity",
+      "effect": "confirmed by uptake of inert, bacteria-sized beads",
+      "magnitude": null
+    },
+    {
+      "target": "pathovar-specific differences in colonization and intracellular co-localization patterns",
+      "effect": "observed",
+      "magnitude": null
+    }
+  ]
+}

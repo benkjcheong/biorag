@@ -1,0 +1,60 @@
+{
+  "publication": {
+    "pmc_id": "PMC4936552",
+    "title": "A ROS-Assisted Calcium Wave Dependent on the AtRBOHD NADPH Oxidase and TPC1 Cation Channel Propagates the Systemic Response to Salt Stress",
+    "year": "2016",
+    "journal": "Plant Physiology"
+  },
+  "authors": [
+    "Matthew J Evans",
+    "Won-Gyu Choi",
+    "Richard J Morris",
+    "Simon Gilroy"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": [
+      "root"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "imaging experiments"
+    ],
+    "assays": [
+      "Ca2+ wave propagation analysis",
+      "ROS measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "ascorbate",
+      "dose": "100 \u03bcm",
+      "duration": "unknown"
+    },
+    {
+      "agent": "diphenyliodonium (DPI)",
+      "dose": "25 \u03bcm",
+      "duration": "unknown"
+    },
+    {
+      "agent": "ascorbate",
+      "dose": "100 \u03bcm",
+      "duration": "unknown"
+    }
+  ],
+  "results": [
+    {
+      "target": "Ca2+ wave propagation",
+      "effect": "reduced speed",
+      "magnitude": "unknown"
+    },
+    {
+      "target": "extracellular ROS production",
+      "effect": "systemic spread",
+      "magnitude": "unknown"
+    }
+  ]
+}

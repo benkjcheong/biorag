@@ -1,0 +1,61 @@
+{
+  "publication": {
+    "pmc_id": "PMC9582271",
+    "title": "Leptin and environmental temperature as determinants of bone marrow adiposity in female mice",
+    "year": "2022",
+    "journal": "Frontiers in Endocrinology"
+  },
+  "authors": [
+    "Turner, Russell T",
+    "Nesser, Kira L",
+    "Philbrick, Kenneth A",
+    "Wong, Carmen P",
+    "Olson, Dawn A",
+    "Branscum, Adam J",
+    "Iwaniec, Urszula T"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "bone marrow adipose tissue"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "subcutaneous osmotic pump",
+      "necroscopy"
+    ],
+    "assays": [
+      "serum leptin measurement",
+      "Ucp1 expression analysis",
+      "percent body fat measurement",
+      "abdominal WAT mass measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "leptin",
+      "dose": "10 \u00b5g/d",
+      "duration": "2 weeks"
+    }
+  ],
+  "results": [
+    {
+      "target": "serum leptin",
+      "effect": "not significantly different from ad lib mice",
+      "magnitude": null
+    },
+    {
+      "target": "BMAT",
+      "effect": "lower in leptin-supplemented mice compared to ad lib mice",
+      "magnitude": null
+    },
+    {
+      "target": "bone formation",
+      "effect": "higher in leptin-supplemented mice compared to ad lib mice",
+      "magnitude": null
+    }
+  ]
+}

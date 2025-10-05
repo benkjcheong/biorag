@@ -1,0 +1,43 @@
+{
+  "publication": {
+    "pmc_id": "PMC3593973",
+    "title": "Chimeras reveal a single lipid-interface residue that controls MscL channel kinetics as well as mechanosensitivity",
+    "year": "2013",
+    "journal": "Cell Reports"
+  },
+  "authors": [
+    "Li-Min Yang",
+    "Dalian Zhong",
+    "Paul Blount"
+  ],
+  "subjects": {
+    "species": [
+      "E. coli",
+      "S. aureus"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [],
+    "assays": []
+  },
+  "treatments": [
+    {
+      "agent": null,
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "open dwell time",
+      "effect": "altered",
+      "magnitude": "significant change"
+    },
+    {
+      "target": "threshold of activation",
+      "effect": "altered",
+      "magnitude": "significant change"
+    }
+  ]
+}

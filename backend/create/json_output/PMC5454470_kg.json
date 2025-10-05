@@ -1,0 +1,51 @@
+{
+  "publication": {
+    "pmc_id": "PMC5454470",
+    "title": "Spaceflight-induced synaptic modifications within hair cells of the mammalian utricle",
+    "year": "2017",
+    "journal": "Journal of Neurophysiology"
+  },
+  "authors": [
+    "Sultemeier, David R.",
+    "Choy, Kristel R.",
+    "Schweizer, Felix E.",
+    "Hoffman, Larry F."
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "utricle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "space shuttle",
+      "Earth-bound controls"
+    ],
+    "assays": [
+      "immunohistochemistry",
+      "volumetric image analyses"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "Spaceflight",
+      "dose": null,
+      "duration": "15 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "synapse density",
+      "effect": "decreased",
+      "magnitude": "not specified"
+    },
+    {
+      "target": "utricular region",
+      "effect": "medial extrastriolae",
+      "magnitude": "decreased"
+    }
+  ]
+}

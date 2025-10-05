@@ -1,0 +1,67 @@
+{
+  "publication": {
+    "pmc_id": "PMC5865701",
+    "title": "Vive la radior\u00e9sistance!: converging research in radiobiology and biogerontology to enhance human radioresistance for deep space exploration and colonization",
+    "year": "2018",
+    "journal": "Oncotarget"
+  },
+  "authors": [
+    "Franco Cortese",
+    "Dmitry Klokov",
+    "Andreyan Osipov",
+    "Jakub Stefaniak",
+    "Alexey Moskalev",
+    "Jane Schastnaya",
+    "Charles Cantor",
+    "Alexander Aliper",
+    "Polina Mamoshina",
+    "Igor Ushakov",
+    "Alex Sapetsky",
+    "Quentin Vanhaelen",
+    "Irina Alchinova",
+    "Mikhail Karganov",
+    "Olga Kovalchuk",
+    "Ruth Wilkins",
+    "Andrey Shtemberg",
+    "Marjan Moreels",
+    "Sarah Baatout",
+    "Evgeny Izumchenko",
+    "Jo\u00e3o Pedro de Magalh\u00e3es",
+    "Artem V Artemov",
+    "Sylvain V Costes",
+    "Afshin Beheshti",
+    "Xiao Wen Mao",
+    "Michael J Pecaut",
+    "Dmitry Kaminskiy",
+    "Ivan V Ozerov",
+    "Morten Scheibye-Knudsen",
+    "Alex Zhavoronkov"
+  ],
+  "subjects": {
+    "species": [],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "PMC"
+    ],
+    "assays": [
+      "assay_type1",
+      "assay_type2"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "treatment_agent",
+      "dose": "dose_amount dose_unit",
+      "duration": "duration_amount duration_unit"
+    }
+  ],
+  "results": [
+    {
+      "target": "measured_target",
+      "effect": "observed_effect",
+      "magnitude": "effect_size"
+    }
+  ]
+}

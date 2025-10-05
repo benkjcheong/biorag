@@ -1,0 +1,48 @@
+{
+  "publication": {
+    "pmc_id": "PMC5996828",
+    "title": "Phenotypic characterization of an Arabidopsis T-DNA insertion line SALK_063500",
+    "year": "2018",
+    "journal": "Data Brief"
+  },
+  "authors": [
+    "Sng, Natasha J",
+    "Paul, Anna-Lisa",
+    "Ferl, Robert J"
+  ],
+  "subjects": {
+    "species": [
+      "Arabidopsis thaliana"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "DNA-PCR",
+      "Quantitative Realtime PCR (qPCR)",
+      "Image J analyses"
+    ],
+    "assays": [
+      "Pollen tube germination assay"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "None",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "salique phenotype",
+      "effect": "aberrant silique phenotype",
+      "magnitude": "reduced rate of pollen tube germination"
+    },
+    {
+      "target": "pollen tube germination",
+      "effect": "altered pollen tube germination rates",
+      "magnitude": "significant difference in germination rates"
+    }
+  ]
+}

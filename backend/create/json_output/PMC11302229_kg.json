@@ -1,0 +1,46 @@
+{
+  "publication": {
+    "pmc_id": "PMC11302229",
+    "title": "Identification and characterization of a skin microbiome on Caenorhabditis elegans suggests environmental microbes confer cuticle protection",
+    "year": "2024",
+    "journal": "Microbiol Spectr."
+  },
+  "authors": [
+    "Haghani, Nadia B.",
+    "Lampe, Robert H.",
+    "Samuel, Buck S.",
+    "Chalasani, Sreekanth H.",
+    "Matty, Molly A."
+  ],
+  "subjects": {
+    "species": [
+      "Caenorhabditis elegans"
+    ],
+    "tissues": [
+      "cuticle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "microbiological methods",
+      "micro skin-swabbing tool"
+    ],
+    "assays": [
+      "16S rRNA gene sequencing"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "mCeMbio",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "cuticle integrity",
+      "effect": "protection from noxious environments",
+      "magnitude": null
+    }
+  ]
+}

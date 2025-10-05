@@ -1,0 +1,64 @@
+{
+  "publication": {
+    "pmc_id": "PMC7012842",
+    "title": "Validation of a New Rodent Experimental System to Investigate Consequences of Long Duration Space Habitation",
+    "year": "2020",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Sungshin Y Choi",
+    "Amanda Saravia-Butler",
+    "Yasaman Shirazi-Fard",
+    "Dennis Leveson-Gower",
+    "Louis S Stodieck",
+    "Samuel M Cadena",
+    "Janet Beegle",
+    "Stephanie Solis",
+    "April Ronca",
+    "Ruth K Globus"
+  ],
+  "subjects": {
+    "species": [
+      "mice"
+    ],
+    "tissues": [
+      "liver",
+      "spleen",
+      "thymus",
+      "soleus muscle"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "International Space Station"
+    ],
+    "assays": [
+      "RNA analysis",
+      "enzyme activity assays"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": "duration of spaceflight (21/22d or 37d)",
+      "duration": "21/22 days or 37 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "liver mass",
+      "effect": "increased",
+      "magnitude": "33%"
+    },
+    {
+      "target": "enzyme activity",
+      "effect": "elevated",
+      "magnitude": null
+    },
+    {
+      "target": "thymus weight",
+      "effect": "greater",
+      "magnitude": "35%"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "publication": {
+    "pmc_id": "PMC3639165",
+    "title": "Spaceflight Promotes Biofilm Formation by Pseudomonas aeruginosa",
+    "year": "2013",
+    "journal": "PLOS One"
+  },
+  "authors": [
+    "Kim Wooseong",
+    "Tengra Farah K",
+    "Young Zachary",
+    "Shong Jasmine",
+    "Marchand Nicholas",
+    "Chan Hon Kit",
+    "Pangule Ravindra C",
+    "Parra Macarena",
+    "Dordick Jonathan S",
+    "Plawsky Joel L",
+    "Collins Cynthia H"
+  ],
+  "subjects": {
+    "species": [
+      "Pseudomonas aeruginosa"
+    ],
+    "tissues": []
+  },
+  "methods": {
+    "platforms": [
+      "Space Shuttle Atlantis"
+    ],
+    "assays": [
+      "biofilm formation",
+      "viable cell count",
+      "biomass measurement",
+      "thickness measurement"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "spaceflight",
+      "dose": null,
+      "duration": null
+    }
+  ],
+  "results": [
+    {
+      "target": "biofilm formation",
+      "effect": "increased",
+      "magnitude": "higher biomass and thickness"
+    },
+    {
+      "target": "motility",
+      "effect": "essential for architecture formation",
+      "magnitude": null
+    }
+  ]
+}

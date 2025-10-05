@@ -1,0 +1,59 @@
+{
+  "publication": {
+    "pmc_id": "PMC9547011",
+    "title": "Multi-omics analysis of the murine retina response to chronic low-dose irradiation and simulated microgravity",
+    "year": "2022",
+    "journal": "Scientific Reports"
+  },
+  "authors": [
+    "Kothiyal, Prachi",
+    "Eley, Greg",
+    "Ilangovan, Hari",
+    "Hoadley, Katherine A",
+    "Elgart, S Robin",
+    "Mao, Xiao W",
+    "Eslami, Parastou"
+  ],
+  "subjects": {
+    "species": [
+      "Mus musculus"
+    ],
+    "tissues": [
+      "retina"
+    ]
+  },
+  "methods": {
+    "platforms": [
+      "RNA-seq",
+      "RRBS"
+    ],
+    "assays": [
+      "gene expression analysis",
+      "DNA methylation analysis"
+    ]
+  },
+  "treatments": [
+    {
+      "agent": "gamma irradiation",
+      "dose": "low-dose",
+      "duration": "21 days"
+    },
+    {
+      "agent": "hindlimb unloading",
+      "dose": "unloaded",
+      "duration": "21 days"
+    }
+  ],
+  "results": [
+    {
+      "target": "gene expression",
+      "effect": "differential expression",
+      "magnitude": "significant changes"
+    },
+    {
+      "target": "DNA methylation",
+      "effect": "differential methylation",
+      "magnitude": "differentially methylated loci"
+    }
+  ]
+}
